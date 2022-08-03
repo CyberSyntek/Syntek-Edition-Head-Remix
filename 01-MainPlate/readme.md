@@ -13,3 +13,6 @@
 - RotNeckGear
 
 *TO BE UPDATED*
+- Component List / Screw Sizes
+
+- Image Files
