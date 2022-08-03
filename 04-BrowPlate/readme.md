@@ -1,4 +1,9 @@
 *TO BE UPDATED*
+- Upload Missing parts once complete
+
+- Component List / Screw Sizes
+
+- Image Files
 
 MISSING
 
