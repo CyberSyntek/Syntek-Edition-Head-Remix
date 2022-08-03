@@ -1,1 +1,18 @@
+///PARTS///
+- BallLinkConnector
+
+- Hinge-L
+
+- Hinge-R
+
+- HingeBase
+
+- HingeCover
+
+- HingeLink
+
+- Jaw
+
+- ServoConnector-x2
+
 *TO BE UPDATED*
