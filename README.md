@@ -20,6 +20,8 @@ If you were unfamiliar with InMoov robot and or are now more curious about it, y
 WHAT IS THE SYNTEK EDITION REMIXED HEAD?
 = 
 
+*INSERT IMAGE OR VIDEO HERE* 
+
 It is a mostly magnetically held remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. This head is controlled via a PCA9685 micro controller, an Arduino Nano and MYROBOTLAB and can be built to function independently or as part of your InMoov robot. 
 
 FIRST TIME USING A PCA9865 AND MYROBOTLAB?
