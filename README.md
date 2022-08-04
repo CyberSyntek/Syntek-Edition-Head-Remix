@@ -20,6 +20,16 @@ Here you will find the Syntek edition remixed head files, info to get it running
 
 - x4 - Du-Bro E-Z Connectors With Re-Usable Nylon Snap Ons - https://a.co/d/9076KMQ
 
+- x1 - Y Servo Splitter Cable (Male to x2 Female) -  https://a.co/d/4Yzls2i
+
+SERVOS
+=
+- x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
+
+
+
+
+
 ================================================================================
 
 PUPIL CAMERA RELATED ITEMS
@@ -70,3 +80,7 @@ Other options of that brand would be to get a pack of each of the sizes used if 
 - x22 - Neodymium Magnets (10x3mm) - https://a.co/d/eTazw7q
 
 - x4 - Neodymium Magnets (6x3mm) - https://a.co/d/bWqNBsL
+
+OTHER
+=
+- Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
