@@ -38,22 +38,6 @@ No problem! Here is my "Beginners guide to moving servos with a PCA9685 and MYRO
 
 And while we are at it, here is a bonus link to the MYROBOTLAB (MRL) homepage: http://myrobotlab.org/
 
-UPDATES
-= 
-*TO BE UPDATED*
-
-===========================================================================
-
-- This page is created and initially updated.
-
-- Most of the current files are uploaded here with the exception of two eyebrow related parts I need to adjust. 
-
-- It is possible to print and use the head with the currenly available uploaded parts without eyebrows till those parts are finished if wishing to do so. 
-
--08/04/2022
-
-===========================================================================
-
 -BOM- 
 =
 #Note - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
@@ -103,6 +87,7 @@ The MG90D servos are doing the job just fine, though I am noticing the jaw begin
 
 PUPIL CAMERA RELATED ITEMS
 =
+![PupilCam](https://user-images.githubusercontent.com/81597534/182968849-65f36cae-66c5-4d69-b311-3d425277dec8.png)
 
 #Note - Coming from the original Inmoov USB webcam pupil camera setup, I had decided I would stick with that route for my current pupil camera setup also by converting a Raspberry Pi Zero W into a webcam and using it in the same fashion. This isn't the most cost effective route for doing these things, but the size of the camera modules I found worked for the job. I am sure there are other options out there and I do plan on formatting the eyeball camera inserts for at least one other type of raspberry pi spy camera and will update those files here with a potential set up description when I have completed them. 
 
@@ -156,3 +141,20 @@ OTHER
 =
 - Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
 
+- UPDATE
+
+UPDATES
+= 
+*TO BE UPDATED*
+
+===========================================================================
+
+- This page is created and initially updated.
+
+- Most of the current files are uploaded here with the exception of two eyebrow related parts I need to adjust. 
+
+- It is possible to print and use the head with the currenly available uploaded parts without eyebrows till those parts are finished if wishing to do so. 
+
+-08/04/2022
+
+===========================================================================
