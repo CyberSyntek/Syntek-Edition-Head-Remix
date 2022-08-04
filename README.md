@@ -2,6 +2,13 @@
 UPDATING RIGHT NOW!!!!
 =
 
+WHAT IS THE SYNTEK EDITION REMIXED HEAD?
+= 
+
+This is a remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. 
+
+(!!!Insert write up here once finished!!!) :9 
+
 # Syntek-Edition-Head-Remix
 Here you will find the Syntek edition remixed head files, info to get it running and updates as they come.
 
@@ -12,7 +19,12 @@ Here you will find the Syntek edition remixed head files, info to get it running
 *TO BE UPDATED*
 - ALOT! :D
 
-////BOM//// - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
+-BOM- 
+=
+#Note - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
+
+HARDWARE
+=
 
 - x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
 
