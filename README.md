@@ -1,24 +1,44 @@
+ABOUT
+=
+
+Here on this page you will find all of the Syntek edition remixed head files, information to get it running and further updates as they come.
+
 WHAT IS SYNTEK?
 =
 An introduction to Syntek and InMoov Robot.
 
 https://user-images.githubusercontent.com/81597534/182945941-7be97dca-e8e5-45d9-b666-c8eca6ea6b64.mp4
 
+WHAT IS INMOOV?
+= 
 
+If you are unfamiliar with Inmoov Robot at this point, you should head over to the InMoov website and find out!
 
+![Inmoovhomepage](https://user-images.githubusercontent.com/81597534/182956653-22bd5be5-dd2f-44b9-a1f5-d61002d9dd43.PNG)
+
+www.inmoov.fr
 
 WHAT IS THE SYNTEK EDITION REMIXED HEAD?
 = 
 
-It is a remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. 
+It is a mostly magnetically held remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. This head is controlled via a PCA9685 micro controller, an Arduino Nano and MYROBOTLAB and can be built to function independently or as part of your InMoov robot. 
 
-Here you will find the Syntek edition remixed head files, info to get it running and furhter updates as they come.
+FIRST TIME USING A PCA9865 AND MYROBOTLAB?
+=
+
+No problem! Here is my "Beginners guide to moving servos with a PCA9685 and MYROBOTLAB" video to help you get started.
+
+https://youtu.be/unIUJA24uBI
+
+And while we are at it, here is a bonus link to the MYROBOTLAB (MRL) homepage: http://myrobotlab.org/
 
 UPDATES
 = 
 *TO BE UPDATED*
 
 ===========================================================================
+
+- This page is created and initially updated.
 
 - Most of the current files are uploaded here with the exception of two eyebrow related parts I need to adjust. 
 
@@ -117,7 +137,7 @@ NEODYMIUM MAGNETS
 
 #Note - I used the "NAZZO" brand of neodymium magnets found in the provided links as they are very strong and work well for our needs. I ordered two of the mixed sized packs as I was experimenting and wanted some size options to playu with. This is the link for the mixed pack I used. https://a.co/d/1fMVASk
 
-Other options of that brand would be to get a pack of each of the sizes used if you are unable to source the needed neodymium magnets sizes needed locally.
+Other options of that brand would be to get a pack of each of the sizes used if you are unable to source the needed neodymium magnet sizes needed locally.
 
 - x22 - Neodymium Magnets (10x3mm) - https://a.co/d/eTazw7q
 
