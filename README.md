@@ -25,9 +25,13 @@ Here you will find the Syntek edition remixed head files, info to get it running
 PUPIL CAMERA RELATED ITEMS
 =
 
+#Note - Coming from the original Inmoov USB webcam pupil camera setup, I had decided I would stick with that route for my current pupil camera setup also by converting a Raspberry Pi Zero W into a webcam and using it in the same fashion. This isn't the most cost effective route for doing these things, but the size of the camera modules I found worked for the job. I am sure there are other options out there and I do plan on formatting the eyeball camera inserts for at least one other type of raspberry pi spy camera and will update those files here with a potential set up description when I have completed them. 
+
+The following items are required for my current setup. 
+
 - x1 - Raspberry Pi Zero - https://a.co/d/f5wQHNF
 
-  -Raspberry Pi Zero, Zero W, Zero 2 W should all work. There seems to be a shortage of them available during the time of writing this, but using what ever     you can locate should do the job.
+  Raspberry Pi Zero, Zero W, Zero 2 W should all work. There seems to be a shortage of them available during the time of writing this, but using what ever     you can locate should do the job.
 
 - x1 - SD Card
 
@@ -35,22 +39,31 @@ PUPIL CAMERA RELATED ITEMS
 
 - x1 - 8MP Camera Module for Raspberry Pi 77.6° Wide Angle Field View Camera Module for Raspberry Pi - https://a.co/d/1mauetZ 
 
-  -The link description says 5MP for some reason, but the cam cable has 8MP written on it as well as the comments confirming 8MP. These are available from     various sellers. 
+  The link description says 5MP for some reason, but the cam cable has 8MP written on it as well as the comments confirming 8MP. These are available from       various sellers. 
 
 - x1 - Raspberry Pi Camera Module V2 - https://a.co/d/2dx2Vhr
 
-  -Make sure you are using the V2. Unfortunetly it is very difficult to find just these boards without a camera included as we will NOT be using the included   camera due to needing a longer cable to be able to reach into the eyeball. 
+  Make sure you are using the V2. Unfortunetly it is very difficult to find just these boards without a camera included as we will NOT be using the included   camera due to needing a longer cable to be able to reach into the eyeball with enough cable slack to still function.
 
 - x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable - https://a.co/d/2RXyKAD
 
-  -We need a Raspberry Pi camera module > Raspberry Pi Zero camera cable.
+  We need a Raspberry Pi camera module > Raspberry Pi Zero camera cable.
+  
+================================================================================  
+
+I recommend the following youtube video as a walkthrough for getting your Raspberry Pi Zero W's SD card formatted to function as a webcame. Her instructions are clear and the whole process takes about 2 minutes. 
+
+"How to build a Raspberry Pi webcam | Easy beginner project!" - https://youtu.be/zmP1ZuV4kB8
+
+The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
+
 
 ================================================================================
 
 NEODYMIUM MAGNETS
 =
 
-#Note - I used the NAZZO brand of neodymium magnets found in the provided links as they are very strong and work well for our needs. I ordered two of the mixed sized packs as I was experimenting and wanted some size options to playu with. This is the link for the mixed pack I used. https://a.co/d/1fMVASk
+#Note - I used the "NAZZO" brand of neodymium magnets found in the provided links as they are very strong and work well for our needs. I ordered two of the mixed sized packs as I was experimenting and wanted some size options to playu with. This is the link for the mixed pack I used. https://a.co/d/1fMVASk
 
 Other options of that brand would be to get a pack of each of the sizes used if you are unable to source the needed neodymium magnets sizes needed locally.
 
