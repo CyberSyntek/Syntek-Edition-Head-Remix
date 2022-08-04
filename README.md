@@ -51,7 +51,7 @@ The following items are required for my current setup.
   
 ================================================================================  
 
-I recommend the following youtube video as a walkthrough for getting your Raspberry Pi Zero W's SD card formatted to function as a webcame. Her instructions are clear and the whole process takes about 2 minutes. 
+I recommend the following youtube video as a walkthrough for getting your Raspberry Pi Zero W's SD card formatted to function as a webcam. Her instructions are clear and the whole process takes about 2 minutes. 
 
 "How to build a Raspberry Pi webcam | Easy beginner project!" - https://youtu.be/zmP1ZuV4kB8
 
