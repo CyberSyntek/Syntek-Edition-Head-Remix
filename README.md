@@ -1,23 +1,32 @@
-
-UPDATING RIGHT NOW!!!!
+WHAT IS SYNTEK?
 =
+An introduction to Syntek and InMoov Robot.
+
+https://user-images.githubusercontent.com/81597534/182945941-7be97dca-e8e5-45d9-b666-c8eca6ea6b64.mp4
+
+
+
 
 WHAT IS THE SYNTEK EDITION REMIXED HEAD?
 = 
 
-This is a remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. 
+It is a remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. 
 
-(!!!Insert write up here once finished!!!) :9 
+Here you will find the Syntek edition remixed head files, info to get it running and furhter updates as they come.
 
-# Syntek-Edition-Head-Remix
-Here you will find the Syntek edition remixed head files, info to get it running and updates as they come.
+UPDATES
+= 
+*TO BE UPDATED*
+
+============================================================================================
 
 - Most of the current files are uploaded here with the exception of two eyebrow related parts I need to adjust. 
 
 - It is possible to print and use the head with the currenly available uploaded parts without eyebrows till those parts are finished if wishing to do so. 
 
-*TO BE UPDATED*
-- ALOT! :D
+-08/04/2022
+
+============================================================================================
 
 -BOM- 
 =
@@ -49,7 +58,7 @@ HARDWARE
 
 
 
-SERVOS
+SERVOS REQUIRED
 =
 
 #Note - We will need a total of 15 micro servo motors for this head as well as a more standard sized 20kg servo. There are many options out there for roughly same sized micro servos, but please double check sizes of other brand servos to make sure they will fit correctly or not as some spaces do require roughly this size.
@@ -64,11 +73,7 @@ The MG90D servos are doing the job just fine, though I am noticing the jaw begin
 
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
 
-
-
-
-
-================================================================================
+============================================================================================
 
 PUPIL CAMERA RELATED ITEMS
 =
@@ -97,7 +102,7 @@ The following items are required for my current setup.
 
   We need a Raspberry Pi camera module > Raspberry Pi Zero camera cable.
   
-================================================================================  
+============================================================================================
 
 I recommend the following youtube video as a walkthrough for getting your Raspberry Pi Zero W's SD card formatted to function as a webcam. Her instructions are clear and the whole process takes about 2 minutes. 
 
@@ -105,8 +110,7 @@ I recommend the following youtube video as a walkthrough for getting your Raspbe
 
 The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
 
-
-================================================================================
+============================================================================================
 
 NEODYMIUM MAGNETS
 =
