@@ -27,7 +27,7 @@ PUPIL CAMERA RELATED ITEMS
 
 - x1 - Raspberry Pi Zero - https://a.co/d/f5wQHNF
 
-  #Raspberry Pi Zero, Zero W, Zero 2 W should all work. There seems to be a shortage of them available during the time of writing this, but using what ever     you can locate should do the job.
+  -Raspberry Pi Zero, Zero W, Zero 2 W should all work. There seems to be a shortage of them available during the time of writing this, but using what ever     you can locate should do the job.
 
 - x1 - SD Card
 
@@ -35,15 +35,15 @@ PUPIL CAMERA RELATED ITEMS
 
 - x1 - 8MP Camera Module for Raspberry Pi 77.6° Wide Angle Field View Camera Module for Raspberry Pi - https://a.co/d/1mauetZ 
 
-  #The link description says 5MP for some reason, but the cam cable has 8MP written on it as well as the comments confirming 8MP. These are available from     various sellers though. 
+  -The link description says 5MP for some reason, but the cam cable has 8MP written on it as well as the comments confirming 8MP. These are available from     various sellers. 
 
 - x1 - Raspberry Pi Camera Module V2 - https://a.co/d/2dx2Vhr
 
-  #Make sure you are using the V2. Unfortunetly it is very difficult to find just these boards without a camera as we will not be using the included camera     due to we need longer cables to be able to fit it into the eye. 
+  -Make sure you are using the V2. Unfortunetly it is very difficult to find just these boards without a camera included as we will NOT be using the included   camera due to needing a longer cable to be able to reach into the eyeball. 
 
 - x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable - https://a.co/d/2RXyKAD
 
-  #We need a Raspberry Pi camera module > Raspberry Pi Zero camera cable.
+  -We need a Raspberry Pi camera module > Raspberry Pi Zero camera cable.
 
 ================================================================================
 
