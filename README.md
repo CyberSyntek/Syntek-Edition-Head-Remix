@@ -5,18 +5,17 @@ Here on this page you will find all of the Syntek edition remixed head files, in
 
 WHAT IS SYNTEK?
 =
-An introduction to Syntek and InMoov Robot.
+An introduction to Syntek (My InMoov Robot)
 
 https://user-images.githubusercontent.com/81597534/182945941-7be97dca-e8e5-45d9-b666-c8eca6ea6b64.mp4
 
-WHAT IS INMOOV?
+CURIOUS ABOUT INMOOV ROBOT?
 = 
 
-If you are unfamiliar with Inmoov Robot at this point, you should head over to the InMoov website and find out!
+If you were unfamiliar with InMoov robot and or are now more curious about it, you should head over to the InMoov website and find out more about the project  by clicking the image below.
 
-![Inmoovhomepage](https://user-images.githubusercontent.com/81597534/182956653-22bd5be5-dd2f-44b9-a1f5-d61002d9dd43.PNG)
-
-www.inmoov.fr
+<a href="https://www.inmoov.fr" />
+<img src="https://user-images.githubusercontent.com/81597534/182956653-22bd5be5-dd2f-44b9-a1f5-d61002d9dd43.PNG" />
 
 WHAT IS THE SYNTEK EDITION REMIXED HEAD?
 = 
@@ -28,7 +27,7 @@ FIRST TIME USING A PCA9865 AND MYROBOTLAB?
 
 No problem! Here is my "Beginners guide to moving servos with a PCA9685 and MYROBOTLAB" video to help you get started.
 
-https://youtu.be/unIUJA24uBI
+[![Beginners guide to moving servos with a PCA9685 and MYROBOTLAB](https://user-images.githubusercontent.com/81597534/182962139-453537c9-c836-4992-8144-bc1f8d35aa70.jpg)](https://youtu.be/unIUJA24uBI  "Beginners guide to moving servos with a PCA9685 and MYROBOTLAB")
 
 And while we are at it, here is a bonus link to the MYROBOTLAB (MRL) homepage: http://myrobotlab.org/
 
