@@ -9,10 +9,10 @@ An introduction to Syntek (My InMoov Robot)
 
 https://user-images.githubusercontent.com/81597534/182945941-7be97dca-e8e5-45d9-b666-c8eca6ea6b64.mp4
 
-CURIOUS ABOUT INMOOV ROBOT?
+CURIOUS ABOUT INMOOV?
 = 
 
-If you were unfamiliar with InMoov robot and or are now more curious about it, you should head over to the InMoov website and find out more about the project  by clicking the image below.
+If you were unfamiliar with InMoov robot and or are now more curious about it, you should head over to the InMoov website and find out more about the project  by clicking the image below as THIS project page is directly related to the InMoov project. 
 
 <a href="https://www.inmoov.fr" />
 <img src="https://user-images.githubusercontent.com/81597534/182956653-22bd5be5-dd2f-44b9-a1f5-d61002d9dd43.PNG" />
@@ -22,7 +22,7 @@ WHAT IS THE SYNTEK EDITION REMIXED HEAD?
 
 *INSERT IMAGE OR VIDEO HERE* 
 
-It is a mostly magnetically held remixed edition of Gael Langevin's Inmoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. This head is controlled via a PCA9685 micro controller, an Arduino Nano and MYROBOTLAB and can be built to function independently or as part of your InMoov robot. 
+It is a mostly magnetically held remixed edition of Gael Langevin (InMoov Founder)'s InMoov robot head that has been fit with independent eyes, eyelids, eyebrows and an additional axis in the jaw. This head is controlled via a PCA9685 micro controller, an Arduino Nano and MYROBOTLAB and can be built to function independently or as part of your InMoov robot. 
 
 FIRST TIME USING A PCA9865 AND MYROBOTLAB?
 =
@@ -128,6 +128,9 @@ The following items are required for my current setup.
 I recommend the following youtube video as a walkthrough for getting your Raspberry Pi Zero W's SD card formatted to function as a webcam. Her instructions are clear and the whole process takes about 2 minutes. 
 
 "How to build a Raspberry Pi webcam | Easy beginner project!" - https://youtu.be/zmP1ZuV4kB8
+
+
+
 
 The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
 
