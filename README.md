@@ -84,3 +84,8 @@ Other options of that brand would be to get a pack of each of the sizes used if 
 OTHER
 =
 - Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
+
+- Mini B USB Cable (3FT) https://a.co/d/219j3qb
+
+  If using either Jon Bailey's headstand set up (https://www.thingiverse.com/thing:4670770) or have the head attached to the body of your Inmoov, 
+  3FT should give you plenty of room to work with. The Mini B USB cable provided with the Arduino Nano will be too short. 
