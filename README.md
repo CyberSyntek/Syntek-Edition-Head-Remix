@@ -156,5 +156,3 @@ UPDATES
 - It is possible to print and use the head with the currenly available uploaded parts without eyebrows till those parts are finished if wishing to do so. 
 
 -08/04/2022
-
-===========================================================================
