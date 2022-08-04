@@ -1,4 +1,6 @@
-///PARTS///
+STL FILES
+=
+
 - BallLinkConnector
 
 - Hinge-L
