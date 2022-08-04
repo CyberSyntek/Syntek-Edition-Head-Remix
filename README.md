@@ -18,7 +18,7 @@ UPDATES
 = 
 *TO BE UPDATED*
 
-============================================================================================
+===========================================================================
 
 - Most of the current files are uploaded here with the exception of two eyebrow related parts I need to adjust. 
 
@@ -26,7 +26,7 @@ UPDATES
 
 -08/04/2022
 
-============================================================================================
+===========================================================================
 
 -BOM- 
 =
@@ -73,7 +73,7 @@ The MG90D servos are doing the job just fine, though I am noticing the jaw begin
 
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
 
-============================================================================================
+===========================================================================
 
 PUPIL CAMERA RELATED ITEMS
 =
@@ -102,7 +102,7 @@ The following items are required for my current setup.
 
   We need a Raspberry Pi camera module > Raspberry Pi Zero camera cable.
   
-============================================================================================
+===========================================================================
 
 I recommend the following youtube video as a walkthrough for getting your Raspberry Pi Zero W's SD card formatted to function as a webcam. Her instructions are clear and the whole process takes about 2 minutes. 
 
@@ -110,7 +110,7 @@ I recommend the following youtube video as a walkthrough for getting your Raspbe
 
 The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
 
-============================================================================================
+===========================================================================
 
 NEODYMIUM MAGNETS
 =
