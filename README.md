@@ -22,6 +22,12 @@ Here you will find the Syntek edition remixed head files, info to get it running
 
 - x1 - Y Servo Splitter Cable (Male to x2 Female) -  https://a.co/d/4Yzls2i
 
+- x1 - Arduino Nano (Brand or Generic)- https://a.co/d/9V0zZ5S  (I'm using generic without issue.)
+
+- x1 - PCA9685 (16-Channel 12-bit PWM/Servo Driver) - https://a.co/d/cDNK8FY / https://www.adafruit.com/product/815
+
+  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and will likely fail or burn. I'm sure there are some great cheaper ones out there also though. 
+
 SERVOS
 =
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
