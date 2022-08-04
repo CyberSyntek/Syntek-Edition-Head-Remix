@@ -24,7 +24,6 @@ Here you will find the Syntek edition remixed head files, info to get it running
 
 - x1 - Arduino Nano (Brand or Generic)- https://a.co/d/9V0zZ5S  (I'm using generic without issue.)
 
-
 - x1 - Mini B USB Cable (3FT) for the Arduino Nano - https://a.co/d/219j3qb
 
   If using either Jon Bailey's headstand set up (https://www.thingiverse.com/thing:4670770) or have the head attached to the body of your Inmoov (...I         think), 3FT should give you plenty of room to work with. The Mini B USB cable provided with the Arduino Nano will be too short. 
@@ -32,6 +31,11 @@ Here you will find the Syntek edition remixed head files, info to get it running
 - x1 - PCA9685 (16-Channel 12-bit PWM/Servo Driver) - https://a.co/d/cDNK8FY / https://www.adafruit.com/product/815
 
   These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and will likely fail or burn. I'm sure there are some great cheaper ones out there also though. 
+  
+  
+- x1 - MPU6050 - https://a.co/d/gO6KlX1 (There is a slot for one in the head, though I haven't experimented with it yet... to be updated!)
+
+
 
 SERVOS
 =
