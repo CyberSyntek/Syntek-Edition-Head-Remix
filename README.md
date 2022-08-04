@@ -31,7 +31,7 @@ The following items are required for my current setup.
 
 - x1 - Raspberry Pi Zero - https://a.co/d/f5wQHNF
 
-  Raspberry Pi Zero, Zero W, Zero 2 W should all work. There seems to be a shortage of them available during the time of writing this, but using what ever     you can locate should do the job.
+  Raspberry Pi Zero, Zero W and Zero 2 W? should all work. There seems to be a shortage of them available during the time of writing this, but using what       ever you can locate should do the job.
 
 - x1 - SD Card
 
