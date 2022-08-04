@@ -14,7 +14,7 @@ Here you will find the Syntek edition remixed head files, info to get it running
 
 ////BOM//// - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
 
-- x4 Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
+- x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
 
 - x2 - Du-Bro (181) 2-56 Threaded Ball Link - https://a.co/d/0wf1e1V
 
