@@ -39,6 +39,17 @@ Here you will find the Syntek edition remixed head files, info to get it running
 
 SERVOS
 =
+
+#Note - We will need a total of 15 micro servo motors for this head as well as a more standard sized 20kg servo. There are many options out there for roughly same sized micro servos, but please double check sizes of other brand servos to make sure they will fit correctly or not as some spaces do require roughly this size.
+
+As it currently stands, I am using x15 MG90D Servos in my head, but I plan to swap out the x3 MG90D jaw servos with x3 MG92B servos as they provide a bit more torque and believe they should handle better over time. MG92B servos have a very slightly longer housing, but the jaw servo spaces are not as restricted and this will not impact fitting them in. 
+
+The MG90D servos are doing the job just fine, though I am noticing the jaw beginning to open without power to the servos the more I use it. (With power it is still handling fine) I will update with confirmation once I have tested them in those spots.
+
+- x12 - MG90D Servo Motors - https://www.adafruit.com/product/1143
+
+- x3 - MG92B Servo Motors   https://www.adafruit.com/product/2307 
+
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
 
 
