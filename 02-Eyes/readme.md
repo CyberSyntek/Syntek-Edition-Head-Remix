@@ -1,23 +1,16 @@
 ABOUT
 =
 
-The eye mechanism is a direct remix of Will Cogley's "Compact Animatronic Eye Mechanism" in which I have seperate the eyes to be independent, modified and added independent eyelid holders, fit the eyeballs with cameras and a few other changes.
+The eye mechanism is a direct remix of Will Cogley's "Compact Animatronic Eye Mechanism" in which I have seperate both sides of the eyes to be independent mechanisms, modified and added independent eyelid mechs and fit the eyeballs with cameras. (Plus a few other changes.)
 
 This mechanism could not have been done without the hard work of Will putting together his original eye mech. I would like to send out a huge thank you to Will for his hard work and for giving me permission to post remixed files for others to use. 
 
-Click Image below for Will Cogley's "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino" video and give it a watch through as it may help as a reference for various things relating to this eye mechanism as well. 
+NOTE: This eye mechanism is still compatible with Will's original eyes. You can head over to his site and download his eye files there if you are not planning on using cameras in your build. He also has various videos on his youtube channel relating to eye mechanisms and how to make realistic eyes as well as a resin cast kit for his original eyes with the files for those available on his website. 
 
-<a href="https://youtu.be/ihXxbQefl1c" />
-<img src="https://user-images.githubusercontent.com/81597534/183132841-2a943bff-482f-432b-9a96-6e30b9c91f2a.png"/>
+Will Cogley's Website: http://www.nilheim.co.uk/
 
+Here is a link to Will Cogley's "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino" video. Give it a watch through as it may help as a reference for various things relating to this eye mechanism as well. https://youtu.be/ihXxbQefl1c
 
-
-
-
-
-
-
-NOTE: This eye mechanism is still compatible with Will's original eyes. You can head over to his site and download those eye files there if you are not planning on using cameras in your build. He also has various videos on his youtube channel relating to eye mechanisms and how to make realistic eyes as well as a resin cast kit for his original eyes. 
 
 
 STL FILES
