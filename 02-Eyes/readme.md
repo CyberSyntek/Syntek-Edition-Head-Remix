@@ -1,11 +1,13 @@
+![Eyesexample](https://user-images.githubusercontent.com/81597534/183139319-f09b9724-7052-486b-930a-b22d75e43048.png)
+
 ABOUT
 =
 
-The eye mechanism is a direct remix of Will Cogley's "Compact Animatronic Eye Mechanism" in which I have seperate both sides of the eyes to be independent mechanisms, modified and added independent eyelid mechs and fit the eyeballs with cameras. (Plus a few other changes.)
+The eye mechanism is a direct remix of Will Cogley's "Compact Animatronic Eye Mechanism" in which I have seperate both sides of the eyes to be independent mechanisms, modified to use independent eyelids, fit the eyeballs with cameras and reworked to allow for it to fit inside of the Syntek Edition InMoov skull. (Plus a few other changes.)
 
-This mechanism could not have been done without the hard work of Will putting together his original eye mech. I would like to send out a huge thank you to Will for his hard work and for giving me permission to post remixed files for others to use. 
+This mechanism could not have been done without the hard work of Will Cogley putting together his original eye mech. I would like to send out a huge thank you to Will for his hard work and for giving me permission to post the remixed files for others to use. Thanks Will!
 
-NOTE: This eye mechanism is still compatible with Will's original eyes. You can head over to his site and download his eye files there if you are not planning on using cameras in your build. He also has various videos on his youtube channel relating to eye mechanisms and how to make realistic eyes as well as a resin cast kit for his original eyes with the files for those available on his website. 
+NOTE: This eye mechanism is still compatible with Will's original eyes. You can head over to his site and download his eye files there if you are not planning on using cameras in your build. He also has various videos on his youtube channel relating to eye mechanisms and how to make realistic looking eyes as well as a resin cast kit for his original eyes with the files for those available on his website. 
 
 Will Cogley's Website: http://www.nilheim.co.uk/
 
