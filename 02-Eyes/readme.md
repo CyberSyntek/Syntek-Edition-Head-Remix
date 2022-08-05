@@ -27,11 +27,17 @@ Unscrew the x6 screws from the bottom of the Mainplate and remove the Base. Now 
 
 With the BaseConnectors superglued to the Base and locking them into place unable to rotate, we can now remove the Base as a single unit by simply removing the x6 screws on the bottom of the MainPlate and plug it back into the MainPlate BaseConnector slots when needing to do so. 
 
-![003-GluedEyeBase](https://user-images.githubusercontent.com/81597534/183096858-a8832722-e2fb-49f8-a582-fab12d7c1461.PNG)
-
 Now you will need to repeat the steps above for the opposite side eye. 
 
-![005-EyeServos](https://user-images.githubusercontent.com/81597534/183116711-b929bbdc-1e6c-4308-8d06-08a4f7d753b0.png)
+![003-GluedEyeBase](https://user-images.githubusercontent.com/81597534/183121338-0f12281c-2755-4570-abd0-49ab5833f36b.PNG)
+
+Now it is time to mount the L/R and U/D servos for the eye mechanisms. With your servos preset to 90° (centered) mount them as seen in the image below and screw them in using some servo screws. 
+
+#Note: I used some standard size servo screws here to make sure they had a solid hold, but you should be able to use the servo screws that come with your servos.
+
+The servo horns will be mounted facing towards the outsides of the mechanisms.
+
+![005-EyeServos](https://user-images.githubusercontent.com/81597534/183121062-442a7469-d898-46f5-a4a3-00241b637558.png)
 
 
 
