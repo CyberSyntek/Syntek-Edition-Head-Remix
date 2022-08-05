@@ -1,4 +1,4 @@
-LOTS OF UPDATING COMING!
+LOTS OF UPDATES COMING!
 =
 
 ..but not tonight. :D
