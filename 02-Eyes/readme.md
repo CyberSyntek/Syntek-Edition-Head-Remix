@@ -18,35 +18,37 @@ Here is a link to Will Cogley's "How to Make a Compact Animatronic Eye Mechanism
 STL FILES
 =
 
-- R-Base.stl
+You will need the following files for both the Left and Right eyes. Example: L-Base.stl & R-Base.stl
 
-- R-BaseExtension.stl
+- Base.stl
 
-- R-BottomEyelid.stl
+- BaseExtension.stl
 
-- R-BottomEyelidConnector.stl
+- BottomEyelid.stl
 
-- R-EyeAdaptor.stl
+- BottomEyelidConnector.stl
 
-- R-Eyeball-CamFitV1.stl (Requires Supports)
+- EyeAdaptor.stl
 
-- R-EyeHolder.stl
+- Eyeball-CamFitV1.stl (Requires Supports)
 
-- R-EyelidHolder.stl
+- EyeHolder.stl
 
-- R-Eyelink.stl x2
+- EyelidHolder.stl
 
-- R-MainPivot.stl (Requires Supports)
+- Eyelink.stl x2
 
-- R-RasCamModuleHolder.stl
+- MainPivot.stl (Requires Supports)
 
-- R-ServoHolder.stl
+- RasCamModuleHolder.stl
 
-- R-SmallPivot.stl (Requires Supports)
+- ServoHolder.stl
 
-- R-TopEyelid.stl
+- SmallPivot.stl (Requires Supports)
 
-- R-TopEyelidConnector.stl
+- TopEyelid.stl
+
+- TopEyelidConnector.stl
 
 ==========================================
 
