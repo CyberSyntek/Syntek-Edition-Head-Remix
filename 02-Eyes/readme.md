@@ -1,9 +1,35 @@
 STL FILES
 =
 
-The files are in the folders above. I need to make a write up for them still. 
+- R-Base.stl
 
-*TO BE UPDATED*
+- R-BaseExtension.stl
+
+- R-BottomEyelid.stl
+
+- R-BottomEyelidConnector.stl
+
+- R-EyeAdaptor.stl
+
+- R-Eyeball-CamFitV1.stl (Requires Supports)
+
+- R-EyeHolder.stl
+
+- R-EyelidHolder.stl
+
+- R-Eyelink.stl x2
+
+- R-MainPivot.stl (Requires Supports)
+
+- R-RasCamModuleHolder.stl
+
+- R-ServoHolder.stl
+
+- R-SmallPivot.stl (Requires Supports)
+
+- R-TopEyelid.stl
+
+- R-TopEyelidConnector.stl
 
 ==========================================
 
@@ -39,14 +65,21 @@ The servo horns will be mounted facing towards the outsides of the mechanisms.
 
 ![005-EyeServos](https://user-images.githubusercontent.com/81597534/183121062-442a7469-d898-46f5-a4a3-00241b637558.png)
 
+Slide your servo wires through the top holes on the ServoHolder. Screw the servos onto the ServoHolder using x2 Servo Screws then mount the ServoHolder onto the Base and screw it on using x3 M2x12mm screws. Now we will add the otherside x2 servo screws to secure the servos in place.
 
+These servos will also be centered / set to 90° when mounted.
+
+Finally we will add the servo horns onto the servos in the positions seen below. 
+
+![06-ServoHolderServosToBase](https://user-images.githubusercontent.com/81597534/183127965-26979c00-c43d-49b3-8d6c-b6b64a11ca74.png)
 
 ==========================================
+
 *TO BE UPDATED*
-- Part list with print specs
+=
 
 - Component List / Screw Sizes
 
 - Image Files
 
-- Alternative Camera fit eyes
+- Alternative Camera fit eyes (Still need to cut for other camera)
