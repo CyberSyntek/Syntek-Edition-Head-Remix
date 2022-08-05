@@ -1,3 +1,8 @@
+ABOUT
+=
+
+![WillCogleyEyes](https://user-images.githubusercontent.com/81597534/183132841-2a943bff-482f-432b-9a96-6e30b9c91f2a.png)](https://youtu.be/ihXxbQefl1c  "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino")
+
 STL FILES
 =
 
