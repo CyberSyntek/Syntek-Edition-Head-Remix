@@ -92,6 +92,15 @@ Finally we will add the servo horns onto the servos in the positions seen below.
 
 ![06-ServoHolderServosToBase](https://user-images.githubusercontent.com/81597534/183127965-26979c00-c43d-49b3-8d6c-b6b64a11ca74.png)
 
+Now we will screw on the Eyelid holder to the side of the Base using x3 M2x7mm screws.
+
+![07-EyelidHolder](https://user-images.githubusercontent.com/81597534/183221236-3030e186-a5c8-4b31-9f12-5e6a544f0d23.png)
+
+Align and screw together the BaseExtension and the EyeHolder using a M2x12mm screw. Once you are sure it is lined up well, you may want to apply a drop of superglue to prevent it shifting as the servos move which could offset the eyes movement. 
+![08-BaseExtension](https://user-images.githubusercontent.com/81597534/183222149-6ce3b23a-8830-4431-b611-c281fa502409.png)
+
+
+
 ==========================================
 
 *TO BE UPDATED*
