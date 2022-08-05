@@ -18,6 +18,7 @@ Other ear variations are available on www.inmoov.fr and www.thingiverse.com
 SKULL INFORMATION
 =
 
+The skull reshaping to allow for this to design to come together could not have happened without the wonderful help of Harry "Haracini". 
 
 *TO BE UPDATED*
 - Component List / Screw Sizes
