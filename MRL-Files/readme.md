@@ -43,3 +43,6 @@ PIN: 13 - Input: 0-180 / Output: 75-105 / Rest: 130
 PIN: 14 - Input: 0-180 / Output: 62-118 / Rest:  90
 
 PIN: 15 - Input: 0-180 / Output: 70-110 / Rest:  90
+
+#NOTE: I MAY REDUCE OUTPUT SETTINGS ALOT FROM WITHIN THE CONFIG FILES FOR LESS CHANCE OF ACCIDENTS. YOU WILL BE ABLE TO USE MY MIN/MAX SETTINGS AS REFERENCE.
+I will ponder the idea and update this once decided. 
