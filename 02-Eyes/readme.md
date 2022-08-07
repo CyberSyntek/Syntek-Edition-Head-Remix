@@ -147,20 +147,20 @@ x3 BaseBeams to Base (Insert Info)
 
 Base to MainPlate (Insert Info)
 
-Cable Clips to MainPlate (Insert Info)
+![CompleteEyes](https://user-images.githubusercontent.com/81597534/183307556-747e62b2-ebc0-4644-8d19-850c4bac3976.png)
 
-Attach the Raspi camera V2 module, run cable throw cable clips and attach the camera cable to the module. (You can do this step more easily with the jaw removed, but you may wish to wait until later in the set up to attach this stuff to ensure you keep your camera cables in best possible condition.
+Note# Using some M2x7mm Screws, You may attach the Raspberry Pi Camera V2 Module to the RasCamModule now or later on when we attach the Raspberry Pi Zero W.
+To ensure you camera cables keep in the best condition, I would suggest attaching later. 
 
-Now you have your eye mechanisms all set up! It is time begin setting up the Jaw. 
+NOW YOUR EYE MECHANISM IS FINISHED!
+=
 
+It is time begin setting up the Jaw. 
 
-==========================================
 
 *TO BE UPDATED*
 =
 
 - Component List / Screw Sizes
-
-- Image Files
 
 - Alternative Camera fit eyes (Still need to cut for other camera)
