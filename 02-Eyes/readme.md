@@ -230,6 +230,15 @@ Eyeball - Servo Horns
 
 ![EyeballServoHornHoles](https://user-images.githubusercontent.com/81597534/183304562-d8f53789-7792-4c62-a779-5d00c9bdf2e6.png)
 
+Eyeball - Servo Check
+=
+
+Connect your servos and test your eyes using limited range Min/Max settings to make sure you do not have any strange movement occuring or offsets.
+
+You can do this various ways such as using a servo tester or by running them in MRL. I have given examples of my servo limits in the MRL-Files section.
+
+Trust me, it is better to do now than later, I know from experience. :)
+
 Eyelids 
 =
 
@@ -237,6 +246,8 @@ Eyelids
 
 BaseBeams to Base
 =
+
+Screw the x3 BaseBeams to the base using x3 M2x16mm Screws. You CAN superglue these also, but it isn't absolutely necessary. 
 
 ![BaseBeams](https://user-images.githubusercontent.com/81597534/183306633-080aba24-2f60-4fd7-a9d0-6ded5732e833.png)
 
