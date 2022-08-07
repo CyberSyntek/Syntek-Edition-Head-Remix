@@ -53,12 +53,15 @@ ELECTRONICS (PER EYE)
 
 x4 - MG90D Servo Motors (or similar in sized micro servos) - Total Needed = x8
 
+NOTE: It is possible to put cameras in both eyes, but you really only need one.
+
 x1 - 8MP Camera Module 77.6° Wide Angle Field View Camera for Raspberry Pi
 
 x1 - Raspberry Pi Camera Module V2
 
-NOTE: It is possible to put cameras in both eyes, but you really only need one.
+x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable 
 
+NOTE: CAMERA RELATED ITEMS WILL CONTINUE IN THE BROWPLATE TUTORIAL!
 
 SERVO SCREWS / SCREWS / BOLTS / CONNECTORS (PER EYE)
 =
