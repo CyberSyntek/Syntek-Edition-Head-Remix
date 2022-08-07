@@ -203,6 +203,4 @@ It is time begin setting up the Jaw.
 *TO BE UPDATED*
 =
 
-- Component List / Screw Sizes
-
-- Alternative Camera fit eyes (Still need to cut for other camera)
+- Alternative Camera fit eyes (I will be adding another camera fit eye file option in the near future) 
