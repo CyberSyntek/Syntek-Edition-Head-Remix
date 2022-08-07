@@ -63,7 +63,7 @@ x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable
 
 NOTE: CAMERA RELATED ITEMS WILL CONTINUE IN THE BROWPLATE TUTORIAL!
 
-SERVO SCREWS / SCREWS / BOLTS / CONNECTORS (PER EYE)
+SCREWS / BOLTS / ETC (PER EYE)
 =
 
 x8 Servo Screws - Total Needed = x16
@@ -88,7 +88,9 @@ x1 M2x9mm Bolt - Total Needed = x2
 
 x2 M2x28mm Bolt OR 25mm Threaded Rod - Total Needed = x4
 
-x2 Swivel Ball Links Connectors - Total Needed = x4
+x2 Du-Bro 2-56 Swivel Ball Link Connectors OR M2 sized Swivel Ball Link Connectors   - Total Needed = x4
+
+#NOTE: I ordered a few batches of M2 connectors from various sellers, none of them were nearly as nice as the Du-Bro connectors. SMOOTH!
 
 
 
