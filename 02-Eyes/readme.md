@@ -143,6 +143,8 @@ Eyelids (Insert Info)
 
 x3 BaseBeams to Base (Insert Info)
 
+![BaseBeams](https://user-images.githubusercontent.com/81597534/183306633-080aba24-2f60-4fd7-a9d0-6ded5732e833.png)
+
 Base to MainPlate (Insert Info)
 
 Cable Clips to MainPlate (Insert Info)
