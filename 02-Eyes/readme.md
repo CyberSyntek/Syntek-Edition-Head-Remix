@@ -141,6 +141,17 @@ Eyelids (Insert Info)
 
 ![Eyelids](https://user-images.githubusercontent.com/81597534/183305973-de99c9ac-338b-4fd4-af4d-7725bcfab284.png)
 
+x3 BaseBeams to Base (Insert Info)
+
+Base to MainPlate (Insert Info)
+
+Cable Clips to MainPlate (Insert Info)
+
+Attach the Raspi camera V2 module, run cable throw cable clips and attach the camera cable to the module. (You can do this step more easily with the jaw removed, but you may wish to wait until later in the set up to attach this stuff to ensure you keep your camera cables in best possible condition.
+
+Now you have your eye mechanisms all set up! It is time begin setting up the Jaw. 
+
+
 ==========================================
 
 *TO BE UPDATED*
