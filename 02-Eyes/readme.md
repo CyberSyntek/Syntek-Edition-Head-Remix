@@ -100,6 +100,18 @@ Align and screw together the BaseExtension and the EyeHolder using a M2x12mm scr
 ![08-BaseExtension](https://user-images.githubusercontent.com/81597534/183222149-6ce3b23a-8830-4431-b611-c281fa502409.png)
 
 
+Rod to EyeLink (Insert info)
+
+![010-2-RodToEyeLink](https://user-images.githubusercontent.com/81597534/183297918-f764be4d-f21f-422d-a8c9-75206cdcf06e.png)
+
+EyeLink to Small Pivot (Insert info)
+
+![011-RodToSmallPivot](https://user-images.githubusercontent.com/81597534/183297732-08f7a686-37ee-400e-8f6c-46baaff023ed.png)
+
+
+
+
+
 
 ==========================================
 
