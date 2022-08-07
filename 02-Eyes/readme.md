@@ -137,6 +137,9 @@ Eye Servo Horns (Insert Info)
 
 ![EyeballServoHornHoles](https://user-images.githubusercontent.com/81597534/183304562-d8f53789-7792-4c62-a779-5d00c9bdf2e6.png)
 
+Eyelids (Insert Info)
+
+![Eyelids](https://user-images.githubusercontent.com/81597534/183305973-de99c9ac-338b-4fd4-af4d-7725bcfab284.png)
 
 ==========================================
 
