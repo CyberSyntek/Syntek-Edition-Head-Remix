@@ -48,6 +48,16 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 - TopEyelidConnector.stl
 
+ELECTRONICS (PER EYE)
+=
+
+x4 - MG90D Servo Motors (or similar in sized micro servos) - Total Needed = x8
+
+x1 - 8MP Camera Module 77.6° Wide Angle Field View Camera for Raspberry Pi
+
+x1 - Raspberry Pi Camera Module V2
+
+NOTE: It is possible to put cameras in both eyes, but you really only need one.
 
 
 SERVO SCREWS / SCREWS / BOLTS / CONNECTORS (PER EYE)
