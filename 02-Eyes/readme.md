@@ -149,8 +149,8 @@ Base to MainPlate (Insert Info)
 
 ![CompleteEyes](https://user-images.githubusercontent.com/81597534/183307556-747e62b2-ebc0-4644-8d19-850c4bac3976.png)
 
-Note# Using some M2x7mm Screws, You may attach the Raspberry Pi Camera V2 Module to the RasCamModule now or later on when we attach the Raspberry Pi Zero W.
-To ensure you camera cables keep in the best condition, I would suggest attaching later. 
+Note# Using some M2x7mm Screws, You may attach the Raspberry Pi Camera V2 Module to the RasCamModuleHolder now or later on when we attach the Raspberry Pi Zero W.
+To ensure the camera cables stay in the best condition until we attach them, I would suggest later. 
 
 NOW YOUR EYE MECHANISM IS FINISHED!
 =
