@@ -70,7 +70,7 @@ x8 Servo Screws - Total Needed = x16
 
 x4 M2x6mm Screws - Total Needed = x8
 
-x5 M2x7mm Screws - Total Needed = x10
+x9 M2x7mm Screws - Total Needed = Upto x18
 
 x8 M2x8mm Screws - Total Needed = x16
 
