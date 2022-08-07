@@ -13,8 +13,6 @@ Will Cogley's Website: http://www.nilheim.co.uk/
 
 Here is a link to Will Cogley's "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino" video. Give it a watch through as it may help as a reference for various things relating to this eye mechanism as well. https://youtu.be/ihXxbQefl1c
 
-
-
 STL FILES
 =
 
@@ -50,7 +48,36 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 - TopEyelidConnector.stl
 
-==========================================
+
+
+SERVO SCREWS / SCREWS / BOLTS / CONNECTORS (PER EYE)
+=
+
+x8 Servo Screws - Total Needed = x16
+
+x4 M2x6mm Screws - Total Needed = x8
+
+x5 M2x7mm Screws - Total Needed = x10
+
+x8 M2x8mm Screws - Total Needed = x16
+
+x3 M2x10mm Screws - Total Needed = x6
+
+x10 M2x12mm Screws - Total Needed = x20
+
+x3 M2x16mm Screws - Total Needed = x6
+
+x3 M2x6mm Bolt - Total Needed = x6
+
+x3 M2x7mm Bolt - Total Needed = x6
+
+x1 M2x9mm Bolt - Total Needed = x2
+
+x2 M2x28mm Bolt OR 25mm Threaded Rod - Total Needed = x4
+
+x2 Swivel Ball Links Connectors - Total Needed = x4
+
+
 
 Tutotial
 =
