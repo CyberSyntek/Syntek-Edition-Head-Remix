@@ -21,6 +21,8 @@ MISSING FILES
 
 - Component List / Screw Sizes
 
+x4 - M2x7mm Screws (Per side Camera Module)
+
 - Image Files
 
 
