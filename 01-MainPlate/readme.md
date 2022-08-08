@@ -19,7 +19,7 @@ MAINPLATE PREP & GETTING CALIBRATED
 =
 This video will help you prepare the MainPlate and give you an idea on how to calibrate your printer for the rest of the prints.
 
-*EDIT* NEED TO UPDATE. Quality is too low. I will divide and upload the video files again for clearer picture.
+*EDIT*:  NEED TO UPDATE. Quality is too low. I will divide and upload the video files again for clearer picture.
 
 https://user-images.githubusercontent.com/81597534/182950770-03a6c6f6-c38f-402b-a273-ccfd5f3d8ddc.mp4
 
