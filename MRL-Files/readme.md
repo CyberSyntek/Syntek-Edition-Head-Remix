@@ -1,7 +1,7 @@
 LOTS OF UPDATES COMING!
 =
 
-..but not tonight. :D
+This section isn't ready just yet!
 
 PCA9685 - SERVO TO PIN LAYOUT
 =
