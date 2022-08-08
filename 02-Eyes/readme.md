@@ -51,6 +51,8 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 ELECTRONICS (PER EYE)
 =
 
+For more detailed information on electronics & hardware needed, please refer to the BOM folder readme file.
+
 x4 - MG90D Servo Motors (or similar in sized micro servos) - Total Needed = x8
 
 NOTE: It is possible to put cameras in both eyes, but you really only need one.
@@ -58,6 +60,7 @@ NOTE: It is possible to put cameras in both eyes, but you really only need one.
 x1 - 8MP Camera Module 77.6° Wide Angle Field View Camera for Raspberry Pi
 
 NOTE: CAMERA RELATED ITEMS WILL CONTINUE IN THE "04-BrowPlate" FOLDER TUTORIAL!
+
 
 SCREWS / BOLTS / ETC (PER EYE)
 =
