@@ -1,6 +1,8 @@
 STL FILES
 =
 
+![JawFiles](https://user-images.githubusercontent.com/81597534/183478717-a6cd3ce7-50e5-4f68-a7a3-e2bda4d29aea.png)
+
 - BallLinkConnector
 
 - Hinge-L
@@ -15,7 +17,7 @@ STL FILES
 
 - Jaw
 
-- ServoConnector-x2
+- ServoConnector - x2
 
 TUTORIAL
 = 
@@ -61,8 +63,10 @@ Flip the Jaw over and screw the HingeCover on using x4 M2x8mm Screws. This Hinge
 
 ![04-HingeCover](https://user-images.githubusercontent.com/81597534/183470158-0fed6902-6afb-44f3-854e-95c16b9e5881.png)
 
-Lateral Jaw Servos
+Lateral Jaw Servos and Cutting the Tips
 =
+
+![05-ServoAndTips](https://user-images.githubusercontent.com/81597534/183472510-9ffdbdef-a66c-4447-8437-46a982d744ad.png)
 
 
 
