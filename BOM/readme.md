@@ -1,34 +1,7 @@
 #Note - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
 
-HARDWARE
-=
-
-- x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
-
-- x2 - Du-Bro (181) 2-56 Threaded Ball Link - https://a.co/d/0wf1e1V
-
-- x4 - Du-Bro E-Z Connectors With Re-Usable Nylon Snap Ons - https://a.co/d/9076KMQ
-
-- x1 - Y Servo Splitter Cable (Male to x2 Female) -  https://a.co/d/4Yzls2i
-
-- x1 - Arduino Nano (Brand or Generic)- https://a.co/d/9V0zZ5S  (I'm using generic without issue.)
-
-- x1 - Mini B USB Cable (3FT) for the Arduino Nano - https://a.co/d/219j3qb
-
-  If using either Jon Bailey's headstand set up (https://www.thingiverse.com/thing:4670770) or have the head attached to the body of your Inmoov (...I         think), 3FT should give you plenty of room to work with. The Mini B USB cable provided with the Arduino Nano will be too short. 
-
-- x1 - PCA9685 (16-Channel 12-bit PWM/Servo Driver) - https://a.co/d/cDNK8FY / https://www.adafruit.com/product/815
-
-  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and will likely fail or burn. I'm sure there are some great cheaper ones out there also though. 
-  
-  
-- x1 - MPU6050 - https://a.co/d/gO6KlX1 (There is a slot for one in the head, though I haven't experimented with it yet... to be updated!)
-
-
-
 SERVOS REQUIRED
 =
-
 #Note - We will need a total of 15 micro servo motors for this head as well as a more standard sized 20kg servo. There are many options out there for roughly same sized micro servos, but please double check sizes of other brand servos to make sure they will fit correctly or not as some spaces do require roughly this size.
 
 As it currently stands, I am using x15 MG90D Servos in my head, but I plan to swap out the x3 MG90D jaw servos with x3 MG92B servos as they provide a bit more torque and believe they should handle better over time. MG92B servos have a very slightly longer housing, but the jaw servo spaces are not as restricted and this will not impact fitting them in. 
@@ -41,7 +14,41 @@ The MG90D servos are doing the job just fine, though I am noticing the jaw begin
 
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
 
-===========================================================================
+HARDWARE
+=
+- x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
+
+- x2 - Du-Bro (181) 2-56 Threaded Ball Link - https://a.co/d/0wf1e1V
+
+- x4 - Du-Bro E-Z Connectors With Re-Usable Nylon Snap Ons - https://a.co/d/9076KMQ
+
+- x1 - Y Servo Splitter Cable (Male to x2 Female) -  https://a.co/d/4Yzls2i
+
+- x4 - Dupont Cables. (Arduino Nano to PCA9685) Perhaps a few more if MPU6050 is set up also.
+
+- Endless amount of M2 screws and bolts of different lengths. (Will be updated when I put together final count)
+
+- x8 M3x12mm Bolts / x4 - M3x16mm Bolts
+
+- x4 M4x16mm Bolts (I used self tapping large screws, I still need to verify exact size. They are more stable though.)
+
+ELECTRONICS
+=
+- x1 - Arduino Nano (Brand or Generic)- https://a.co/d/9V0zZ5S  (I'm using generic without issue.)
+
+- x1 - Mini B USB Cable (3FT) for the Arduino Nano - https://a.co/d/219j3qb
+
+  If using either Jon Bailey's headstand set up (https://www.thingiverse.com/thing:4670770) or have the head attached to the body of your Inmoov (...I         think), 3FT should give you plenty of room to work with. The Mini B USB cable provided with the Arduino Nano will be too short. 
+
+- x1 - PCA9685 (16-Channel 12-bit PWM/Servo Driver) - https://a.co/d/cDNK8FY / https://www.adafruit.com/product/815
+
+  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and will likely fail or burn. I'm sure there are some great cheaper ones out there also though. 
+  
+- A power supply. This may vary depending on how you are setting your head up. I gave some suggestions in the "Beginners guide to moving servos with a PCA9685 and MYROBOTLAB" youtube video on the main page.
+
+- Cables from power supply to terminal block on the PCA9685 to power the servo motors.   
+  
+- x1 - MPU6050 - https://a.co/d/gO6KlX1 (There is a slot for one in the head, though I haven't experimented with it yet or included it in the service I have set up in the "MRL-Files" folder yet. (To be updated hopefully!)
 
 PUPIL CAMERA RELATED ITEMS
 =
@@ -77,16 +84,10 @@ I recommend the following youtube video as a walkthrough for getting your Raspbe
 
 "How to build a Raspberry Pi webcam | Easy beginner project!" - https://youtu.be/zmP1ZuV4kB8
 
-
-
-
 The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
-
-===========================================================================
 
 NEODYMIUM MAGNETS
 =
-
 #Note - I used the "NAZZO" brand of neodymium magnets found in the provided links as they are very strong and work well for our needs. I ordered two of the mixed sized packs as I was experimenting and wanted some size options to playu with. This is the link for the mixed pack I used. https://a.co/d/1fMVASk
 
 It maybe possible to order only one of the above mixed packs if using the TEMPmagnet.stl on the SkullCap to BackSkull. The TEMPmagnet file was intended as a placeholder magnet to be able to hold the head together while sanding or cleaning it up and or use until the magnets arrive. 
@@ -101,4 +102,4 @@ OTHER
 =
 - Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
 
-- Will update if I missed anything.
+- I will update if I missed anything.
