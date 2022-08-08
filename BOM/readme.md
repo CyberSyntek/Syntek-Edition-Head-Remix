@@ -101,4 +101,4 @@ OTHER
 =
 - Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
 
-- UPDATE
+- Will update if I missed anything.
