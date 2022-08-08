@@ -285,12 +285,13 @@ Once the eyes are back on, flip the MainPlate over and screw on the CamCableClip
 
 ![CompleteEyes](https://user-images.githubusercontent.com/81597534/183307556-747e62b2-ebc0-4644-8d19-850c4bac3976.png)
 
-Note# Using some M2x7mm Screws, You may attach the Raspberry Pi Camera V2 Module to the RasCamModuleHolder now or later on when we attach the Raspberry Pi Zero W.
-To ensure the camera cables stay in the best condition until we attach them, I would suggest later. 
+Note# Using some M2x7mm Screws, You may attach the Raspberry Pi Camera V2 Module to the RasCamModuleHolder now or later on when we attach the Raspberry Pi Zero W in the "04-BrowPlate" folder section tutorial. 
+
+To ensure the camera cables stay in the best condition until we attach them, I would suggest later waiting, but if you are desperate to try out your pupil camera then go for it. :9 
 
 NOW YOUR EYE MECHANISM IS FINISHED!
 =
-It is time begin setting up the Jaw. This tutorial will be continued in the "03-Jaw" folder page. 
+It is time to begin setting up the Jaw. This tutorial will be continued in the "03-Jaw" folder section page. 
 
 
 *TO BE UPDATED*
