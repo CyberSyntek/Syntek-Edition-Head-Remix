@@ -200,7 +200,7 @@ We will be needing to apply a tiny bit of superglue to the ends of the screws ju
 
 WARNING: You do NOT want to apply a drop of superglue directly on them from above as the glue will sink in from around the screw and fuse the pieces that we need to rotate together!
 
-The best method I have found to do this is to squeeze a drop of superglue out into the lid of the storage bottle, run the tip of the bottle (Or anything small and thin really) against that single drop and gently rub a very small amount around on the needed area located at the end of the screws WITHOUT squeezing anymore superglue out. Rub, no squeeze!
+The best method I have found to do this is to squeeze a drop of superglue out into the lid of the storage bottle, run the tip of the bottle (Or anything small and thin really) against that single drop and gently rub a very small amount around on the needed area located at the end of the bolts WITHOUT squeezing anymore superglue out. Rub, no squeeze!
 
 Always do this with the end of the bolt facing downwards as gravity is your friend. Even as it is drying you will want to rotate the pieces a little bit just to make sure that no glue as worked its way through and it can still move freely.
 
