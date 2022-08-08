@@ -92,57 +92,47 @@ x2 Du-Bro 2-56 Swivel Ball Link Connectors OR M2 sized Swivel Ball Link Connecto
 
 #NOTE: I ordered a few batches of M2 connectors from various sellers, none of them were nearly as nice as the Du-Bro connectors. SMOOTH!
 
-
-
 TUTOTIAL (Right Eye)
 =
-
 Note: Start with one side (L-Eye or R-Eye) until you reach the "Single Unit Base" section of this tutorial.
 
 
 BaseConnectors to MainPlate
 = 
-
 Take x6 BaseConnector pieces and slot them into the MainPlate for whichever side eye you decide to start with. Screw them together from the bottom side using x6 M2x8mm screws. I will be using the right side eye in these examples. 
 
 ![001-BaseConnectorToMainPlate](https://user-images.githubusercontent.com/81597534/183090041-8436b93d-4ae6-4eb3-9403-0bdd41b33f2e.png)
 
 Base to BaseConnectors
 =
-
 Place the Base on top of the BaseConnectors. Once the holes are lined up,screw them together with x6 M2-12mm screws.
 
 ![002-BaseToBaseConnector](https://user-images.githubusercontent.com/81597534/183090642-d331a9ee-f9ad-4673-be0a-a838b803b3c1.png)
 
 Gluing the BaseConnectors
 =
-
 Apply a drop of superglue to where Base and BaseConnector are now joined at the bottom of the Base. This will prevent the baseconnectors from being able to rotate. Give the glue a few minutes to dry and come back. 
 
 ![Superglue1](https://user-images.githubusercontent.com/81597534/183108955-35bc3971-67f6-45ba-bdec-01f4cc284ff4.png)
 
 #MORE GLUE!
 =
-
 Unscrew the x6 screws from the bottom of the Mainplate and remove the Base. Now you will be able to apply a bit more superglue with easier access to the bottom of the Base. After the glue dries you can either remove the x6 M2x12mm screws or leave them in, it doesn't really matter. (I leave them in for added strength.)
 
 ![Superglue2](https://user-images.githubusercontent.com/81597534/183110196-72fdbead-a54c-47d3-bd4d-9fda751a848e.png)
 
 Single Unit Base
 =
-
 With the BaseConnectors superglued to the Base and locking them into place unable to rotate, we can now remove the Base as a single unit by simply removing the x6 screws on the bottom of the MainPlate and plug it back into the MainPlate BaseConnector slots when needing to do so. 
 
 ![003-GluedEyeBase](https://user-images.githubusercontent.com/81597534/183121338-0f12281c-2755-4570-abd0-49ab5833f36b.PNG)
 
 #REPEAT THE ABOVE STEPS ON OPPOSITE EYE
 =
-
 Now you will need to repeat the steps above for the opposite side eye. Having these single unit pieces finished and out of the way will make things much easier as we keep progressing. We need to do them one at a time so we can apply the glue to the BaseConnectors more easily.
 
 Eye Servo Setup
 =
-
 Now it is time to mount the L/R and U/D servos for the eye mechanisms. With your servos preset to 90° (centered) mount them as seen in the image below and screw them in using some servo screws. 
 
 #Note: I used some standard size servo screws here to make sure they had a solid hold, but you should be able to use the servo screws that come with your servos.
@@ -153,7 +143,6 @@ The servo horns will be mounted facing towards the outsides of the mechanisms.
 
 ServoHolder to Base & Eyelid Servo Setup
 =
-
 Slide your servo wires through the top holes on the ServoHolder. Screw the servos onto the ServoHolder using x2 Servo Screws then mount the ServoHolder onto the Base and screw it on using x3 M2x12mm screws. Now we will add the otherside x2 servo screws to secure the servos in place.
 
 These servos will also be centered / set to 90° when mounted.
@@ -164,21 +153,17 @@ Finally we will add the servo horns onto the servos in the positions seen below.
 
 EyelidHolder to Base
 =
-
 Now we will screw on the Eyelid holder to the side of the Base using x3 M2x7mm screws.
 
 ![07-EyelidHolder](https://user-images.githubusercontent.com/81597534/183221236-3030e186-a5c8-4b31-9f12-5e6a544f0d23.png)
 
-
 BaseExtension to EyeHolder
 =
-
 Align and screw together the BaseExtension and the EyeHolder using a M2x12mm screw. Once you are sure it is lined up well, you may want to apply a drop of superglue to prevent it shifting as the servos move which could offset the eyes movement. 
 ![08-BaseExtension](https://user-images.githubusercontent.com/81597534/183222149-6ce3b23a-8830-4431-b611-c281fa502409.png)
 
 Eye Connectors
 =
-
 Here we will want to use ideally x2 25mm threaded rods to screw into the the x2 EyeLinks and then adding a drop of superglue to secure them in place.
 
 You will then screw on a 2-56 or M2 swivel ball link connector onto each of the rods.
@@ -191,22 +176,20 @@ I strongly recommend doing both eye's rods at the time as it will be easier to m
 
 THE DANGER ZONE!!!
 =
-
 The following three steps are nicknamed THE DANGER ZONE I, II & III. 
 
 While they are not actually dangerous, it is easy to mess them up doing this the wrong way.  
 
-We will be needing to apply a tiny bit of superglue to the ends of the screws just to give them a little bit of extra hold due to it is possible for the screws to come loose over time with the servos constantly moving around and rotating around them. This can be very tricky if not being careful and will likely result in needing to reprint a few pieces. Luckily they are small pieces, but it is nice to avoid needing to do that.  
+We will be needing to apply a tiny bit of superglue to the ends of the bolts just to give them a little bit of extra hold due to it is possible for the bolts to come loose over time with the servos constantly moving around and rotating around them. This can be very tricky if not being careful and will likely result in needing to reprint a few pieces. Luckily they are small pieces, but it is nice to avoid needing to do that.  
 
 WARNING: You do NOT want to apply a drop of superglue directly on them from above as the glue will sink in from around the screw and fuse the pieces that we need to rotate together!
 
 The best method I have found to do this is to squeeze a drop of superglue out into the lid of the storage bottle, run the tip of the bottle (Or anything small and thin really) against that single drop and gently rub a very small amount around on the needed area located at the end of the bolts WITHOUT squeezing anymore superglue out. Rub, no squeeze!
 
-Always do this with the end of the bolt facing downwards as gravity is your friend. Even as it is drying you will want to rotate the pieces a little bit just to make sure that no glue as worked its way through and it can still move freely.
+Always do this with the end of the bolt facing downwards as gravity is your friend. Even as it is drying you will want to rotate the pieces a little bit just to make sure that no glue has worked its way through and it can still move freely.
 
 EyeLink to SmallPivot (THE DANGER ZONE I)
 =
-
 Take an M2x6mm bolt and run it through the EyeLink into the Small pivot. You will want to tighten it enough that is can still rotate freely, but you want to avoid it having any play between the pieces that could cause potential offset in the eye movements. This is more easily achieved if using a flat bottom head bolt, but should be possible with most shaped M2 screws if careful.  
 
 Once you are sure that there is little to no play and that the screw is tight enough, but can still move friction freely.... it is time to enter "THE DANGER ZONE". You will want apply a tiny bit of superglue to the end of the bolt showing through the top of the SmallPivot. 
@@ -215,74 +198,86 @@ Once you are sure that there is little to no play and that the screw is tight en
 
 EyeLink to MainPivot (THE DANGER ZONE II)
 =
-
 Screw the EyeLink to the MainPivot from the top using an M2x6mm screw. Flip it over and carefully enter "THE DANGER ZONE" again.
 
 ![012-RodToMainPivot](https://user-images.githubusercontent.com/81597534/183299201-c1b35248-d16e-4148-b0cf-9699665dd04d.png)
 
 EyeHolder to MainPivot (THE DANGER ZONE III)
 =
-
 Attach the EyeHolder to the middle of the MainPivot screwing in a M2x6mm bolt from the bottom. This one is the most dangerous, but you are almost there. Flip it over and defeat "THE DANGER ZONE" with a tiny bit of super glue. 
 
 ![013-BaseExtensionToMainPivot](https://user-images.githubusercontent.com/81597534/183300020-828e3093-7186-4cd3-aac7-6657da01621b.png)
 
 You Survived THE DANGER ZONE
 =
-Good job friend! You did it! :)
+You did it! That was the most difficult part of this project! Good job friend! :)
 
-Rods to EyeAdaptor
+Pivots to EyeAdaptor
 =
-
 Slot the Small Pivot and MainPivot into the EyeAdaptor gently. 
 
 ![014-RodsToEyeAdaptor](https://user-images.githubusercontent.com/81597534/183300660-8cbddaab-ef8f-4144-97dc-f9fed1ff3514.png)
 
 Eyeball to EyeAdaptor
 =
+While this step is not overly difficult it can be a little tricky so take your time. 
+
+You will want to place your camera into the slot in the Eyeball and snake the camera cable through the open slot on the EyeAdaptor. As the Eyeball camera slot is not overly tight it is easy for the camera to come loose when trying to push the Eyeball onto the EyeAdaptor. Don't panic!
+
+It is easiest to push the EyeBall onto the EyeAdaptor a little bit and slowly push it down. Even if the camera comes loose from its slot, you will be able to adjust it back into the slow by moving the cable around. The further you push the EyeAdaptor in the easier this becomes. The main thing to be careful of is that you are not pushing it in so far that you are crushing the camera if it isn't aligned or that it has become so tight that you can align it back into its slot by moving the camera's cable around. The EyeAdaptor will hold it in place once fully on, so just take it slow and try and align it closer to when the EyeAdaptor is getting closer to being fully inside the Eyeball. 
 
 ![EyeballToEyeAdaptor](https://user-images.githubusercontent.com/81597534/183301399-32c9074c-156f-4dce-85a9-b1a4cae114c1.png)
 
-
 Screw Check
 =
-
 Make sure to check the bottom of the Base and see if any of the tips of the Servo Screws are sticking out. This will depend on which servo screws you use, but if any tips are sticking out then cut them off. Having the screws stick out here can damage your camera cable or less likely... your servo cables if you are unlucky. It is best to cut them flush with the bottom of the Base.
 
 ![ScrewCheck](https://user-images.githubusercontent.com/81597534/183303628-55d80f54-686a-44ef-ad16-17b7ba46db5a.png)
 
 BaseExtension to Base
 =
+Align the BaseExtension on its slot on the Base and hold it in place with your finger. From the bottom of the Base you will want to line up the RasCamModuleHolder with the holes and run x3 M2x10mm screw threw both the RasCamModuleHolder and Base into the BaseExtension.
 
 ![BaseExtensionToBase1](https://user-images.githubusercontent.com/81597534/183302776-f038e904-64d8-4351-8dc1-1eb96136cd5f.png)
 
 Eyeball - Servo Horns
 =
+Following the image below, you will want to attach swivel ball link connectors to the servo horns using x2 M2x8mm screw. The L/R eye servo horn hole you will be attaching the swivel ball link connector to is the 2nd from the center of the servo horn. The U/D servo horn hole will be the 4th from the center.
+
+It is possible to do this stage before entering "THE DANGER ZONE" so that you can attach one or two of the swivel ball link connectors to make sure that the eye is facing forward directly without having any offsets and needing to unscrew the swivel ball link connector a bit until it lines up. They will all need to be the same length so it is possible to just connect one, remove it and adjust the rest of the rod lengths to match the one you know lines up well. 
+
+Alternatively, even if you have completed "THE DANGER ZONE" you can screw it on, check for offsets, and unscrew the swivel ball link connector a bit with the rod still attached to the pivots with some care. Either way should be fine and will be your choice. 
 
 ![EyeballServoHornHoles](https://user-images.githubusercontent.com/81597534/183304562-d8f53789-7792-4c62-a779-5d00c9bdf2e6.png)
 
 Eyeball - Servo Check
 =
-
 Connect your servos and test your eyes using limited range Min/Max settings to make sure you do not have any strange movement occuring or offsets.
 
 You can do this various ways such as using a servo tester or by running them in MRL. I have given examples of my servo limits in the MRL-Files section. Trust me, it is better to do now than later, I know from experience. :)
 
 Eyelids 
 =
+Now that you have confirmed your eye works without issue and there is no offsets, it is time to move onto the Eyelids.
+
+You will want slightly screw in a M2x7mm bolt from the Base side, just long enough that it can grip the LowerEyelid. Slightly screw in a M2x9mm from the EyelidHolder side so that it also grips the LowerEyelid. Now hold the TopEyelid in place and slowly tighten each sides screws a little bit to that the eyelids are able to hang in place. Now that you have your hands free you can go ahead in the M2x7 bolt all the way (If you used a bottom side flatheaded bolt). The EyelidHolder side you will not have to tighten all the way if using an Mx9mm bolt. A M2x8mm bolt may also work though I wanted to avoid risk of the Eyelids coming loose from the screw for less troubleshooting. 
+
+You can now take the TopEyeLidConnector (shorter) and attach it to the TopEyelid using an M2x7mm bolt. Next the BottomEyelidConnector (longer) will be attached to the BottomEyelid using another M2x7mm bolt.
+
+Now you can attach the corresponding EyelidConnectors to the top and bottom servo horns using M2x7mm screws into the 6th hole from the center holes of the servo horns.
+
+You may want to test the Eyelid servos at this point just to make sure the Eyelid Connectors are holding to the Eyelids and that everything is moving okay as it will a more tricky to adjust things once we have everything attached.
 
 ![Eyelids](https://user-images.githubusercontent.com/81597534/183305973-de99c9ac-338b-4fd4-af4d-7725bcfab284.png)
 
 BaseBeams to Base
 =
-
 Screw the x3 BaseBeams to the base using x3 M2x16mm Screws. You CAN superglue these also, but it isn't absolutely necessary. 
 
 ![BaseBeams](https://user-images.githubusercontent.com/81597534/183306633-080aba24-2f60-4fd7-a9d0-6ded5732e833.png)
 
 Base returns to MainPlate
 =
-
 Our eyes are finally ready to come back home to the MainPlate. Screw them in again from the bottom of the MainPlate using the x6 M2x8mm Screws (per eye).
 
 Once the eyes are back on, flip the MainPlate over and screw on the CamCableClips for whichever side you are using a camera. 
@@ -296,11 +291,9 @@ To ensure the camera cables stay in the best condition until we attach them, I w
 
 NOW YOUR EYE MECHANISM IS FINISHED!
 =
-
 It is time begin setting up the Jaw. This tutorial will be continued in the "03-Jaw" folder page. 
 
 
 *TO BE UPDATED*
 =
-
 - Alternative Camera fit eyes (I will be adding another camera fit eye file option in the near future) 
