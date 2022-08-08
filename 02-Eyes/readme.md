@@ -219,7 +219,7 @@ While this step is not overly difficult it can be a little tricky so take your t
 
 You will want to place your camera into the slot in the Eyeball and snake the camera cable through the open slot on the EyeAdaptor. As the Eyeball camera slot is not overly tight it is easy for the camera to come loose when trying to push the Eyeball onto the EyeAdaptor. Don't panic!
 
-It is easiest to push the EyeBall onto the EyeAdaptor a little bit and slowly push it down. Even if the camera comes loose from its slot, you will be able to adjust it back into the slow by moving the cable around. The further you push the EyeAdaptor in the easier this becomes. The main thing to be careful of is that you are not pushing it in so far that you are crushing the camera if it isn't aligned or that it has become so tight that you can align it back into its slot by moving the camera's cable around. The EyeAdaptor will hold it in place once fully on, so just take it slow and try and align it closer to when the EyeAdaptor is getting closer to being fully inside the Eyeball. 
+It is easiest to push the EyeBall onto the EyeAdaptor a little bit and slowly push it down. Even if the camera comes loose from its slot, you will be able to adjust it back into the slot by moving the cable around. The further you push the EyeAdaptor in the easier this becomes. The main thing to be careful of is that you are not pushing it in so far that you are crushing the camera if it isn't aligned or that it has become so tight that you cannot align it back into its slot by moving the camera's cable around easily as the cable is fragile. The EyeAdaptor will hold it in place once it is fully on, so just take it slow and try and align it closer to when the EyeAdaptor is getting closer to being fully inside the Eyeball. 
 
 ![EyeballToEyeAdaptor](https://user-images.githubusercontent.com/81597534/183301399-32c9074c-156f-4dce-85a9-b1a4cae114c1.png)
 
@@ -255,13 +255,15 @@ Eyelids
 =
 Now that you have confirmed your eye works without issue and there is no offsets, it is time to move onto the Eyelids.
 
-You will want slightly screw in a M2x7mm bolt from the Base side, just long enough that it can grip the LowerEyelid. Slightly screw in a M2x9mm from the EyelidHolder side so that it also grips the LowerEyelid. Now hold the TopEyelid in place and slowly tighten each sides screws a little bit to that the eyelids are able to hang in place. Now that you have your hands free you can go ahead in the M2x7 bolt all the way (If you used a bottom side flatheaded bolt). The EyelidHolder side you will not have to tighten all the way if using an Mx9mm bolt. A M2x8mm bolt may also work though I wanted to avoid risk of the Eyelids coming loose from the screw for less troubleshooting. 
+You will want slightly screw in a M2x7mm bolt from the Base side, just enough so that it can grip the LowerEyelid. Next, slightly screw in a M2x9mm bolt from the EyelidHolder side so that it also grips the LowerEyelid. Now hold the TopEyelid in place and slowly tighten each sides bolts a little bit to that the eyelids are able to hang in place. Now that you have your hands free you can go ahead and carefully tighten the M2x7 bolt all the way (If you used a bottom side flatheaded bolt). Remeber that this is a pretty thin part so be sure not to over tighten or you may risk cracking it. 
+
+The EyelidHolder side you will not have to tighten all the way if using an Mx9mm bolt. A M2x8mm bolt may also work, although I wanted to avoid the risk of the Eyelids coming loose from the screw for less troubleshooting. Just make sure it is screwed in enough to hold the eyelids, but not rub against the eye with the eye turning L/R. 
 
 You can now take the TopEyeLidConnector (shorter) and attach it to the TopEyelid using an M2x7mm bolt. Next the BottomEyelidConnector (longer) will be attached to the BottomEyelid using another M2x7mm bolt.
 
-Now you can attach the corresponding EyelidConnectors to the top and bottom servo horns using M2x7mm screws into the 6th hole from the center holes of the servo horns.
+Now you can attach the corresponding EyelidConnectors to the top and bottom servo horns using M2x7mm screws into the 6th hole from the center holes of the servo horns as seen in the image below.
 
-You may want to test the Eyelid servos at this point just to make sure the Eyelid Connectors are holding to the Eyelids and that everything is moving okay as it will a more tricky to adjust things once we have everything attached.
+You may want to test the Eyelid servos at this point just to make sure the Eyelid Connectors are holding to the Eyelids, nothing is too tight or too loose and that everything is moving okay as it will a more tricky to adjust things once we have everything attached.
 
 ![Eyelids](https://user-images.githubusercontent.com/81597534/183305973-de99c9ac-338b-4fd4-af4d-7725bcfab284.png)
 
