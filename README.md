@@ -35,6 +35,11 @@ And while we are at it, here is a bonus link to the MYROBOTLAB (MRL) homepage: h
 
 -BOM- 
 =
+
+For a full list of the electronics and hardware needed, please refer to the BOM folder readme file.
+
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
+
 #Note - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
 
 HARDWARE
