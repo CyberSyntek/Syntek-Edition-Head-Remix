@@ -1,3 +1,5 @@
+![MAINPLATE](https://user-images.githubusercontent.com/81597534/183329244-1c5f2c59-82e2-43c3-970a-2562e936406c.png)
+
 MAINPLATE PREP & GETTING CALIBRATE
 =
 https://user-images.githubusercontent.com/81597534/182950770-03a6c6f6-c38f-402b-a273-ccfd5f3d8ddc.mp4
