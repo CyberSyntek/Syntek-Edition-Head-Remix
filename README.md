@@ -45,7 +45,7 @@ UPDATES
 
 - 08-07-2022 
 
-  - "02-Eye" folder Eye mechanism tutorial complete.
+  - "02-Eyes" folder Eye mechanism tutorial complete.
 
 - 08-04-2022 
 
