@@ -68,12 +68,18 @@ Lateral Jaw Servos and Cutting the Tips
 
 ![05-ServoAndTips](https://user-images.githubusercontent.com/81597534/183472510-9ffdbdef-a66c-4447-8437-46a982d744ad.png)
 
+Lateral Jaw Servo Horns
+=
+We will be screwing in x4 M2x8mm Screws from the bottom of the ServoConnectors into the servo horns. The screws will be inserted into the 2nd and 5th from the center of the servo horn holes as seen below.
+
+![06-LatJawServoHorns](https://user-images.githubusercontent.com/81597534/183493418-f49a0942-3061-4ca4-8441-9bb5b973f21f.png)
+
+
+
 
 
 
 
 *TO BE UPDATED*
-
+=
 - Component List / Screw Sizes
-
-- Image Files #Update: Images prepared, Eye tutorial took longer than expected. Hopefully tomorrow this section will be updated and finished. 
