@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/81597534/182950770-03a6c6f6-c38f-402b-
 
 Note: The MainPlate.stl has been further adjusted since this video and may look slightly different. The clean up prep method and suggested methods remain the same with the current version. 
 
-Note: I suggest waiting to apply the grease mentioned in the above video until you reach the "04-BrowPlate" folder tutorial in the readme file. 
+Note: I suggest waiting to apply the grease to the MainGear as mentioned in the above video until you reach the "04-BrowPlate" folder tutorial in the readme file. You will likely need to remove it until then and grease can get messy!
 
 TUTORIAL
 =
