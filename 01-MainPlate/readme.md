@@ -17,6 +17,10 @@ STL FILES
 
 MAINPLATE PREP & GETTING CALIBRATED
 =
+This video will help you prepare the MainPlate and give you an idea on how to calibrate your printer for the rest of the prints.
+
+*EDIT* NEED TO UPDATE. Quality is too low. I will divide and upload the video files again for clearer picture.
+
 https://user-images.githubusercontent.com/81597534/182950770-03a6c6f6-c38f-402b-a273-ccfd5f3d8ddc.mp4
 
 Note: The MainPlate.stl has been further adjusted since this video and may look slightly different. The clean up prep method and suggested methods remain the same with the current version. 
