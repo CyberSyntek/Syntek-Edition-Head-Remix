@@ -189,23 +189,52 @@ I strongly recommend doing both eye's rods at the time as it will be easier to m
 
 ![010-2-RodToEyeLink](https://user-images.githubusercontent.com/81597534/183297918-f764be4d-f21f-422d-a8c9-75206cdcf06e.png)
 
+THE DANGER ZONE!!!
+=
+
+The following three steps are nicknamed THE DANGER ZONE I, II & III. 
+
+While they are not actually dangerous, it is easy to mess them up doing this the wrong way.  
+
+We will be needing to apply a tiny bit of superglue to the ends of the screws just to give them a little bit of extra hold due to it is possible for the screws to come loose over time with the servos constantly moving around and rotating around them. This can be very tricky if not being careful and will likely result in needing to reprint a few pieces. Luckily they are small pieces, but it is nice to avoid needing to do that.  
+
+WARNING: You do NOT want to apply a drop of superglue directly on them from above as the glue will sink in from around the screw and fuse the pieces that we need to rotate together!
+
+The best method I have found to do this is to squeeze a drop of superglue out into the lid of the storage bottle, run the tip of the bottle (Or anything small and thin really) against that single drop and gently rub a very small amount around on the needed area located at the end of the screws WITHOUT squeezing anymore superglue out. Rub, no squeeze!
+
+Always do this with the end of the bolt facing downwards as gravity is your friend. Even as it is drying you will want to rotate the pieces a little bit just to make sure that no glue as worked its way through and it can still move freely.
+
 EyeLink to SmallPivot (THE DANGER ZONE I)
 =
+
+Take an M2x6mm bolt and run it through the EyeLink into the Small pivot. You will want to tighten it enough that is can still rotate freely, but you want to avoid it having any play between the pieces that could cause potential offset in the eye movements. This is more easily achieved if using a flat bottom head bolt, but should be possible with most shaped M2 screws if careful.  
+
+Once you are sure that there is little to no play and that the screw is tight enough, but can still move friction freely.... it is time to enter "THE DANGER ZONE". You will want apply a tiny bit of superglue to the end of the bolt showing through the top of the SmallPivot. 
 
 ![SmallPivotRod000](https://user-images.githubusercontent.com/81597534/183301741-9ee249e6-4cd5-4165-a407-349697957f9b.png)
 
 EyeLink to MainPivot (THE DANGER ZONE II)
 =
 
+Screw the EyeLink to the MainPivot from the top using an M2x6mm screw. Flip it over and carefully enter "THE DANGER ZONE" again.
+
 ![012-RodToMainPivot](https://user-images.githubusercontent.com/81597534/183299201-c1b35248-d16e-4148-b0cf-9699665dd04d.png)
 
 EyeHolder to MainPivot (THE DANGER ZONE III)
 =
 
+Attach the EyeHolder to the middle of the MainPivot screwing in a M2x6mm bolt from the bottom. This one is the most dangerous, but you are almost there. Flip it over and defeat "THE DANGER ZONE" with a tiny bit of super glue. 
+
 ![013-BaseExtensionToMainPivot](https://user-images.githubusercontent.com/81597534/183300020-828e3093-7186-4cd3-aac7-6657da01621b.png)
+
+You Survived THE DANGER ZONE
+=
+Good job friend! You did it! :)
 
 Rods to EyeAdaptor
 =
+
+Slot the Small Pivot and MainPivot into the EyeAdaptor gently. 
 
 ![014-RodsToEyeAdaptor](https://user-images.githubusercontent.com/81597534/183300660-8cbddaab-ef8f-4144-97dc-f9fed1ff3514.png)
 
@@ -217,6 +246,8 @@ Eyeball to EyeAdaptor
 
 Screw Check
 =
+
+Make sure to check the bottom of the Base and see if any of the tips of the Servo Screws are sticking out. This will depend on which servo screws you use, but if any tips are sticking out then cut them off. Having the screws stick out here can damage your camera cable or less likely... your servo cables if you are unlucky. It is best to cut them flush with the bottom of the Base.
 
 ![ScrewCheck](https://user-images.githubusercontent.com/81597534/183303628-55d80f54-686a-44ef-ad16-17b7ba46db5a.png)
 
@@ -235,9 +266,7 @@ Eyeball - Servo Check
 
 Connect your servos and test your eyes using limited range Min/Max settings to make sure you do not have any strange movement occuring or offsets.
 
-You can do this various ways such as using a servo tester or by running them in MRL. I have given examples of my servo limits in the MRL-Files section.
-
-Trust me, it is better to do now than later, I know from experience. :)
+You can do this various ways such as using a servo tester or by running them in MRL. I have given examples of my servo limits in the MRL-Files section. Trust me, it is better to do now than later, I know from experience. :)
 
 Eyelids 
 =
