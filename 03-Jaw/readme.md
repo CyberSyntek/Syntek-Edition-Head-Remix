@@ -21,4 +21,4 @@ STL FILES
 
 - Component List / Screw Sizes
 
-- Image Files
+- Image Files #Update: Images prepared, Eye tutorial took longer than expected. Hopefully tomorrow this section will be updated and finished. 
