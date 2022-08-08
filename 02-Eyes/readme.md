@@ -297,7 +297,7 @@ To ensure the camera cables stay in the best condition until we attach them, I w
 NOW YOUR EYE MECHANISM IS FINISHED!
 =
 
-It is time begin setting up the Jaw. 
+It is time begin setting up the Jaw. This tutorial will be continued in the "Jaw" folder page. 
 
 
 *TO BE UPDATED*
