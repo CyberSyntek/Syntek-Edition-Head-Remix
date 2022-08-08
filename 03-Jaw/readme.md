@@ -1,7 +1,7 @@
-STL FILES
+JAW - STL FILES
 =
 
-![JawFiles](https://user-images.githubusercontent.com/81597534/183478717-a6cd3ce7-50e5-4f68-a7a3-e2bda4d29aea.png)
+![JawFiles](https://user-images.githubusercontent.com/81597534/183479150-c991de2e-8afb-4c7f-ba01-019cae687711.png)
 
 - BallLinkConnector
 
