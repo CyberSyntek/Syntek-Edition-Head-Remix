@@ -70,7 +70,7 @@ x8 Servo Screws - Total Needed = x16
 
 x4 M2x6mm Screws - Total Needed = x8
 
-x9 M2x7mm Screws - Total Needed = Upto x18
+x5 M2x7mm Screws - Total Needed = Upto x10
 
 x8 M2x8mm Screws - Total Needed = x16
 
@@ -95,7 +95,6 @@ x2 Du-Bro 2-56 Swivel Ball Link Connectors OR M2 sized Swivel Ball Link Connecto
 TUTOTIAL (Right Eye)
 =
 Note: Start with one side (L-Eye or R-Eye) until you reach the "Single Unit Base" section of this tutorial.
-
 
 BaseConnectors to MainPlate
 = 
