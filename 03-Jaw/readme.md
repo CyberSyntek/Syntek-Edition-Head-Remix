@@ -74,11 +74,17 @@ We will be screwing in x4 M2x8mm Screws from the bottom of the ServoConnectors i
 
 ![06-LatJawServoHorns](https://user-images.githubusercontent.com/81597534/183493418-f49a0942-3061-4ca4-8441-9bb5b973f21f.png)
 
+Zip Ties
+=
+![Zip](https://user-images.githubusercontent.com/81597534/183519041-8353d7ec-9a40-4bed-a6eb-a3b3caa52bce.png)
 
 
+![YCable](https://user-images.githubusercontent.com/81597534/183519057-1fa093bd-a743-479b-996e-29654be3ef37.png)
 
 
+![Cableplanning](https://user-images.githubusercontent.com/81597534/183519089-99653fc9-c202-4c75-87dd-482cbe7d977c.png)
 
+![BadHairDays](https://user-images.githubusercontent.com/81597534/183519101-e2fa479a-aa26-48a1-a968-d0e3bbaa55b7.png)
 
 *TO BE UPDATED*
 =
