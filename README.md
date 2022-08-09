@@ -1,5 +1,17 @@
-THIS PAGE AND ALL OTHERS ON HERE ARE BEING UPDATED
-=
+- 01-MainPlate - Complete
+
+- 02-Eyes - Complete
+
+- 03-Jaw - Complete
+
+- 04-BrowPlate - In progress.
+
+- 05-Skull - 
+
+- BOM - 
+
+- MRL-Files - ... this will hopefully never be complete and keep getting updates the more I play with the head and set things up. 
+
 ![Comebacklater](https://user-images.githubusercontent.com/81597534/182967202-6d439db3-9d51-41ec-9889-3c8a91f275c1.png)
 
 ABOUT
@@ -40,17 +52,12 @@ For a full list of the electronics and hardware needed, please refer to the BOM 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
+MRL-FILES 
+=
+This will contain my service set up, pin layouts and various code updates relating to the general operations of the new head. 
+
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/MRL-Files
+
 UPDATES
 = 
-
-- 08-07-2022 
-
-  - "02-Eyes" folder Eye mechanism tutorial complete.
-
-- 08-04-2022 
-
-  - Most of the current files uploaded here with the exception of two eyebrow related parts that need adjusting. 
-
-  - It is possible to print and use the head with the currenly available parts without eyebrows till those two parts are adjusted.
-
-  - This page was created.
+Future updates will be listed here. 
