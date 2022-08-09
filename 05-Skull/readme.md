@@ -9,11 +9,13 @@ STL FILES
 
 - RotNeckGear.stl
 
-===================================
+  #Note: You will want to download some ears from the InMoov website. 
+  
+  http://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Skull-and-Ears
 
-The included "EarLeft" & "EarRight" are Gael Langevin's original ear designs from the inmoov website. 
+  You MAY find other ear variations on www.thingiverse.com
 
-Other ear variations are available on www.inmoov.fr and www.thingiverse.com
+
 
 ===================================
 
@@ -26,3 +28,5 @@ The skull reshaping to allow for this to design to come together could not have 
 - Component List / Screw Sizes
 
 - Image Files
+
+- This whole tutorial. :)
