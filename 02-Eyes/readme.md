@@ -15,10 +15,13 @@ Here is a link to Will Cogley's "How to Make a Compact Animatronic Eye Mechanism
 
 EYE STL FILES
 =
-
 You will need the following files for both the Left and Right eyes. Example: L-Base.stl & R-Base.stl
 
+![EyepartsDisplay](https://user-images.githubusercontent.com/81597534/183741857-ce01d005-8207-4b04-9cdb-a2d95ebeae02.png)
+
 - Base.stl
+
+- BaseBeam.stl x3
 
 - BaseExtension.stl
 
@@ -34,15 +37,15 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 - EyelidHolder.stl
 
-- Eyelink.stl x2
+- EyeLink.stl x2
 
-- MainPivot.stl (Requires Supports)
+- MainPivot.stl (Supports can help)
 
 - RasCamModuleHolder.stl
 
 - ServoHolder.stl
 
-- SmallPivot.stl (Requires Supports)
+- SmallPivot.stl (Supports can help)
 
 - TopEyelid.stl
 
@@ -258,6 +261,16 @@ You can do this various ways such as using a servo tester or by running them in 
 Eyelids 
 =
 Now that you have confirmed your eye works without issue and there is no offsets, it is time to move onto the Eyelids.
+
+Before we install the eyelids onto the mechanism, I would recommend that you check your eyelids can close to a flush position. This will very much depend on your print settings and if little obstructions in the print will prevent them from closing all the way or not. This may not be needed, but it is easiest to check now. 
+
+Screw in some bolts into both sides of the eyelids so they are held together. Try closing them and check for any spaces between them. If they will not close all the way, hold them up against a light and check to see where they are being onbstructed from. Very often any obstruction in the printing will be close to the corners on both sides of the eyelids on both the Top and Bottom eyelids. Having good light here will be the key to see where the issue is. 
+
+You can use a small file or sand paper to very lightly rub those areas with the bolts still in the eyelids and check them again. You will not need to do much sanding/filing here so go slowly until you are happy enough with the results assuming you even have any obstructions. :)
+
+Now you are ready to get them onto the mechanism!
+
+![Eyelid-prep](https://user-images.githubusercontent.com/81597534/183733727-e3fc8b31-5e05-4eae-80dd-d168ccf5a027.png)
 
 You will want slightly screw in a M2x7mm bolt from the Base side, just enough so that it can grip the LowerEyelid. Next, slightly screw in a M2x9mm bolt from the EyelidHolder side so that it also grips the LowerEyelid. Now hold the TopEyelid in place and slowly tighten each sides bolts a little bit to that the eyelids are able to hang in place. Now that you have your hands free you can go ahead and carefully tighten the M2x7 bolt all the way (If you used a bottom side flatheaded bolt). Remeber that this is a pretty thin part so be sure not to over tighten or you may risk cracking it. 
 
