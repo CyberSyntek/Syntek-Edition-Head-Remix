@@ -7,6 +7,8 @@ STL FILES
 
 - SkullCap.stl (Requires Supports)
 
+- RotNeckGear.stl
+
 ===================================
 
 The included "EarLeft" & "EarRight" are Gael Langevin's original ear designs from the inmoov website. 
