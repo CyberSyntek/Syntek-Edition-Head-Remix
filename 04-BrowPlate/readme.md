@@ -1,6 +1,8 @@
-STL FILES
+BROWPLATE- STL FILES
 =
-- List here. 
+
+
+- 
 
 MISSING FILES
 = 
@@ -9,14 +11,31 @@ MISSING FILES
 - BrowHolder-R (Need adjusting to fix servo buzz)
 
 
+ELECTRONICS
+=
+- 
+
+SCREWS / BOLTS / CONNECTORS
+=
+- 
+
+
+TUTORIAL
+= 
+
+
+BROWPLATE IS FINISHED!
+=
+Now onto the final step located in the 05-BrowPlate folder readme file.
+
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/05-Skull
+
 TO BE UPDATED
 =
 - Upload Missing parts once complete
 
 - Component List / Screw Sizes
 
-x4 - M2x7mm Screws (Per side Camera Module)
+- Image files
 
-- Image Files (Update: Mostly prepared. Need to label)
-
-
+- .... this whole tutorial. :D
