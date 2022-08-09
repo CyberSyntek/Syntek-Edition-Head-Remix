@@ -157,7 +157,3 @@ YOUR JAW IS FINISHED!
 Now we can move onto the 04-BrowPlate readme file for the following tutorial.
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/04-BrowPlate
-
-*TO BE UPDATED*
-=
-- Component List / Screw Sizes
