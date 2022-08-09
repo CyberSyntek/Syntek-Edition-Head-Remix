@@ -59,8 +59,9 @@ NOTE: It is possible to put cameras in both eyes, but you really only need one.
 
 x1 - 8MP Camera Module 77.6° Wide Angle Field View Camera for Raspberry Pi
 
-NOTE: CAMERA RELATED ITEMS WILL CONTINUE IN THE "04-BrowPlate" FOLDER TUTORIAL!
+x1 - Raspberry Pi Camera Module V2
 
+x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable
 
 SCREWS / BOLTS / ETC (PER EYE)
 =
@@ -292,9 +293,9 @@ Once the eyes are back on, flip the MainPlate over and screw on the CamCableClip
 
 Note# Using some M2x7mm Screws, You may attach the Raspberry Pi Camera V2 Module to the RasCamModuleHolder now or later on when we attach the Raspberry Pi Zero W in the "04-BrowPlate" folder tutorial. 
 
-To ensure the camera cables stay in the best condition until we attach them, I would suggest later waiting unless you have everything ready to mount it to a headstand or your robot. 
+To ensure the camera cables stay in the best condition until we attach them, I would suggest waiting unless you have everything ready to mount it to a headstand or your robot. 
 
-You will need to attach the Raspi Zero W camera cable to the Module prior to mounting it to the RasCamModuleHolder and then sneak the cable through the CableClips as seen in the image below. The cable will come up and through the slot under the Eyelid servos. Once the cable is clear you can flip on the 8MP camera's cable onto the V2 Cam module.
+You will need to attach the Raspi Zero W camera cable to the Module prior to mounting it to the RasCamModuleHolder and then sneak the cable through the CableClips as seen in the image below. The cable will come up and through the slot under the Eyelid servos. Once the cable is clear you can clip on the 8MP camera's cable onto the V2 Cam module.
 
 ![CameraCable](https://user-images.githubusercontent.com/81597534/183520058-456ac23a-7021-4bc8-a57a-a52243bfaefd.png)
 
