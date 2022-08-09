@@ -144,6 +144,8 @@ You will want to attach the MainGear to the NeckPlateHigh file from the InMoov w
 
 ![NeckPlateHigh](https://user-images.githubusercontent.com/81597534/183765405-aae23bd1-547f-4da8-81f7-e413ce504817.png)
 
+Download the NeckPlateHighV2.stl file from here. http://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Neck
+
 At the time of writing this, I still am using Jon Bailey's headstand and have yet to move to my Inmoov's body. Number of cables through the neck may increase as parts get further updated. 
 
 Bad Hair Day
