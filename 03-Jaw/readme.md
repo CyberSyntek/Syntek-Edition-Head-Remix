@@ -148,6 +148,8 @@ Download the NeckPlateHighV2.stl file from here. http://inmoov.fr/inmoov-stl-par
 
 At the time of writing this, I still am using Jon Bailey's headstand and have yet to move to my Inmoov's body. Number of cables through the neck may increase as parts get further updated. 
 
+You can download Jon Bailey's Headstand from here - https://www.thingiverse.com/thing:4670770
+
 Bad Hair Day
 =
 If you have followed along so far and are using John Bailey's headstand then your build should look just like this. A BAD HAIR (wire) DAY!
