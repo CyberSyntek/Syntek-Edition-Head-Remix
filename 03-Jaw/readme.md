@@ -48,7 +48,7 @@ Screw in the Ball Joint piece from either a 2-56 or M2 Threaded Ball Link into t
 BallLinkConnector Prep
 =
 
-Take x2 M2x20mm Bolts and cut the bolt heads off of them. Screw in the remaining bolt rod pieces into the x2 BallLink pieces. Screw those into each side of the BallLinkConnector.stl file and make sure that the empty BallJoints are both facing the same direction. We will be putting this piece aside until the "03-BrowPlate" tutorial so keep it and the remaining x1 ball joint safe until ready to use it! 
+Take x2 M2x20mm Bolts and cut the bolt heads off of them. Screw in the bolt rod pieces into the x2 Threaded Ball Link pieces as seen in image. Screw those into each side of the BallLinkConnector.stl file and make sure that the empty ball joints are both facing the same direction. We will be putting this piece aside until the "03-BrowPlate" tutorial. Keep it and the remaining x1 ball joint in a safe place until ready to use it! 
 
 ![BallLinkConnector](https://user-images.githubusercontent.com/81597534/183727180-1b6c2c89-4b25-4c81-90db-59b1942b35c3.png)
 
