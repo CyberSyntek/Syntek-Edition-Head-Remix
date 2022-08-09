@@ -1,6 +1,5 @@
 JAW - STL FILES
 =
-
 ![JawFiles](https://user-images.githubusercontent.com/81597534/183479150-c991de2e-8afb-4c7f-ba01-019cae687711.png)
 
 - BallLinkConnector
@@ -21,11 +20,27 @@ JAW - STL FILES
 
 ELECTRONICS
 =
-
-x2 - MG92B Servo Motors (MG90D / MG90S / Servos around this size should work, but higher torque is ideal)
+- x2 - MG92B Servo Motors (MG90D / MG90S / Servos around this size should work, but higher torque is ideal)
 
 SCREWS / BOLTS / CONNECTORS
 =
+- x8 - M2x8mm Screws 
+
+- x4 - M2x12mm Screws
+
+- x2 - M2x16mm Bolts 
+
+- x2 - M2x20mm Bolts 
+
+- x2 - M2 Nuts
+
+- x4 - Servo Screws
+
+- x8 - M3x12 Bolts 
+
+- x4 - M3x16mm Bolts
+
+- x2 - Zipties
 
 - x2 - 2-56 or M2 Threaded Ball Links
 
@@ -100,20 +115,48 @@ We will be screwing in x4 M2x8mm Screws from the bottom of the ServoConnectors i
 Zip Ties
 =
 
-You will want to attach a ziptie around each of the current jaw servos that we have attached so far. First begin by running the servo cable along the inside open area beside the servo. Tighten a ziptie around the servo and push it downwards so hold the servo cable in place. The ziptie should also be able to slide down into the openings on both sides of the servo. The reason for this is that we want the cables running towards the front and staying away from the back as we will later have a motor for the neck located close by and we don't want our cables to get caught in the gears.
+You will want to attach a ziptie around each of the current jaw servos that we have attached so far. First begin by running the servo cable along the inside open area beside the servo. Tighten a ziptie around the servo and push it downwards so hold the servo cable in place. The ziptie should also be able to slide down into the openings on both sides of the servo. The reason for this is that we want the cables running towards the front and staying away from the back as we will later have a gear for the neck located close by and we don't want our cables to get caught and chewed up in it. 
 ![Zip](https://user-images.githubusercontent.com/81597534/183519041-8353d7ec-9a40-4bed-a6eb-a3b3caa52bce.png)
 
 You will likely need to disconnect the servos from the Y cable to be able to get the wires through the following (03-BrowPlate) steps, so keep it somewhere safe after you have tested the servos working together.
 
-
-
-Cable Planning
+Neck & Cable Planning
 =
+It is right around this stage that you want to begin to plan what you are going to be attaching the head to and what preparation needs to be done as far as the cables you will be needing to run through the neck. Regardless if you are using the a head stand or attaching it directly to your InMoov's body, it will be much easier to get your cables ready and through whichever neck you decide to use at this stage in the build before we add even more into the head.
+
+If you are following the same set up as myself then you will see below that I am currently running a total of x4 cables through the neck and Maingear.
+ 
+- +/- cables which will connect to the PCA9685's terminal block to power the servo motors.
+
+- 3ft Mini B USB cable to power the Arduino Nano. (3ft)
+
+  Note: The default cable that came with the nano was too short with the BackSkull attached.
+
+- Micro USB to power the Raspberry Pi Zero W
+
 ![Cableplanning](https://user-images.githubusercontent.com/81597534/183519089-99653fc9-c202-4c75-87dd-482cbe7d977c.png)
+
+Once you have your cables through, you will want to reattach the MainGear to the MainPlate with the GearRing from the parts that we printed earlier in the MainPlate section using the x4 M3x12mm Bolts.
+
+![NeckMainGear](https://user-images.githubusercontent.com/81597534/183766152-ad5b2d67-f600-421a-8c18-da04a2f7bff7.png)
+
+You will want to attach the MainGear to the NeckPlateHigh file from the InMoov website using x4 M3x16mm Bolts screwing them in from the inside of the NeckPlateHigh. 
+
+![NeckPlateHigh](https://user-images.githubusercontent.com/81597534/183765405-aae23bd1-547f-4da8-81f7-e413ce504817.png)
+
+At the time of writing this, I still am using Jon Bailey's headstand and have yet to move to my Inmoov's body. Number of cables through the neck may increase as parts get further updated. 
 
 Bad Hair Day
 =
+If you have followed along so far and are using John Bailey's headstand then your build should look just like this. A BAD HAIR (wire) DAY!
+
 ![BadHairDays](https://user-images.githubusercontent.com/81597534/183519101-e2fa479a-aa26-48a1-a968-d0e3bbaa55b7.png)
+
+YOUR JAW IS FINISHED!
+=
+Now we can move onto the 04-BrowPlate readme file for the following tutorial.
+
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/04-BrowPlate
 
 *TO BE UPDATED*
 =
