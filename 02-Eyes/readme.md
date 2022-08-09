@@ -53,47 +53,48 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 ELECTRONICS (PER EYE)
 =
-
 For more detailed information on electronics & hardware needed, please refer to the BOM folder readme file.
 
-x4 - MG90D Servo Motors (or similar in sized micro servos) - Total Needed = x8
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
-NOTE: It is possible to put cameras in both eyes, but you really only need one.
+- x4 - MG90D Servo Motors (or similar in sized micro servos) - Total Needed = x8
 
-x1 - 8MP Camera Module 77.6° Wide Angle Field View Camera for Raspberry Pi
+  NOTE: It is possible to put cameras in both eyes, but you really only need one.
 
-x1 - Raspberry Pi Camera Module V2
+- x1 - 8MP Camera Module 77.6° Wide Angle Field View Camera for Raspberry Pi
 
-x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable
+- x1 - Raspberry Pi Camera Module V2
+
+- x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable
 
 SCREWS / BOLTS / ETC (PER EYE)
 =
 
-x8 Servo Screws - Total Needed = x16
+- x8 Servo Screws - Total Needed = x16
 
-x4 M2x6mm Screws - Total Needed = x8
+- x4 M2x6mm Screws - Total Needed = x8
 
-x9 M2x7mm Screws - Total Needed = x14 (x18 If double camera)
+- x9 M2x7mm Screws - Total Needed = x14 (x18 If double camera)
 
-x8 M2x8mm Screws - Total Needed = x16
+- x8 M2x8mm Screws - Total Needed = x16
 
-x3 M2x10mm Screws - Total Needed = x6
+- x3 M2x10mm Screws - Total Needed = x6
 
-x10 M2x12mm Screws - Total Needed = x20
+- x10 M2x12mm Screws - Total Needed = x20
 
-x3 M2x16mm Screws - Total Needed = x6
+- x3 M2x16mm Screws - Total Needed = x6
 
-x3 M2x6mm Bolt - Total Needed = x6
+- x3 M2x6mm Bolt - Total Needed = x6
 
-x3 M2x7mm Bolt - Total Needed = x6
+- x3 M2x7mm Bolt - Total Needed = x6
 
-x1 M2x9mm Bolt - Total Needed = x2
+- x1 M2x9mm Bolt - Total Needed = x2
 
-x2 M2x28mm Bolt OR 25mm Threaded Rod - Total Needed = x4
+- x2 M2x28mm Bolt OR 25mm Threaded Rod - Total Needed = x4
 
-x2 Du-Bro 2-56 Swivel Ball Link Connectors OR M2 sized Swivel Ball Link Connectors   - Total Needed = x4
+- x2 Du-Bro 2-56 Swivel Ball Link Connectors OR M2 sized Swivel Ball Link Connectors   - Total Needed = x4
 
-#NOTE: I ordered a few batches of M2 connectors from various sellers, none of them were nearly as nice as the Du-Bro connectors. SMOOTH!
+  #NOTE: I ordered a few batches of M2 connectors from various sellers, none of them were nearly as smooth as the Du-Bro connectors. 
 
 TUTOTIAL (Right Eye)
 =
@@ -316,6 +317,7 @@ NOW YOUR EYE MECHANISM IS FINISHED!
 =
 It is time to begin setting up the Jaw. This tutorial will be continued in the "03-Jaw" folder section page. 
 
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/03-Jaw
 
 *TO BE UPDATED*
 =
