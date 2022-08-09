@@ -13,7 +13,7 @@ Will Cogley's Website: http://www.nilheim.co.uk/
 
 Here is a link to Will Cogley's "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino" video. Give it a watch through as it may help as a reference for various things relating to this eye mechanism as well. https://youtu.be/ihXxbQefl1c
 
-STL FILES
+EYE STL FILES
 =
 
 You will need the following files for both the Left and Right eyes. Example: L-Base.stl & R-Base.stl
