@@ -19,12 +19,18 @@ JAW - STL FILES
 
 - ServoConnector - x2
 
-TUTORIAL
-= 
-
-JAW PREP
+ELECTRONICS
 =
 
+x2 - MG92B Servo Motors (MG90D / MG90S / Servos around this size should work, but higher torque is ideal)
+
+SCREWS / BOLTS / CONNECTORS
+=
+
+- x2 - 2-56 or M2 Threaded Ball Links
+
+TUTORIAL
+= 
 We will prepare a few of the individual parts before we attach them all together in the next 3 steps.
 
 L&R Hinges to Jaw
@@ -65,7 +71,7 @@ Flip the Jaw over and screw the HingeCover on using x4 M2x8mm Screws. This Hinge
 
 Lateral Jaw Servo Selection
 =
-We need two servos with similar servo spline to servo horn orientation as we will be running these servos with a Y cable through a single pin on the same signal. Make sure that both of your servos are able to hit the same servo horn position for both servos or try swapping out some different servo horns on the servos until you can find a good matching set. 
+We need two servos with similar servo spline to servo horn orientations as we will be running these servos with a Y cable through a single pin on the same signal. Make sure that both of your servos are able to hit the same servo horn position for both servos or try swapping out some different servo horns on the servos until you can find a good matching set. 
 
 Y-Cable
 = 
