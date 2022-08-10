@@ -1,18 +1,20 @@
+![Comebacklater](https://user-images.githubusercontent.com/81597534/182967202-6d439db3-9d51-41ec-9889-3c8a91f275c1.png)
+
+I'm currently still updating the tutorials.
+
 - 01-MainPlate - Complete
 
 - 02-Eyes - Complete
 
 - 03-Jaw - Complete
 
-- 04-BrowPlate - In progress.
+- 04-BrowPlate - In progress
 
-- 05-Skull - 
+- 05-Skull - In progress
 
-- BOM - 
+- BOM - In progress
 
 - MRL-Files - ... this will hopefully never be complete and keep getting updates the more I play with the head and set things up. 
-
-![Comebacklater](https://user-images.githubusercontent.com/81597534/182967202-6d439db3-9d51-41ec-9889-3c8a91f275c1.png)
 
 ABOUT
 =
@@ -47,16 +49,23 @@ And while we are at it, here is a bonus link to the MYROBOTLAB (MRL) homepage: h
 
 -BOM- 
 =
-
-For a full list of the electronics and hardware needed, please refer to the BOM folder readme file.
+For a full detailed list of the electronics, hardware and everything needed, please refer to BOM readme file. 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
-MRL-FILES 
+TUTORIALS
+= 
+The tutorials begin here!
+
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/01-MainPlate
+
+MRL-FILES (MYROBOTLAB)
 =
-This will contain my service set up, pin layouts and various code updates relating to the general operations of the new head. 
+This section contain my MRL (myrobotlab) service set up, pin layouts and various code updates relating to the operations of the new head.
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/MRL-Files
+
+Note: Future updates to this section will be listed below under "UPDATES". 
 
 UPDATES
 = 
