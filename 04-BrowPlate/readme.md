@@ -24,8 +24,6 @@ MISSING FILES
 
 - BrowHolder-R.stl  (Need adjusting to fix servo buzz)
 
-
-
 ELECTRONICS
 =
 For more detailed information on electronics & hardware needed, please refer to the BOM folder readme file.
@@ -40,12 +38,22 @@ https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
 - PCA9685
 
-- Raspberry Pi Zero W
+- Raspberry Pi Zero W + SD Card + Micro USB (3ft) if not included with Raspi Zero W. 
 
 - MPU6050 (Currenly optional. It is slotted on the BrowPlate, but I need to experiment still)
 
 SCREWS / BOLTS / CONNECTORS
 =
+- x6  - M2x5mm Screws
+
+- x6  - M2x7mm Screws + x2 - If a second "Rasberry Pi Zero W"
+
+- x8  - M2x8mm Screws
+
+- x10 - M2x16mm Screws
+
+- x10 - Servo Screws
+
 - x4 - Du-Bro E-Z Connectors With Re-Usable Nylon Snap Ons
 
 MAGNETS
@@ -62,11 +70,11 @@ OTHER
 
 - Superglue
 
-- TPU to print eyebrows
+- TPU to print eyebrow files. 
 
 TUTORIAL
 = 
-
+UPDATING
 
 BROWPLATE IS FINISHED!
 =
@@ -78,8 +86,4 @@ TO BE UPDATED
 =
 - Upload Missing parts once complete
 
-- Component List / Screw Sizes
-
 - Image files
-
-- .... this whole tutorial. :D
