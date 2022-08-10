@@ -36,16 +36,33 @@ https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
   Note: I have currently been using MG90D servo motors for these parts. I believe the MG92B may work better having a bit more torque, but I don't have enough   on hand at the moment. I will update when I get a chance to try some. 
 
-- PCA9685
+- Arduino Nano + Mini B USB Cable (3FT)
 
-- MPU6050
+- PCA9685
 
 - Raspberry Pi Zero W
 
+- MPU6050 (Currenly optional. It is slotted on the BrowPlate, but I need to experiment still)
+
 SCREWS / BOLTS / CONNECTORS
 =
-- 
+- x4 - Du-Bro E-Z Connectors With Re-Usable Nylon Snap Ons
 
+MAGNETS
+=
+- x4 - 10x3mm Neodymium Magnets
+ 
+- x4 - 6x3mm Neodymium Magnets
+
+  Note: Info on BOM
+
+OTHER
+=
+- x4 - Strands of either ABS or PETG filament Filament
+
+- Superglue
+
+- TPU to print eyebrows
 
 TUTORIAL
 = 
