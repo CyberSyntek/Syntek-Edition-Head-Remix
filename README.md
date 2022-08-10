@@ -1,6 +1,6 @@
 ![Comebacklater](https://user-images.githubusercontent.com/81597534/182967202-6d439db3-9d51-41ec-9889-3c8a91f275c1.png)
 
-I'm currently still updating the tutorials.
+I'm still updating the tutorials.
 
 - 01-MainPlate - Complete
 
