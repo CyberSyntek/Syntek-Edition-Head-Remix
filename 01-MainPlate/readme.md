@@ -1,4 +1,4 @@
-MainPlate & Neck - STL FILES
+MainPlate - STL FILES
 =
 ![MainPlate](https://user-images.githubusercontent.com/81597534/183752240-8e866ab5-efb3-4dbc-b19b-7516e2899bb9.png)
 
