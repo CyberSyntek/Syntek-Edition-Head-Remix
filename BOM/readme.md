@@ -73,7 +73,7 @@ The following items are required for my current setup.
 
 - x1 - SD Card
 
-- x1 - USB cable if not included with Raspberry Pi Zero W. 
+- x1 - Micro USB cable (3ft) if not included with Raspberry Pi Zero W. 
 
 - x1 - 8MP Camera Module for Raspberry Pi 77.6° Wide Angle Field View Camera Module for Raspberry Pi - https://a.co/d/1mauetZ 
 
