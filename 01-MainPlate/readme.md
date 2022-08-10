@@ -1,4 +1,4 @@
-STL FILES
+MainPlate & Neck - STL FILES
 =
 ![MainPlate](https://user-images.githubusercontent.com/81597534/183752240-8e866ab5-efb3-4dbc-b19b-7516e2899bb9.png)
 
@@ -32,7 +32,7 @@ This should give you an idea on how you want your slicer calibrated for printing
 
 Jon Bailey's Head Stand - https://www.thingiverse.com/thing:4670770
 
-TUTORIAL
+CONTINUE TUTORIAL
 =
 The tutorial for the MainPlate files will begin in the "02-Eyes" folder readme file.
 
