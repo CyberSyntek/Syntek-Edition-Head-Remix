@@ -51,7 +51,7 @@ ELECTRONICS
 
 - x1 - PCA9685 (16-Channel 12-bit PWM/Servo Driver) - https://a.co/d/cDNK8FY / https://www.adafruit.com/product/815
 
-  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and will likely fail or burn. I'm sure there are some great cheaper ones out there also though. 
+  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and could fail or burn. I'm sure there are some great cheaper ones there, but always test them before     installing them into your robot.  
   
 - A power supply. This may vary depending on how you are setting your head up. I gave some suggestions in the "Beginners guide to moving servos with a PCA9685 and MYROBOTLAB" youtube video on the main page.
 
