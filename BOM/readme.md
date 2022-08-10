@@ -18,13 +18,22 @@ HARDWARE
 =
 - x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
 
+  You can also use M2 Swivel Ball Links
+
 - x2 - Du-Bro (181) 2-56 Threaded Ball Link - https://a.co/d/0wf1e1V
+
+  You can also use M2 Threaded Ball Link.
 
 - x4 - Du-Bro E-Z Connectors With Re-Usable Nylon Snap Ons - https://a.co/d/9076KMQ
 
 - x1 - Y Servo Splitter Cable (Male to x2 Female) -  https://a.co/d/4Yzls2i
 
+  You can make your own with some servo extension cables if unable to locate these. 
+
 - x4 - Dupont Cables. (Arduino Nano to PCA9685) Perhaps a few more if MPU6050 is set up also.
+
+TOTAL SCREWS AND BOLTS
+=
 
 - Endless amount of M2 screws and bolts of different lengths. (Will be updated when I put together final count)
 
@@ -58,13 +67,13 @@ PUPIL CAMERA RELATED ITEMS
 
 The following items are required for my current setup. 
 
-- x1 - Raspberry Pi Zero - https://a.co/d/f5wQHNF
+- x1 - Raspberry Pi Zero W - https://a.co/d/f5wQHNF
 
   Raspberry Pi Zero, Zero W and Zero 2 W? should all work. There seems to be a shortage of them available during the time of writing this, but using what       ever you can locate should do the job.
 
 - x1 - SD Card
 
-- x1 - USB cable if not included with Raspberry Pi Zero. 
+- x1 - USB cable if not included with Raspberry Pi Zero W. 
 
 - x1 - 8MP Camera Module for Raspberry Pi 77.6° Wide Angle Field View Camera Module for Raspberry Pi - https://a.co/d/1mauetZ 
 
@@ -101,5 +110,7 @@ Other options of that brand would be to get a pack of each of the sizes used if 
 OTHER
 =
 - Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
+
+- x2 - Zipties
 
 - I will update if I missed anything.
