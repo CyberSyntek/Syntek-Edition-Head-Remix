@@ -108,30 +108,70 @@ Screw on the PCA9685Mount to the PCA9685MountSupports using x4 M2x8mm Screws fol
 Brow Servos / Servo Horn Prep.
 =
 
+??????????????????????
+
+- INSERT PIC
+
 BrowHolders
 =
+Screw on the BrowHolder-L & BrowHolder-R using x3 M2x16mm Screws each. (x2 should be fine)
+
+![0007-BrowHolders](https://user-images.githubusercontent.com/81597534/184415907-6c6010e7-8e67-47a0-8bca-3bb9ad392e94.png)
+
+
+Attaching BallLinkConnector
+=
+You will now want to snap on the BallLinkConnector to the Ball Link on the servo so that it is hanging through the BrowPlate.
+
+![0008-BallLinkConnector](https://user-images.githubusercontent.com/81597534/184414683-4a3bb674-c205-464f-a935-30d741f62836.png)
+
 
 Attaching the BrowPlate
 =
 
+Attach the BrowPlate to the BaseBeams using x6  M2x16mm Screws. Now lift the jaw to within range to snap on the connector. You may need to move the servo horn downwards to allow yourself enough space to be able to snap it on by hand.  
+
+![0009-BrowPlate](https://user-images.githubusercontent.com/81597534/184418772-01ddc941-9dbc-488e-a14f-278228825750.png)
+
+
+
 Getting Wired
 =
+
+???????????????????
+
+- INSERT PIC
 
 Raspberry Pi Zero W Prep
 =
 
+???????????????????
+
 Magnet Holder Prep 
 =
 
+???????????????????
+
 USE A SHARPY
+
+- INSERT PIC
+
 
 EyeBrow Prep
 =
+
+???????????????????
+
+- INSERT PIC
 
 USE A SHARPY
 
 Setting the Brows Limits
 =
+
+???????????????????
+
+- INSERT PIC OR VIDEO
 
 BROWPLATE IS FINISHED!
 =
