@@ -105,10 +105,14 @@ Screw on the PCA9685Mount to the PCA9685MountSupports using x4 M2x8mm Screws fol
 
 ![0005-PCA9685Mount](https://user-images.githubusercontent.com/81597534/184411847-eb45e49a-f329-4ca9-a200-41086866c358.png)
 
-Brow Servos / Servo Horn Prep.
+Brow Servos
 =
+Mount x4 Servos onto the BrowPlate using x8 Servo Screws.
 
-??????????????????????
+![BrowServos](https://user-images.githubusercontent.com/81597534/184503892-fd801b1e-3737-4cc9-89a9-8c8e9d2dc638.png)
+
+Servo Horn Prep
+=
 
 - INSERT PIC
 
