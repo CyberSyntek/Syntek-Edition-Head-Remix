@@ -1,6 +1,10 @@
 BROWPLATE- STL FILES
 =
-![BrowFilesMissingMarked](https://user-images.githubusercontent.com/81597534/183781826-befc6478-53d0-4efe-9d87-94befcec0bc8.png)
+![BrowPlatePieces](https://user-images.githubusercontent.com/81597534/184551367-bfd048d5-0dfe-45dc-8314-b08591e4f559.png)
+
+- BrowHolderL-V1.stl
+
+- BrowHolderR-V1.stl
 
 - BrowPlate.stl
 
@@ -14,15 +18,9 @@ BROWPLATE- STL FILES
 
 - PCA9685MountSupport.stl x4
 
-- TPUBrow-L-V1.stl (MADE FOR TPU PRINTING)
+- TPUBrow-L-V1.stl (MADE FOR TPU)
 
-- TPUBrow-R-V1.stl (MADE FOR TPU PRINTING)
-
-MISSING FILES
-= 
-- BrowHolder-L.stl  (Need adjusting to fix servo buzz)
-
-- BrowHolder-R.stl  (Need adjusting to fix servo buzz)
+- TPUBrow-R-V1.stl (MADE FOR TPU)
 
 ELECTRONICS
 =
@@ -113,21 +111,23 @@ Mount x4 Servos onto the BrowPlate using x8 Servo Screws.
 
 Servo Horn Prep
 =
+We are going to want to attach our EZ connectors to the appropriate servo horns for each servo in this step. You will want to drill the holes in the servo horn wide enough to be able to push the EZ connectors through so that they can rotate easily enough and not be too stiff. Once through you will push on the nylon snap connectors so they are secured to the servo horns. With the servos all set to 90° / center you will want to attach the prepared servo horns to the correct servos as seen below. Inner Brow servos horns Inwards (5th from center holes) , OuterBrow servo horns facing outwards. (6th from center holes) 
 
-- INSERT PIC
+![BrowHornPrep](https://user-images.githubusercontent.com/81597534/184552459-4df05534-7973-4306-91a2-35bb915cf932.png)
 
 BrowHolders
 =
 Screw on the BrowHolder-L & BrowHolder-R using x3 M2x16mm Screws each. (x2 should be fine)
 
-![0007-BrowHolders](https://user-images.githubusercontent.com/81597534/184415907-6c6010e7-8e67-47a0-8bca-3bb9ad392e94.png)
+![0007-BrowHolders](https://user-images.githubusercontent.com/81597534/184553178-948b1251-d3c0-4520-a5ae-41f146a52c0d.png)
+
 
 
 Attaching BallLinkConnector
 =
 You will now want to snap on the BallLinkConnector to the Ball Link on the servo so that it is hanging through the BrowPlate.
 
-![0008-BallLinkConnector](https://user-images.githubusercontent.com/81597534/184414683-4a3bb674-c205-464f-a935-30d741f62836.png)
+![0008-BallLinkConnector](https://user-images.githubusercontent.com/81597534/184553333-c46ef5b0-7255-4d82-b814-7a1b68ecf949.png)
 
 
 Attaching the BrowPlate
@@ -135,7 +135,8 @@ Attaching the BrowPlate
 
 Attach the BrowPlate to the BaseBeams using x6  M2x16mm Screws. Now lift the jaw to within range to snap on the connector. You may need to move the servo horn downwards to allow yourself enough space to be able to snap it on by hand.  
 
-![0009-BrowPlate](https://user-images.githubusercontent.com/81597534/184418772-01ddc941-9dbc-488e-a14f-278228825750.png)
+![0009-BrowPlate](https://user-images.githubusercontent.com/81597534/184553610-d5744f7a-f032-442a-882d-471784bc8f18.png)
+
 
 
 
