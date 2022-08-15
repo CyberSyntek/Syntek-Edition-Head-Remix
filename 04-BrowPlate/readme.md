@@ -137,39 +137,84 @@ Attach the BrowPlate to the BaseBeams using x6  M2x16mm Screws. Now lift the jaw
 
 ![0009-BrowPlate](https://user-images.githubusercontent.com/81597534/184553610-d5744f7a-f032-442a-882d-471784bc8f18.png)
 
-
-
-
-Getting Wired
+Arduino Nano to PCA9685
 =
 
-???????????????????
+Now to connect the Arduino Nano to the PCA9685 using 4 dupont cables.
 
-- INSERT PIC
+![0010-NanoWires](https://user-images.githubusercontent.com/81597534/184553676-4955ed6c-6fbd-4854-8fdc-24a092c353a4.png)
+
+Progress Check
+=
+
+At this stage the head should be looking like a bad hair day. If yours resembles this then we are good to move on. 
+
+![ProgressCheck](https://user-images.githubusercontent.com/81597534/184553942-e2bfb78f-d6cf-4e3d-85b5-3a623d894cf7.png)
+
+Servo Cables to PCA9685
+=
+Now want to begin connecting the servo wires to the PCA9685. If you are planning on using my setup so that you are able to use any of the files I write up for the head to use with myrobotlab (nixie) then you will want to plug them in according to the pin layout shown below.
+
+![PCA9685Layout](https://user-images.githubusercontent.com/81597534/184562621-ab86552a-33be-4cf7-be9b-b51eb6afa6e3.png)
+
+On the PCA9685Mount file you will see the open area on the left side highlighted in the red circle. We will want to slide the following servo cables through that area. You should be able to fit them all in withough too much trouble. The last one or two can get a bit tight so give other cables slack as needed to help them be able to slide up. 
+
+![0011-CableSlot](https://user-images.githubusercontent.com/81597534/184563797-5bbc0ca7-e16a-4979-8d02-f39d99ef52ef.png)
+
+- LateralJaw - (Left side cable) This will be joined by the right side cable with the Y cable once through the slot.
+
+- Jaw
+
+- RightInnerBrow
+
+- RightOuterBrow
+
+- LeftInnerBrow
+
+- LeftOuterBrow
+
+- LeftLowerLid
+
+- LeftUpperLid
+
+- LeftEyeUD
+
+- LeftEyeLR
+
+With all your servo cables now plugged in you should only have Pin 0 and Pin 9 open on the PCA9685. On the right side your servo cables will still be loosely hanging off to the side as seen above. 
 
 Raspberry Pi Zero W Prep
 =
+Now we will connect the eye's pupil camera cable to the Raspberry Pi Zero W.
 
-???????????????????
+![RaspiConnected](https://user-images.githubusercontent.com/81597534/184564069-f5715761-39df-4b91-944c-722522c9390a.PNG)
+
+We will want to take care of those loose wires now and try and push them into the opening seen below. Grab your Raspberry Pi Zero W and screw it in using x2 M2x7mm Screws which will hold the wires in place. If you have your camera placed in the left eye or are not using a camera at all, you can use zipties between the PCA9685MountSupports to hold the cables in place.
+
+![0012-RaspiZeroW](https://user-images.githubusercontent.com/81597534/184564542-f81e98c0-17fe-49cf-86c6-0a621a8805c8.png)
+
+Getting Wired
+=
+Now we can plug in cables we had routed through the neck earlier. At the time of writting this, I am so far only needing to connect GND/V+, Mini B USB and a Micro USB.
+
+![0013-GettingConnected](https://user-images.githubusercontent.com/81597534/184565675-d454f505-97da-4ae0-8784-7154c5dc77b7.png)
+
+Now plug everything in and confirm that everything works.
+
+![0015-Plugin](https://user-images.githubusercontent.com/81597534/184566719-07e2a650-4a99-464a-905e-b0cce44cbeb6.png)
+
 
 Magnet Holder Prep 
 =
 
-???????????????????
-
-USE A SHARPY
-
-- INSERT PIC
+- PREPARING PICTURES NOW
 
 
 EyeBrow Prep
 =
 
-???????????????????
+- PREPARING PICTURES NOW
 
-- INSERT PIC
-
-USE A SHARPY
 
 Setting the Brows Limits
 =
@@ -178,14 +223,9 @@ Setting the Brows Limits
 
 - INSERT PIC OR VIDEO
 
+
 BROWPLATE IS FINISHED!
 =
 Now onto the final step located in the 05-BrowPlate folder readme file.
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/05-Skull
-
-TO BE UPDATED
-=
-- Upload Missing parts once complete
-
-- Image files
