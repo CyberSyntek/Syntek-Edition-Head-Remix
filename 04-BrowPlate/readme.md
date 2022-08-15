@@ -193,6 +193,8 @@ We will want to take care of those loose wires now and try and push them into th
 
 ![0012-RaspiZeroW](https://user-images.githubusercontent.com/81597534/184564542-f81e98c0-17fe-49cf-86c6-0a621a8805c8.png)
 
+You may wish to unplug a few of the right side servo wires one at a time (Unless you labeled your cables) and wrap them around the other plugged in wires to reduce wire slack as some of them can get close to the eyebrow servo EZ connectors and could potentially get snagged. Obviously plug back in anything you unplug following doing so. :)
+
 Getting Wired
 =
 Now we can plug in cables we had routed through the neck earlier. At the time of writting this, I am so far only needing to connect GND/V+, Mini B USB and a Micro USB.
