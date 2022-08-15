@@ -74,7 +74,6 @@ TUTORIAL
 = 
 SERVO PREP - Ball Joint
 =
-
 Set servo to 90°/centered. We will want to drill the 5th from the center hole on the servo horn to be able to screw in the remaining Ball Joint we had left over from the 03-Jaw tutorial. With the Ball Joint now attached, attach the servo horn as shown in the image with the horn facing away from the wires. 
 
 ![0001-BallJointPrep](https://user-images.githubusercontent.com/81597534/184398430-7a90440d-1e74-44ee-b37c-05cf4b79ba62.png)
@@ -121,32 +120,26 @@ Screw on the BrowHolder-L & BrowHolder-R using x3 M2x16mm Screws each. (x2 shoul
 
 ![0007-BrowHolders](https://user-images.githubusercontent.com/81597534/184553178-948b1251-d3c0-4520-a5ae-41f146a52c0d.png)
 
-
-
 Attaching BallLinkConnector
 =
 You will now want to snap on the BallLinkConnector to the Ball Link on the servo so that it is hanging through the BrowPlate.
 
 ![0008-BallLinkConnector](https://user-images.githubusercontent.com/81597534/184553333-c46ef5b0-7255-4d82-b814-7a1b68ecf949.png)
 
-
 Attaching the BrowPlate
 =
-
 Attach the BrowPlate to the BaseBeams using x6  M2x16mm Screws. Now lift the jaw to within range to snap on the connector. You may need to move the servo horn downwards to allow yourself enough space to be able to snap it on by hand.  
 
 ![0009-BrowPlate](https://user-images.githubusercontent.com/81597534/184553610-d5744f7a-f032-442a-882d-471784bc8f18.png)
 
 Arduino Nano to PCA9685
 =
-
 Now to connect the Arduino Nano to the PCA9685 using 4 dupont cables.
 
 ![0010-NanoWires](https://user-images.githubusercontent.com/81597534/184553676-4955ed6c-6fbd-4854-8fdc-24a092c353a4.png)
 
 Progress Check
 =
-
 At this stage the head should be looking like a bad hair day. If yours resembles this then we are good to move on. 
 
 ![ProgressCheck](https://user-images.githubusercontent.com/81597534/184553942-e2bfb78f-d6cf-4e3d-85b5-3a623d894cf7.png)
@@ -205,26 +198,41 @@ Now plug everything in and confirm that everything works.
 
 ![0015-Plugin](https://user-images.githubusercontent.com/81597534/184566719-07e2a650-4a99-464a-905e-b0cce44cbeb6.png)
 
+WORD OF WARNING
+=
+https://user-images.githubusercontent.com/81597534/184579363-48b3a739-7e1d-4e5d-9d5e-3c093b12aab9.mp4
 
 Magnet Holder Prep 
 =
+To prepare the magnet holders you will need to get cut a few strands of PETG or ABS filament. The length doesn't really matter at this stage beyond being too short so give yourself a few inches to work with. You will want to slide the filament pieces into the MagnetHolders so that the filament curves away from the MagnetHolder pieces as seen in the image below. You will then want to apply a single drop of super glue into the Magnet holders and push the magnet in so that it is all the way in and flat. (Check to make sure your magnets fit okay prior to applying glue) There is a likely chance that some of the glue has worked its way through the bottom of the MagnetHolder into the shaft where the filament is inserted while pushing down on the magnet, but just make sure they don't easily fall out otherwise you may need to apply a tiny drop of super glue at the top of the MagnetHolder to keep the filament in place. 
 
-- PREPARING PICTURES NOW
+![0016-Magholders](https://user-images.githubusercontent.com/81597534/184574458-85283aee-433c-47ec-a190-c8070611c29f.png)
 
+Alternatively you don't need to use filament on these as there are other options out there, this just seemed like a cheap way to use something we already have. You can also use something like GoldenRod/GoldenWire for RC airplanes here that comes in various stiffnesses and widths or perhaps some kind of instrument wires. (I haven't tried yet) Whatever is used needs to be stiff enough that it will still be able to push, but flexible enough to bend through the MagnetHolders. 
 
-EyeBrow Prep
-=
+Here is an example of the length which you will likely want to aim for that will allow you a little bit of room still to play with adjustments.
 
-- PREPARING PICTURES NOW
-
+![MagHoldLength](https://user-images.githubusercontent.com/81597534/184576473-14e1e2ee-97f9-44f3-acba-893fb260664f.PNG)
 
 Setting the Brows Limits
 =
+Before we connect the MagnetHolders we prepared we will need to set our Eyebrow servo limits. If you are using my MRL-Files config you will see that I have them currently set between a Min:40 (Brows Down) / Max:140 (Brows Up) range. We will want to move the servos into their Max/Up position.
 
-???????????????????
+![Browset01](https://user-images.githubusercontent.com/81597534/184577789-8b034e6a-159f-42a0-a37c-9527741d566d.png)
 
-- INSERT PIC OR VIDEO
+Loosen the screws at the top of the EZ connectors so that you are able to slide the filament into them. Push the filament all the way through until the top of the MagnetHolder is pressed against the MagnetHolder. You will want to adjust the filament so they magnets are facing mostly forwards but with a slight angle towards the direction needed. Left brows > Slight left angle. 
 
+Double check them to make sure they are all leveled the same and then finally tighten the EZ connector screws so that they are locked into position.
+
+![0017-BrowSet](https://user-images.githubusercontent.com/81597534/184578457-52147721-909d-430f-bfa8-4bd61918ab90.png)
+
+EyeBrow Prep
+=
+Take x4 6x3mm neodymium magnets and plate them on the MagnetHolder magnets. At this time it is a good idea to market them with a marker so that we know the polarity of the magnets. One at a time remove the magnets and with the marked side of the magnet facing towards the prints, glue the magnets into the TPUeyebrows using a single drop of super glue and repeat this step for all four magnets. 
+
+![BADTPUMagnet](https://user-images.githubusercontent.com/81597534/184579129-51f12e56-7051-4b91-a8b4-494420bf019a.PNG)
+
+We will put these aside for the moment until we have completed the next steps.
 
 BROWPLATE IS FINISHED!
 =
