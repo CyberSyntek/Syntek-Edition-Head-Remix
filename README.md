@@ -8,7 +8,7 @@ I'm still updating the tutorials.
 
 - 03-Jaw - Complete
 
-- 04-BrowPlate - In progress
+- 04-BrowPlate - Complete
 
 - 05-Skull - In progress
 
