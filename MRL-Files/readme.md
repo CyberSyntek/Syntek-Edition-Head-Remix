@@ -12,6 +12,8 @@ You will need to set up your servos to match the pin layout seen above on the PC
 MY CURRENT SERVO (INPUT / OUTPUT / REST) POSITIONS
 =
 
+#WARNING: I WILL ADJUST THESE FIGURES TOMORROW AS THEY DO NOT SEEM TO BE UPTO DATE.
+
 PIN: 0 - Input: 0-180 / Output: 60-120 / Rest:  90
 
 PIN: 1 - Input: 0-180 / Output: 70-110 / Rest:  90
