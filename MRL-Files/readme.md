@@ -11,38 +11,35 @@ You will need to set up your servos to match the pin layout seen above on the PC
 
 MY CURRENT SERVO (INPUT / OUTPUT / REST) POSITIONS
 =
-
-#WARNING: I WILL ADJUST THESE FIGURES TOMORROW AS THEY DO NOT SEEM TO BE UPTO DATE.
-
 PIN: 0 - Input: 0-180 / Output: 60-120 / Rest:  90
 
 PIN: 1 - Input: 0-180 / Output: 70-110 / Rest:  90
 
-PIN: 2 - Input: 0-180 / Output: 85-140 / Rest:   0
+PIN: 2 - Input: 0-180 / Output: 80-140 / Rest:   0
 
-PIN: 3 - Input: 0-180 / Output: 80-100 / Rest:  90
+PIN: 3 - Input: 0-180 / Output: 40-140 / Rest:  90
 
-PIN: 4 - Input: 0-180 / Output: 80-100 / Rest:  90
+PIN: 4 - Input: 0-180 / Output: 40-140 / Rest:  90
 
 PIN: 5 - Input: 0-180 / Output: 73-107 / Rest: 130
 
 PIN: 6 - Input: 0-180 / Output: 75-105 / Rest: 130 = SERVO REVERSED IN SETTINGS
 
-PIN: 7 - Input: 0-180 / Output: 62-118 / Rest:  90 = SERVO REVERSED IN SETTINGS
+PIN: 7 - Input: 0-180 / Output: 70-110 / Rest:  90 = SERVO REVERSED IN SETTINGS
 
 PIN: 8 - Input: 0-180 / Output: 70-110 / Rest:  90
 
 PIN: 9 	= UNUSED PIN
 
-PIN: 10 - Input: 0-180 / Output: 80-100 / Rest:  90
+PIN: 10 - Input: 0-180 / Output: 40-140 / Rest:  90
 
-PIN: 11 - Input: 0-180 / Output: 80-100 / Rest:  90
+PIN: 11 - Input: 0-180 / Output: 40-140 / Rest:  90
 
 PIN: 12 - Input: 0-180 / Output: 73-107 / Rest: 130 = SERVO REVERSED IN SETTINGS
 
 PIN: 13 - Input: 0-180 / Output: 75-105 / Rest: 130
 
-PIN: 14 - Input: 0-180 / Output: 62-118 / Rest:  90
+PIN: 14 - Input: 0-180 / Output: 70-110 / Rest:  90
 
 PIN: 15 - Input: 0-180 / Output: 70-110 / Rest:  90
 
