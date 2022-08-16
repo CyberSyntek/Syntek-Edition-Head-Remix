@@ -1,7 +1,10 @@
-TO BE UPDATED!
+SKULL INFORMATION
+=
+The skull reshaping to allow for this to design to come together could not have happened without the wonderful help of Harry "Haracini". 
 
 STL FILES
 = 
+![SkullPartsImage](https://user-images.githubusercontent.com/81597534/185001643-9cd4e122-26e0-4864-968c-ccb29990dd65.png)
 
 - FrontSkull.stl (Requires Supports)
 
@@ -17,18 +20,20 @@ STL FILES
 
   You MAY find other ear variations on www.thingiverse.com
 
-
-
-===================================
-
-SKULL INFORMATION
+SCREWS / BOLTS / CONNECTORS
 =
+- x8 - Servo Screws
 
-The skull reshaping to allow for this to design to come together could not have happened without the wonderful help of Harry "Haracini". 
+- x2 - M4x16mm bolts. Note: I generally use slightly larger selftap screws on this for a stronger steady hold.
 
-*TO BE UPDATED*
-- Component List / Screw Sizes
+MAGNETS
+= 
+-x22 - 10x3mm Neodymium Magnets
 
-- Image Files
+OTHER
+=
+- Superglue
 
-- This whole tutorial. :)
+==============================
+
+CURRENTLY BEING UPDATED
