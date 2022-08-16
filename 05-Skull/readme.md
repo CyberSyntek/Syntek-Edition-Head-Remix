@@ -28,7 +28,7 @@ SCREWS / BOLTS / CONNECTORS
 
 MAGNETS
 = 
--x22 - 10x3mm Neodymium Magnets
+- x22 - 10x3mm Neodymium Magnets 
 
 OTHER
 =
