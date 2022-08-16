@@ -1,7 +1,9 @@
 LOTS OF UPDATES COMING!
 =
 
-This section isn't ready just yet!
+This section isn't ready just yet! 
+
+WARNING: Please do not use my MRL service files I have up currently. I am going to update them this week. 
 
 PCA9685 - SERVO TO PIN LAYOUT
 =
