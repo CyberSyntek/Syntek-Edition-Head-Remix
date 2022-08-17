@@ -57,7 +57,7 @@ For more detailed information on electronics & hardware needed, please refer to 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
-- x4 - MG90D Servo Motors (or similar in sized micro servos) - Total Needed = x8
+- x4 - Micro Servo Motors (I am currently using x4 MG90D servos per eye) - Total Needed = x8
 
   NOTE: It is possible to put cameras in both eyes, but you really only need one.
 
