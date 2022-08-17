@@ -1,20 +1,12 @@
-![Comebacklater](https://user-images.githubusercontent.com/81597534/182967202-6d439db3-9d51-41ec-9889-3c8a91f275c1.png)
+Welcome to the Syntek Edition Head Remix!
+=
+![SynHead](https://user-images.githubusercontent.com/81597534/185019130-8a3efd3e-589f-4f57-afb5-3b3e8d274144.PNG)
 
-I'm still updating the tutorials.
+I will update with some better pics and will generally be updating many of the pages on this github writeup over the next few weeks and onward for the code sides of things. But most importantly, the STL files and write ups for how to put them together and what is needed are already available. 
 
-- 01-MainPlate - Complete
+I may need to change a few things on the pages tomorrow as I'm pretty tired and want to go to bed soon, so if you see this page tonight then perhaps look through it and wait a day for any last minute updates before jumping on the project. :9
 
-- 02-Eyes - Complete
-
-- 03-Jaw - Complete
-
-- 04-BrowPlate - Complete
-
-- 05-Skull - In progress
-
-- BOM - In progress
-
-- MRL-Files - ... Never ending. :D
+- 05-Skull - I got some images up tonight but haven't done the write up information relating to them yet. Tomorrow~ 
 
 ABOUT
 =
