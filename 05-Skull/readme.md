@@ -36,4 +36,16 @@ OTHER
 
 ==============================
 
+![Flush001](https://user-images.githubusercontent.com/81597534/185014289-6735f7e8-17d2-4b17-9555-5fc853f27625.png)
+
+![Flush002](https://user-images.githubusercontent.com/81597534/185014301-62cc1450-9454-4277-8b1b-1eb52190d3fd.png)
+
+![Servo0001](https://user-images.githubusercontent.com/81597534/185014331-06d2a9a7-f887-4c9c-9f05-c30a6a4fe02c.png)
+
+![SettingServo001](https://user-images.githubusercontent.com/81597534/185014357-e1c8c9d4-b08d-4191-b064-9b2df9111a69.PNG)
+
+
+
+
+
 CURRENTLY BEING UPDATED
