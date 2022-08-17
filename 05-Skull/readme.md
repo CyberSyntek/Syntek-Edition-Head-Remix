@@ -34,8 +34,9 @@ OTHER
 =
 - Superglue
 
-==============================
 
+TUTORIAL
+=
 ![Flush001](https://user-images.githubusercontent.com/81597534/185014289-6735f7e8-17d2-4b17-9555-5fc853f27625.png)
 
 ![Flush002](https://user-images.githubusercontent.com/81597534/185014301-62cc1450-9454-4277-8b1b-1eb52190d3fd.png)
@@ -50,9 +51,10 @@ OTHER
 
 ![WireCheck001](https://user-images.githubusercontent.com/81597534/185015918-9c5313c9-091e-4cae-b135-f15dacec6e91.png)
 
+![Wires0001](https://user-images.githubusercontent.com/81597534/185018722-7ce5e1c3-4611-4264-8e51-c0c15bfefe37.png)
+
 ![MaskOn001](https://user-images.githubusercontent.com/81597534/185016796-2e071bd3-0c41-47d1-bf7f-44b605c39d65.png)
 
-![BrowsOn001](https://user-images.githubusercontent.com/81597534/185017164-7325b05f-f4a5-4a6d-8055-2aace66abfcb.png)
+![BrowsOn001](https://user-images.githubusercontent.com/81597534/185017592-76b644e8-d346-4038-abf9-de3f5f8c8981.png)
 
-
-CURRENTLY BEING UPDATED
+Write up should be done tomorrow. 
