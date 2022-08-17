@@ -1,16 +1,9 @@
 Welcome to the Syntek Edition Head Remix!
 =
-![SynHead](https://user-images.githubusercontent.com/81597534/185019130-8a3efd3e-589f-4f57-afb5-3b3e8d274144.PNG)
-
-I will update with some better pics and will generally be updating many of the pages on this github writeup over the next few weeks and onward for the code sides of things. But most importantly, the STL files and write ups for how to put them together and what is needed are already available. 
-
-I may need to change a few things on the pages tomorrow as I'm pretty tired and want to go to bed soon, so if you see this page tonight then perhaps look through it and wait a day for any last minute updates before jumping on the project. :9
-
-- 05-Skull - I got some images up tonight but haven't done the write up information relating to them yet. Tomorrow~ 
 
 ABOUT
 =
-Here on this page you will find all of the Syntek edition remixed head files, information to get it running, components needed and further updates as they come.
+On this page you will find all of the Syntek edition remixed head stl files, components needed, step by step put together tutorials and information relating to getting it running in myrobotlab (MRL). Future updates and files shall be available here as well. :)
 
 WHAT IS SYNTEK?
 =
