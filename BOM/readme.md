@@ -2,19 +2,67 @@
 
 SERVOS REQUIRED
 =
-#Note - We will need a total of 15 micro servo motors for this head as well as a more standard sized 20kg servo. There are many options out there for roughly same sized micro servos, but please double check sizes of other brand servos to make sure they will fit correctly or not as some spaces do require roughly this size.
+We will need a total of 15 micro servo motors for this head as well as a more standard sized 20kg servo. There are many options out there for roughly same sized micro servos, but please double check sizes of other brand servos to make sure they will fit correctly or not as some spaces do require roughly this size.
 
-As it currently stands, I am using x15 MG90D Servos in my head, but I plan to swap out the x3 MG90D jaw servos with x3 MG92B servos as they provide a bit more torque and believe they should handle better over time. MG92B servos have a very slightly longer housing, but the jaw servo spaces are not as restricted and this will not impact fitting them in. 
+I am currently using x15 MG90D servos in my head, but I have some MG92B servos ordered and on the way. They have slightly higher torque and I'm going to experiment with using them in a few locations.
 
-The MG90D servos are doing the job just fine, though I am noticing the jaw beginning to open without power to the servos the more I use it. (With power it is still handling fine) I will update with confirmation once I have tested them in those spots.
-
-- x12 - MG90D Servo Motors - https://www.adafruit.com/product/1143
-
-- x3 - MG92B Servo Motors   https://www.adafruit.com/product/2307 
+The MG90D servos are doing the job just fine, though I am noticing the jaw beginning to open without power to the servos a little bit. While this isn't an issue and can likely be fixed with an elastic band, I am hoping the MG92B's torque will prevent that from happening at all. I will update with confirmation once I have tested them in those spots.
 
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
 
-HARDWARE
+- x15 - Micro Servo Motors.
+
+These are the micro servo motors I am using currently and the servos I am waiting to experiment with. 
+
+- MG90D Servo Motors - https://www.adafruit.com/product/1143
+
+- MG92B Servo Motors   https://www.adafruit.com/product/2307 
+
+TOTAL SCREWS (Self-Tapping)
+=
+- x6 - M2x5mm Screws
+
+- x8 - M2x6mm Screws
+
+- x20 - M2x7mm Screws
+
+- x32 - M2x8mm Screws
+
+- x6 - M2x10mm Screws
+
+- x24 - M2x12mm Screws
+
+- x16 - M2x16mm Screws
+
+TOTAL BOLTS / NUTS
+=
+- x6 - M2x6mm Bolt
+
+- x6 - M2x7mm Bolt
+
+- x2 - M2x9mm Bolt
+
+- x2 - M2x16mm Bolts
+
+- x2 - M2x20mm Bolts
+
+- x4 - M2x28mm Bolt OR 25mm Threaded Rod 
+
+- x2 - M2 Nuts
+
+- x8 - M3x12 Bolts
+
+- x4 - M3x16mm Bolts
+
+- x2 - M4x16mm bolts. Note: I generally use slightly larger selftap screws on this for a stronger steady hold.
+
+- x2 - Zipties
+
+TOTAL SERVO SCREWS
+= 
+- x38 - Servo Screws
+
+OTHER HARDWARE
 =
 - x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
 
@@ -32,14 +80,9 @@ HARDWARE
 
 - x4 - Dupont Cables. (Arduino Nano to PCA9685) Perhaps a few more if MPU6050 is set up also.
 
-TOTAL SCREWS AND BOLTS
-=
+- Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
 
-- Endless amount of M2 screws and bolts of different lengths. (Will be updated when I put together final count)
-
-- x8 M3x12mm Bolts / x4 - M3x16mm Bolts
-
-- x4 M4x16mm Bolts (I used self tapping large screws, I still need to verify exact size. They are more stable though.)
+- x2 - Zipties - You may find you want to use more to clean up the servo cables towards the end.
 
 ELECTRONICS
 =
@@ -63,7 +106,7 @@ PUPIL CAMERA RELATED ITEMS
 =
 ![PupilCam](https://user-images.githubusercontent.com/81597534/182968849-65f36cae-66c5-4d69-b311-3d425277dec8.png)
 
-#Note - Coming from the original Inmoov USB webcam pupil camera setup, I had decided I would stick with that route for my current pupil camera setup also by converting a Raspberry Pi Zero W into a webcam and using it in the same fashion. This isn't the most cost effective route for doing these things, but the size of the camera modules I found worked for the job. I am sure there are other options out there and I do plan on formatting the eyeball camera inserts for at least one other type of raspberry pi spy camera and will update those files here with a potential set up description when I have completed them. 
+Coming from the original Inmoov USB webcam pupil camera setup, I had decided I would stick with that route for my current pupil camera setup also by converting a Raspberry Pi Zero W into a webcam and using it in the same fashion. This isn't the most cost effective route for doing these things, but the size of the camera modules I found worked for the job. I am sure there are other options out there and I do plan on formatting the eyeball camera inserts for at least one other type of raspberry pi spy camera and will update those files here with a potential set up description when I have completed them. 
 
 The following items are required for my current setup. 
 
@@ -95,22 +138,22 @@ I recommend the following youtube video as a walkthrough for getting your Raspbe
 
 The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
 
-NEODYMIUM MAGNETS
+===========================================================================
+
+NOTE: As this project progresses there will be other options available for how to set up other cameras and different connection methods available also. 
+
+TOTAL NEODYMIUM MAGNETS
 =
-#Note - I used the "NAZZO" brand of neodymium magnets found in the provided links as they are very strong and work well for our needs. I ordered two of the mixed sized packs as I was experimenting and wanted some size options to playu with. This is the link for the mixed pack I used. https://a.co/d/1fMVASk
-
-It maybe possible to order only one of the above mixed packs if using the TEMPmagnet.stl on the SkullCap to BackSkull. The TEMPmagnet file was intended as a placeholder magnet to be able to hold the head together while sanding or cleaning it up and or use until the magnets arrive. 
-
-Other options of that brand would be to get a pack of each of the sizes used if you are unable to source the needed neodymium magnet sizes needed locally.
-
 - x22 - Neodymium Magnets (10x3mm) - https://a.co/d/eTazw7q
 
 - x4 - Neodymium Magnets (6x3mm) - https://a.co/d/bWqNBsL
 
-OTHER
-=
-- Krazy Glue/Super Glue (Please find locally for cheaper, but just incase) - https://a.co/d/6VbvxNa
+I used the "NAZZO" brand of neodymium magnets found in the provided links as they are very strong and work well for our needs. I ordered two of the mixed sized packs as I was experimenting and wanted some size options to playu with. This is the link for the mixed pack I used. https://a.co/d/1fMVASk
 
-- x2 - Zipties
+Other options of that brand would be to get a pack of each of the sizes used if you are unable to source the needed neodymium magnet sizes needed locally.
 
-- I will update if I missed anything.
+- Neodymium Magnets (10x3mm) - https://a.co/d/eTazw7q
+
+- Neodymium Magnets (6x3mm) - https://a.co/d/bWqNBsL
+
+I will explore other potential sellers at some point and or list other potential options that others have located here in the future. 
