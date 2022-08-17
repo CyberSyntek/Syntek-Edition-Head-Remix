@@ -228,7 +228,9 @@ Double check them to make sure they are all leveled the same and then finally ti
 
 EyeBrow Prep
 =
-Take x4 6x3mm neodymium magnets and plate them on the MagnetHolder magnets. At this time it is a good idea to market them with a marker so that we know the polarity of the magnets. One at a time remove the magnets and with the marked side of the magnet facing towards the prints, glue the magnets into the TPUeyebrows using a single drop of super glue and repeat this step for all four magnets. 
+Take x4 6x3mm neodymium magnets and place them on the MagnetHolder magnets. At this time it is a good idea to mark them with a marker so that we know the polarity of the magnets. One at a time, remove the magnets and with the marked side of the magnet facing towards the prints, glue the magnets into the TPUeyebrows using a single drop of super glue and repeat this step for all four magnets. 
+
+![Mag0001](https://user-images.githubusercontent.com/81597534/185183871-24f7a9e4-8683-4bce-a983-ea65c4c4581c.png)
 
 ![BADTPUMagnet](https://user-images.githubusercontent.com/81597534/184579129-51f12e56-7051-4b91-a8b4-494420bf019a.PNG)
 
