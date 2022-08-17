@@ -2,6 +2,10 @@ SKULL INFORMATION
 =
 The skull reshaping to allow for this to design to come together could not have happened without the wonderful help of Harry "Haracini". 
 
+Random Note
+=
+You may have noticed in the pictures that my Eyebrows are leaving marks on my painted head. I still haven't painted it with a protective layer so that will happen hopefully this week and some photos will be updated. I am hoping that will do the job of preventing such things and I will update once I have repainted and given him a protective coat to confirm that will do the job. For those of you NOT painting, you have nothing to worry about. :)
+
 STL FILES
 = 
 ![SkullPartsImage](https://user-images.githubusercontent.com/81597534/185001643-9cd4e122-26e0-4864-968c-ccb29990dd65.png)
