@@ -6,7 +6,9 @@ MainPlate - STL FILES
 
 - BaseConnector.stl - x12
 
-- MainGear.stl
+- MainGear.stl  
+
+  Note: This maingear is a very slightly altered version of Ray Edgley's custom MainGear file"
 
 - GearRing.stl
 
@@ -20,15 +22,19 @@ https://user-images.githubusercontent.com/81597534/183753533-ba753258-47c7-4725-
 
 Note: The MainPlate.stl has been further adjusted since this video and may look slightly different. The clean up prep method and suggested methods remain the same with the current version. 
 
-I suggest waiting to apply the grease to the MainGear as mentioned in the above video until you reach the "03-Jaw" folder tutorial in the readme file. 
+I suggest waiting to apply the grease to the MainGear as mentioned in the above video until you reach the "03-Jaw" folder tutorial in the readme file as the grease can get a bit messy. 
 
 You will want them printed now to prepare and make sure everything fits well and will be reattaching them later on. 
+
+Before you begin to print everything off, I suggest that you check the below video for the recommended calibration settings.
 
 GETTING CALIBRATED / POTENTIAL NECK OPTIONS
 =
 https://user-images.githubusercontent.com/81597534/183754601-2d7bb311-81e5-410d-bdfd-17bd113c6ecd.mp4
 
 This should give you an idea on how you want your slicer calibrated for printing if you have any issues. I would suggest printing the Calibrator file from the InMoov website before you begin printing everything off. I've also included a potential neck option that you may want to use for your head project, or atleast until you are ready to get it onto the body of your robot. 
+
+InMoov Calibrator - <a href="http://inmoov.fr/wp-content/uploads/2019/01/Calibrator.stl">Calibrator.stl</a>
 
 Jon Bailey's Head Stand - https://www.thingiverse.com/thing:4670770
 
