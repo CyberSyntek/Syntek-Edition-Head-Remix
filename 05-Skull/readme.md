@@ -48,6 +48,11 @@ OTHER
 
 ![Hold001](https://user-images.githubusercontent.com/81597534/185015619-f5b52bbd-8318-4f9d-927a-2a97f5102526.png)
 
+![WireCheck001](https://user-images.githubusercontent.com/81597534/185015918-9c5313c9-091e-4cae-b135-f15dacec6e91.png)
+
+![MaskOn001](https://user-images.githubusercontent.com/81597534/185016796-2e071bd3-0c41-47d1-bf7f-44b605c39d65.png)
+
+![BrowsOn001](https://user-images.githubusercontent.com/81597534/185017164-7325b05f-f4a5-4a6d-8055-2aace66abfcb.png)
 
 
 CURRENTLY BEING UPDATED
