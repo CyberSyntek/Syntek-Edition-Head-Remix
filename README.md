@@ -5,6 +5,8 @@ ABOUT
 =
 On this page you will find all of the Syntek edition remixed head stl files, components needed, step by step put together tutorials and information relating to getting it running in myrobotlab (MRL). Future updates and files shall be available here as well. :)
 
+As I am still early into the experimenting phase of this head also, I expect that there will be a number of updates to improve this page, files and write ups in the weeks to come. Stay tuned!
+
 WHAT IS SYNTEK?
 =
 An introduction to Syntek (My InMoov Robot)
