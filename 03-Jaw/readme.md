@@ -20,7 +20,7 @@ JAW - STL FILES
 
 ELECTRONICS
 =
-- x2 - MG92B Servo Motors (MG90D / MG90S / Servos around this size should work, but higher torque is ideal)
+- x2 - Micro Servos (Currenly I'm using x2 MG90D servos)
 
 SCREWS / BOLTS / CONNECTORS
 =
