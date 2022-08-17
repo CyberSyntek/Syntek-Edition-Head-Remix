@@ -1,4 +1,0 @@
-!!org.myrobotlab.service.config.SerialConfig
-autoStartPeers: true
-port: COM11 #CHANGE YOUR PORT TO WHICHEVER COM YOUR ARDUINO IS LOCATED ON. 
-type: Serial

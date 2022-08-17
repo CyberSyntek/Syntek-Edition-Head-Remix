@@ -1,6 +1,0 @@
-!!org.myrobotlab.service.config.ArduinoConfig
-autoStartPeers: true
-connect: true
-port: COM11 #CHANGE YOUR PORT TO WHICHEVER PORT YOUR ARDUINO IS LOCATED ON!
-serial: Nano.serial
-type: Arduino
