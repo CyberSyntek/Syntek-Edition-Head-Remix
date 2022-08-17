@@ -1,5 +1,6 @@
 Welcome to the Syntek Edition Head Remix!
 =
+![TempMainSnip](https://user-images.githubusercontent.com/81597534/185224203-c23ec7ba-048f-4d5d-99dd-087661b16766.PNG)
 
 ABOUT
 =
