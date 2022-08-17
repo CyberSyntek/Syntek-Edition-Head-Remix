@@ -28,9 +28,9 @@ For more detailed information on electronics & hardware needed, please refer to 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
-- x5 - MG90D or MG92B Servos Motors.
+- x5 -Micro Servos
 
-  Note: I have currently been using MG90D servo motors for these parts. I believe the MG92B may work better having a bit more torque, but I don't have enough   on hand at the moment. I will update when I get a chance to try some. 
+  Note: I currently am using x5 MG90D servo motors for these parts. I believe the MG92B may work better having a bit more torque, but I don't have them     just yet. I will update when I get a chance to try them after they arrive.  
 
 - Arduino Nano + Mini B USB Cable (3FT)
 
