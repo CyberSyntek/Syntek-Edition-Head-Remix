@@ -9,7 +9,7 @@ This mechanism could not have been done without the hard work of Will Cogley put
 
 NOTE: This eye mechanism is still compatible with Will's original eyes. You can head over to his site and download his eye files there if you are not planning on using cameras in your build. He also has various videos on his youtube channel relating to eye mechanisms and how to make realistic looking eyes as well as a resin cast kit for his original eyes with the files for those available on his website. 
 
-Will Cogley's Website: http://www.nilheim.co.uk/
+Will Cogley's Website: www.nilheim.co.uk/
 
 Here is a link to Will Cogley's "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino" video. Give it a watch through as it may help as a reference for various things relating to this eye mechanism as well. https://youtu.be/ihXxbQefl1c
 
