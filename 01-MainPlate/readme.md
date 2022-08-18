@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/81597534/183754601-2d7bb311-81e5-410d-
 
 This should give you an idea on how you want your slicer calibrated for printing if you have any issues. I would suggest printing the Calibrator file from the InMoov website before you begin printing everything off. I've also included a potential neck option that you may want to use for your head project, or atleast until you are ready to get it onto the body of your robot. 
 
-InMoov Calibrator - <a href="http://inmoov.fr/wp-content/uploads/2019/01/Calibrator.stl">Calibrator.stl</a>
+InMoov Calibrator - <a href="https://inmoov.fr/wp-content/uploads/2019/01/Calibrator.stl">Calibrator.stl</a>
 
 Jon Bailey's Head Stand - https://www.thingiverse.com/thing:4670770
 
