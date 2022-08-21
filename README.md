@@ -2,6 +2,23 @@ Welcome to the Syntek Edition Head Remix!
 =
 ![TempMainSnip](https://user-images.githubusercontent.com/81597534/185224203-c23ec7ba-048f-4d5d-99dd-087661b16766.PNG)
 
+
+TEMP - BUG HUNT / IMPROVEMENT STATUS
+=
+- I have located a bit of an issue regarding the lateral jaw servo horns getting flexed by the threading on the self tapping screws causing a little bit of offset which resulted in a louder sounding jaw close. It become much more apparent as I began to have the head speak. *tap tap tap*
+
+I have reworked the "servoconnector" part for the jaw to now use m2 bolts and nuts inserts. I haven't uploaded it just yet as I am just waking up and am going to be test running a multiple things today. I'll also be swapping out a few of the MG90D servos I had been using today for some MG92B servos as they have now arrived and they have a bit more torque. 
+
+- The "hingebase" I am experimenting with alterations at the moment also. I'll be testing that today to see if it helps with the above issue at all. 
+
+- TPUbrows file I realized is still fitted for the prior "browsholder" file so I will need to adjust that also. The current ones up should still work without issue, but it should be easier on the servos with the adjustments. 
+
+- If you have explored enough you may have realized I haven't updated the MRL-Files section yet. This is mostly due to the above and wanting to experiment first as servo min/max ranges may alter as I swap different servos. 
+
+- BUG: There is currently a bug in MRL relating to the IdleTimeout: causing some odd movements if the timer is set too low. Luckily none of the motors are under so much strain that we need a low set time out timer so that we can avoid this bug for the moment. The MRL team are aware of it now so we will see if that bug gets squashed eventually. Once I do update the files, the timers will be set to the higher settings I am using so you may not even realize. Just it is a thing, you should be aware. :) 
+
+-08-21-2022 (Morning)
+
 ABOUT
 =
 On this page you will find all of the Syntek edition remixed head stl files, components needed, step by step put together tutorials and information relating to getting it running in myrobotlab (MRL). Future updates and files shall be available here as well. :)
