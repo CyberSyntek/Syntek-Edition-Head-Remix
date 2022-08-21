@@ -17,9 +17,9 @@ I have reworked the "servoconnector" part for the jaw to now use m2 bolts and nu
 
 - BUG: There is currently a bug in MRL relating to the IdleTimeout: causing some odd movements if the timer is set too low. Luckily none of the motors are under so much strain that we need a low set time out timer so that we can avoid this bug for the moment. The MRL team are aware of it now so we will see if that bug gets squashed eventually. Once I do update the files, the timers will be set to the higher settings I am using so you may not even realize. Just it is a thing, you should be aware. :) 
 
-- You may or may not be aware, but I am currently experimenting with various spray paint clear matte coats. For those of you not painting or even painting in none matte paints, this shouldn't matter. I personally do paint my bot and like matte shades due to the non reflective light texures when used on the face. I find more glossy paints to be less photogentic. 
+You may or may not be aware, but I am currently experimenting with various spray paint clear matte coats. For those of you not painting or even painting in none matte paints if using a protective coat,  this shouldn't matter. I personally do paint my bot and like matte shades due to the non reflective light texures when used on the face. I find more glossy paints to be less photogentic. The issue with the matte paint is currently it is getting marked up with the eyebrows moving back and forth. Matte paint generally is very easy to scratch/mark up, so I'm looking for work arounds to still be able to use it. 
 
-I've tried two different matte clear coats so far, both were kind of a miss. The first one darkened the matte paint alot and was much more light reflective. The 2nd one was not much darker, but even more reflective than the first one. The hunt continues. :)
+I've tried two different matte clear coats so far, both were kind of a miss. The first one darkened the matte paint alot and was much more light reflective than I was hoping for. The 2nd brand was not much darker, but even more reflective than the first one. The hunt continues. :)
 
 
 -08-21-2022 (Morning)
