@@ -69,6 +69,8 @@ UPDATES / NOTES
 
 Jaw -  the higher torque MG92B servo is a much better result. The MG90D was not able to handle smaller refined movements due to being over loaded and the jaw would slightly sag without power to the servo. It still works, but more torque has resolved those issues and alloows for limiting the jaw to more so prevent tapping sounds when the robot is speaking. Obviously it is still plastic to plastic at this point so it isn't completely silent without limiting.
 
+Myself or anyone else building this head may want to consider altering the bottom of the front mask and top of the jaw with expanding them slightly inwards so that we can slot in space for small rubber inserts or something along those lines as that would really quiet the jaw down and make calibrating for noise prevention much more of an easy task. 
+
 LateralJaw - no real change. Either work. 
 
 =======================================================
