@@ -12,7 +12,29 @@ The MG90D servos are doing the job just fine, though I am noticing the jaw begin
 
 - x15 - Micro Servo Motors.
 
-These are the micro servo motors I am using currently and the servos I am waiting to experiment with. 
+===================================================
+
+These are where I got the MG90D and MG92B servo motors I am using.
+
+- MG90D Servo Motors - https://www.adafruit.com/product/1143
+
+- MG92B Servo Motors   https://www.adafruit.com/product/2307 
+
+Recommended Micro Servos!
+= 
+- Brows - x4 - MG92B (Seem to run very smooth. MG90Ds had slight buzz from time to time.) 
+
+- Jaw - x1 - MG92B (MG90D will sag a bit without power to the servo and struggles with small amount of degree movements. AKA not enough torque)
+
+- Lat Jaw - x2 - MG92B or MG90D (Either should be fine. I tried both, no huge difference. MG90D MAYBE a bit smoother)
+
+- Eyes - x8 - MG90D (Nice and speedy, not much need for the extra torque, good times.)
+
+- RotNeck - x1 - DS3218 20KG Servo (270° ver) 
+
+===================================================
+
+These are where I got the MG90D and MG92B servo motors I am using.
 
 - MG90D Servo Motors - https://www.adafruit.com/product/1143
 
