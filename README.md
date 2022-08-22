@@ -65,13 +65,33 @@ UPDATES / NOTES
 
 08/22/2022
 =
-- I will be experimenting today further today with the batch of MG92B servos I received. So far I have swapped out the Jaw and LateralJaw MG90D servos for the MG92B servos and the results are listed below.
+EXPERIMENT RESULTS WITH MG92B (slightly higher torque) SERVOS SWAPPED FROM MG90DS IN A FEW LOCATIONS.
 
-Jaw -  the higher torque MG92B servo is a much better result. The MG90D was not able to handle smaller refined movements due to being over loaded and the jaw would slightly sag without power to the servo. It still works, but more torque has resolved those issues and alloows for limiting the jaw to more so prevent tapping sounds when the robot is speaking. Obviously it is still plastic to plastic at this point so it isn't completely silent without limiting.
+- Jaw -  the higher torque MG92B servo is a much better result. The MG90D was not able to handle smaller refined movements due to being over loaded and the jaw would slightly sag without power to the servo. It still works, but more torque has resolved those issues and alloows for limiting the jaw to more so prevent tapping sounds when the robot is speaking. Obviously it is still plastic to plastic at this point so it isn't completely silent without limiting.
 
 Myself or anyone else building this head may want to consider altering the bottom of the front mask and top of the jaw with expanding them slightly inwards so that we can slot in space for small rubber inserts or something along those lines as that would really quiet the jaw down and make calibrating for noise prevention much more of an easy task. 
 
-LateralJaw - no real change. Either work. 
+- LateralJaw - no real change. Either work. 
+
+- Eyebrows - MG92B servos seem to work better for the brows. No buzzing what so ever and handle smoothly. The MG90D servos were doing fine, but they were slightly buzzy once and awhile. MG92B servos are slightly taller than the MG90D servos so they do not fit flat into the holders where you screw them in. Either I'll need to make some printed spacers or adjust the browplate to fit those ultimately as those seem to be the better choice. Whether that is because of the added height angling into the browholders better or the extra torque (Maybe a combo of both?) I'm honestly not sure at this point. However they perform!
+
+The general outlook so far is looking as such. 
+
+- Brows - x4 - MG92B Servos
+
+- Jaw - x1 - MG92B
+
+- Lat Jaw - x2 - MG92B or MG90D (Either should be fine)
+
+- Eyes - x8 - MG90D
+
+- RotNeck - x1 - DS3218 20KG Servo (270° ver) (Unless I find something with a bit more torque that can work well. Will be investigating)
+
+I grabbed my MG92B and MG90D from the Adafruit shop. They shipped quickly and were decently priced. They also restock quickly if ever out of stuff, usually a few days. 
+
+MG92B Servo - https://www.adafruit.com/product/2307
+
+MG90D Servo - https://www.adafruit.com/product/1143
 
 =======================================================
 
