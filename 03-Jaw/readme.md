@@ -16,7 +16,7 @@ JAW - STL FILES
 
 - Jaw
 
-- ServoConnector - x2
+- ServoConnectorV2 - x2  - This part has been updated to take x2 M2x8mm bolts + x2 Nuts. It will look in some pictures below.
 
 ELECTRONICS
 =
@@ -72,6 +72,8 @@ Take x2 M2x20mm Bolts and cut the bolt heads off of them. Screw in the bolt rod 
 HingeBase to ServoConnectors
 =
 
+Note: The servoconnectors are now ServoConnectorsV2 and will appear different. See "Lateral Jaw Servo Horns" below for the updated image. 
+
 First we will insert x2 M2 Nuts into the HingeBase. Ideally we will use a little bit of superglue to keep it held in. Next we will line up the Servo Connectors with the HingeBase and screw in a Mx16 Bolt through to the M2 Nuts. You want the ServoConnectors to still be able to swing around freely so make sure not to over tighten them. Just enough that there is no play between the HingeBase and ServoConnectors. You may also wish to carefully apply a little drop of the on the tip of the bolt where it is connected to the nut so that it doesn't slip over time.
 
 ![01-HingeBase](https://user-images.githubusercontent.com/81597534/183464934-72e2ff89-d336-4fad-b290-4da92b07d21c.png)
@@ -110,9 +112,10 @@ Lateral Jaw Servos and Cutting the Tips
 
 Lateral Jaw Servo Horns
 =
-We will be screwing in x4 M2x8mm Screws from the bottom of the ServoConnectors into the servo horns. The screws will be inserted into the 2nd and 5th from the center of the servo horn holes as seen below.
+We will be screwing in x4 M2x8mm bolts from the top side of the servo horn into the ServoConnectors which are now fit with x2 M2 nuts on the bottom sides. 
+The bolts will be inserted into the 2nd and 5th from the center of the servo horn holes as seen below.
 
-![06-LatJawServoHorns](https://user-images.githubusercontent.com/81597534/183493418-f49a0942-3061-4ca4-8441-9bb5b973f21f.png)
+![V2ServoConnector](https://user-images.githubusercontent.com/81597534/185965476-6d050ca2-4481-4a79-8f04-e14f64da80b5.png)
 
 Zip Ties
 =
