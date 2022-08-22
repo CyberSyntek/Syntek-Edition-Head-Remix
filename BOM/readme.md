@@ -26,7 +26,7 @@ TOTAL SCREWS (Self-Tapping)
 
 - x20 - M2x7mm Screws
 
-- x32 - M2x8mm Screws
+- x28 - M2x8mm Screws
 
 - x6 - M2x10mm Screws
 
@@ -36,11 +36,13 @@ TOTAL SCREWS (Self-Tapping)
 
 TOTAL BOLTS / NUTS
 =
-- x6 - M2x6mm Bolt
+- x6 - M2x6mm Bolts
 
-- x6 - M2x7mm Bolt
+- x6 - M2x7mm Bolts
 
-- x2 - M2x9mm Bolt
+- x4 - M2x8mm Bolts
+
+- x2 - M2x9mm Bolts
 
 - x2 - M2x16mm Bolts
 
@@ -48,7 +50,7 @@ TOTAL BOLTS / NUTS
 
 - x4 - M2x28mm Bolt OR 25mm Threaded Rod 
 
-- x2 - M2 Nuts
+- x6 - M2 Nuts
 
 - x8 - M3x12 Bolts
 
