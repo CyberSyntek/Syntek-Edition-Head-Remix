@@ -24,7 +24,7 @@ Recommended Micro Servos!
 = 
 - Brows - x4 - MG92B (Seem to run very smooth. MG90Ds had slight buzz from time to time.) 
 
-- Jaw - x1 - MG92B (MG90D will sag a bit without power to the servo and struggles with small amount of degree movements. AKA not enough torque)
+- Jaw - x1 - MG92B (MG90D will sag a bit without power to the servo and struggles with small amount of degree movements. AKA not enough torque, but will work.)
 
 - Lat Jaw - x2 - MG92B or MG90D (Either should be fine. I tried both, no huge difference. MG90D MAYBE a bit smoother)
 
