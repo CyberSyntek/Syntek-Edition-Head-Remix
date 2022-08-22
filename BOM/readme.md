@@ -30,7 +30,7 @@ Recommended Micro Servos!
 
 - Eyes - x8 - MG90D (Nice and speedy, not much need for the extra torque, good times.)
 
-- RotNeck - x1 - DS3218 20KG Servo (270° ver) 
+- RotNeck - x1 - DS3218 20KG Servo (270° ver)    (May investigate slightly higher torque options still)
 
 TOTAL SCREWS (Self-Tapping)
 =
