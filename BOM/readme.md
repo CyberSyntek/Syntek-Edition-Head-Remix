@@ -32,14 +32,6 @@ Recommended Micro Servos!
 
 - RotNeck - x1 - DS3218 20KG Servo (270° ver) 
 
-===================================================
-
-These are where I got the MG90D and MG92B servo motors I am using.
-
-- MG90D Servo Motors - https://www.adafruit.com/product/1143
-
-- MG92B Servo Motors   https://www.adafruit.com/product/2307 
-
 TOTAL SCREWS (Self-Tapping)
 =
 - x6 - M2x5mm Screws
