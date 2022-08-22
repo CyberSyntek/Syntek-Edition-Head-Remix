@@ -24,15 +24,17 @@ ELECTRONICS
 
 SCREWS / BOLTS / CONNECTORS
 =
-- x8 - M2x8mm Screws 
+- x4 - M2x8mm Screws 
 
 - x4 - M2x12mm Screws
+
+- x4 - M2x8mm Bolts
 
 - x2 - M2x16mm Bolts 
 
 - x2 - M2x20mm Bolts 
 
-- x2 - M2 Nuts
+- x6 - M2 Nuts
 
 - x4 - Servo Screws
 
