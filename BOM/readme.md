@@ -22,6 +22,10 @@ These are where I got the MG90D and MG92B servo motors I am using.
 
 Recommended Micro Servos!
 = 
+*EDIT* I HAVE NO IDEA!~ haha. Working on it. Now that I have played with the MG92Bs in there, they are great.........at full speed! Now that I have experimented with wider ranged of speeds I can say that they are very jittery at slower speeds. No buzzing, but jittery movements. GaH~ Looking into other servo options now. 
+
+The list below was prior to testing them at slower speeds. 
+
 - Brows - x4 - MG92B (Seem to run very smooth. MG90Ds had slight buzz from time to time.) 
 
 - Jaw - x1 - MG92B (MG90D will sag a bit without power to the servo and struggles with small amount of degree movements. AKA not enough torque, but will work.)
