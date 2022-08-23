@@ -65,6 +65,14 @@ UPDATES / NOTES
 
 08/22/2022
 =
+
+*EDIT* ALL OF THE BELOW WAS WRITTEN PRIOR TO TESTING MG92Bs AT VARIOUS SPEEDS. 
+
+I had ran everything at full speed mostly looking for buzzing and making sure they performed well. THey do........ at full speed. Once I started experimenting with different speeds, wow.... they are jittery at slow speeds. I.... urggg. lol. Not sure what to do think right now and looking into other servo options. I almost perfered the MG90Ds as they ran smooth at any range. The jaw would slightly sag without power to the servo, but was smooth moving at all speeds. The main issue was it didn't have enough torque to do fine small movements which resulted in louder jaw closing tapping sounds which wasn't great for speaking. I'm actually working on a work around to help prevent any jaw noises regardless of which servo is used right now so... if that works...., might even be able to prevent the under power jaw sag with an elastic band. XD 
+
+Will further update upon more experiments. 
+
+
 EXPERIMENT RESULTS WITH MG92B (slightly higher torque) SERVOS SWAPPED FROM MG90DS IN A FEW LOCATIONS.
 
 - Jaw -  the higher torque MG92B servo is a much better result. The MG90D was not able to handle smaller refined movements due to being over loaded and the jaw would slightly sag without power to the servo. It still works, but more torque has resolved those issues and alloows for limiting the jaw to more so prevent tapping sounds when the robot is speaking. Obviously it is still plastic to plastic at this point so it isn't completely silent without limiting.
