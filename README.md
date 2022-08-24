@@ -63,6 +63,11 @@ Note: Future updates to this section will be listed below under "UPDATES".
 UPDATES / NOTES
 = 
 
+08/24/2022
+=
+Updated the Jaw.stl. The holes on the last file were a bit on the looser side and have been tightened up on current one. 
+
+
 08/22/2022
 =
 
