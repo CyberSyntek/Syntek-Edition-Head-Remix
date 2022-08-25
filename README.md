@@ -62,6 +62,13 @@ Note: Future updates to this section will be listed below under "UPDATES".
 
 UPDATES / NOTES
 = 
+08/25/2022
+=
+I found some minor alignemnt issues with the jaw and went through all parts and fixed to make perfectly aligned. My apologies to anyone who printed so far, they should still work just these ones will be right on the money for anyone as picky as myself. :)
+
+The updated files for the new jaw are in the "ExperimentJaw" folder. The jaw piece itself has a thicker lip and is meant to go with the insert for the FrontSkull which is also located in that file. This is still in the experiment stage, but should drastically reduce noise produced by the jaw.   
+
+Just like all current files, please print at your own risk as things are still in development. Once confirmed these files all work well I will move them to the 03-Jaw folder and update the files there.
 
 08/24/2022
 =
