@@ -1,4 +1,4 @@
-WARNING: I am currenly reformating the jaw and experimenting with it a bit. The files below will be changed within the next few days I imagine.
+WARNING: I am currenly reformating the jaw and experimenting with it a bit. The files below will be changed within the next few days I imagine. The components will remain the same. Possibly adding 6x2mm rubber bumbers into the jaw if the experiment goes well.
 
 JAW - STL FILES
 =
