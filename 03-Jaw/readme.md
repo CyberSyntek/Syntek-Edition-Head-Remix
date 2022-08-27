@@ -14,7 +14,7 @@ JAW - STL FILES
 
 - HingeLink
 
-- Jaw - (V2 Jaw modified to fit Adjustable1daptor.stl from the skull page. 
+- Jaw - (V2 Jaw modified to fit AdjustableInsert.stl from the skull page. 
 
 - ServoConnectorV2 - x2  - This part has been updated to take x2 M2x8mm bolts + x2 Nuts. It will look in some pictures below.
 
