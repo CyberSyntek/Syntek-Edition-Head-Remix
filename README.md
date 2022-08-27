@@ -62,6 +62,21 @@ Note: Future updates to this section will be listed below under "UPDATES".
 
 UPDATES / NOTES
 = 
+
+08/27/2022
+=
+The jaw files from 03-Jaw have been updated. There were some slignt alignement issues in the previous files which have been fixed up. The jaw lip is thickened up to work with the AdjustableInsert.stl in the 05-Skull folder to allow for adjustable rubber inserts to be placed in the upper jaw to silence it any banging noise. 
+
+The Eyeball-Cam1Fit.stl file has also been updated as there was a slight layer gap in the original file. It seemed to print fine, but that gap is now filled. I also added an alternative eyeball design for those wanting some variation. It is the same eye fit for the same camera, but has some grooves cut into it for a slightly different look. "Eyeball-Cam1Fit-Design1.stl"
+
+I haven't got around to updating the images to match the new parts yet, so if you notice the differences or wonder why, THAT is why. :)
+
+Other news. 
+
+- 2/3 of the experimental servos I have ordered to test have arrived, I'll compare them all soon. 
+
+- I believe I found a decent Matte paint protection spraypaint for protecting against the eyebrows marking up matte paints.... for those who paint their prints in matte anyway. 3rd brand seemed to be the charm. Krylon - Clear Matte. Still need to repaint everything and test it to make sure it is scratch resistant enough, but so far it isn't nearly as shiny as the other matte clear coats and doesn't seem to darken the paint like the last two. 
+
 08/25/2022
 =
 I found some minor alignemnt issues with the jaw and went through all parts and fixed to make perfectly aligned. My apologies to anyone who printed so far, they should still work just these ones will be right on the money for anyone as picky as myself. :)
