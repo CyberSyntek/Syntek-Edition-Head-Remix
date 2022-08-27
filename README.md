@@ -71,6 +71,15 @@ The Eyeball-Cam1Fit.stl file has also been updated as there was a slight layer g
 
 I haven't got around to updating the images to match the new parts yet, so if you notice the differences or wonder why, THAT is why. :)
 
+- I just added Eyeball-Cam2Fit.stl and Eyeball-Cam2Fit-Design1.stl which are fit for a different camera type and hook up. I will update the info once I have further explored how to connect it. This camera was a Ray Edgely request so he may have more info on how to connect it. :)
+
+![RayCam](https://user-images.githubusercontent.com/81597534/187042699-c93ead60-17f0-4fe1-8bd2-d3e1fb40845b.PNG)
+
+The camera it is fit for is as seen in the link below.
+
+Arducam 1/4 Inch 5 Megapixels Sensor Mini Camera Module with Flex Cable for Raspberry Pi: https://a.co/d/bh3joRY
+
+
 Other news. 
 
 - 2/3 of the experimental servos I have ordered to test have arrived, I'll compare them all soon. 
