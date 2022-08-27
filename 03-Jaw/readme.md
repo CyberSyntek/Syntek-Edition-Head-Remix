@@ -2,6 +2,8 @@ JAW - STL FILES
 =
 ![JawFiles](https://user-images.githubusercontent.com/81597534/183479150-c991de2e-8afb-4c7f-ba01-019cae687711.png)
 
+WARNING: Some of the files may look different than the original tutorial as they have been updated and adjusted to meet other changes in the build so far. I will update the images to match the parts eventually. 
+
 - BallLinkConnector
 
 - Hinge-L
