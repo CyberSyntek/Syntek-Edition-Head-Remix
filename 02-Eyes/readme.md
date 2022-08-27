@@ -31,7 +31,13 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 - EyeAdaptor.stl
 
-- Eyeball-CamFitV1.stl (Requires Supports)
+- Eyeball-Cam1Fit.stl  (Requires Supports)
+
+- Eyeball-Cam1Fit-Design1.stl (Requires Supports) This is the same version as the file above with a design cut into it.
+
+- Eyeball-Cam2Fit.stl  (Requires Supports) - This is for a different camera. Info will be listed soon. 
+
+- Eyeball-Cam2Fit-Design1.stl (Requires Supports) This is the same version as the file above with a design cut into it.
 
 - EyeHolder.stl
 
