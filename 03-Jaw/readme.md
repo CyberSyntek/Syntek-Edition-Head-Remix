@@ -1,5 +1,3 @@
-WARNING: I am currenly reformating the jaw and experimenting with it a bit. The files below will be changed within the next few days I imagine. The components will remain the same. Possibly adding 6x2mm rubber bumbers into the jaw if the experiment goes well.
-
 JAW - STL FILES
 =
 ![JawFiles](https://user-images.githubusercontent.com/81597534/183479150-c991de2e-8afb-4c7f-ba01-019cae687711.png)
@@ -16,7 +14,7 @@ JAW - STL FILES
 
 - HingeLink
 
-- Jaw
+- Jaw - (V2 Jaw modified to fit Adjustable1daptor.stl from the skull page. 
 
 - ServoConnectorV2 - x2  - This part has been updated to take x2 M2x8mm bolts + x2 Nuts. It will look in some pictures below.
 
