@@ -10,6 +10,8 @@ STL FILES
 = 
 ![SkullPartsImage](https://user-images.githubusercontent.com/81597534/185001643-9cd4e122-26e0-4864-968c-ccb29990dd65.png)
 
+WARNING: Some of the files may look different than the original tutorial as they have been updated and adjusted to meet other changes in the build so far. I will update the images to match the parts eventually. 
+
 - FrontSkull.stl (Requires Supports)
 
 - BackSkull.stl (Requires Supports)  Note: Printable as is, but I plan on making a more print friendly version eventually. 
