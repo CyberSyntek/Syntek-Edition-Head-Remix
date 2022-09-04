@@ -63,6 +63,25 @@ Note: Future updates to this section will be listed below under "UPDATES".
 UPDATES / NOTES
 = 
 
+09/04/2022
+=
+
+I'm currently making a JX Servo edition of this head which will use the following servos to replace MG90D/MG92B. 
+
+- x12 - JX PDI-1109
+
+- x3 - JX PDI-1181
+
+The PDI-1181 is a slightly larger servo so it will have more torque on all 3 jaw motors. The JX servos seem to be the quiested, no buzz and better performance servos out of the 7 different micro servos I bought and tested. They should really improve overall performance in general. 
+
+I will leave the current stuff available also for those wishing to use MG90D/MG90S type servos, but eventually I will be leaning more towards the JX servo set up as that is what I will be using and calibrating/coding with. 
+
+I'll also be putting up an adaptor/frontskull merged file which will allow me to cut some of the widened jaw side down to help with the look. It will be optional of course. 
+
+I've also made an optional 2nd edition of the jaw cover which has x4 screw holes slotted in it with an additional fit to jaw size teeth file for those of you wanting to add lower jaw teeth. They can be scary, but fun... I haven't tested the refit teeth in my head yet as I'm waiting on most of my JX servos to arrive still.  
+
+Lots to come shortly. :)
+
 08/27/2022
 =
 The jaw files from 03-Jaw have been updated. There were some slignt alignement issues in the previous files which have been fixed up. The jaw lip is thickened up to work with the AdjustableInsert.stl in the 05-Skull folder to allow for adjustable rubber inserts to be placed in the upper jaw to silence it any banging noise. 
