@@ -63,6 +63,26 @@ Note: Future updates to this section will be listed below under "UPDATES".
 UPDATES / NOTES
 = 
 
+11/21/2022
+=
+
+My goodness, there has been ALOT of chaos in my life recently. My apologies for not having further updated recently. LOTS of issues with my current landlord and urggg, things became chaotic. 
+
+Anyway, as just a small update, I have aded the current files I am using which I mentioned in the previous update note below that use the JX PDI-1109 x12 and JX PDI-1181 x3 servos into a temp folder located at https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/JXrefit. 
+
+Using these servos and files greatly helps performance in general. The previous jaw servos needed more torque to perform well so those have been upgraded to the PDI-1181 fit. (Slightly larger/more torque) as well as the rest of the head using PDI-1109 servos which are very slightly differently sides than MG90 size servos hence needing to refit ... everything. :D
+
+I haven't ran into any issues with them yet, no buzzing at any time, just smooth servo glory. 
+
+On that note I will be reworking this github page to use the JX refit parts and servos when I get the time and making the MG90 sized versions a thing of the past. Though I will likely leave them up in a seperate folder as an option for people still wanting to use those. 
+
+- I also added the Teeth Fit Hinge Cover and Teeth as an option for people wishing to have lower jaw teeth. 
+https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/03-Jaw/TeethFitHingeCover
+
+I am currently experimenting with MRL with the help of the MRL team and beginning to tackle more of the software sides of things. Once I have made more progress on that I will start to put together a more plug and play Service setup to make using this head much easier for everyone to use within MRL. Hopefully I can add that stuff at the same time as the tutorial reworks come into play. 
+
+Hopefully things will not be as crazy as they have been as of recently and the tutorial reworks and further updates will keep coming. 
+
 09/04/2022
 =
 
