@@ -68,9 +68,9 @@ UPDATES / NOTES
 
 My goodness, there has been ALOT of chaos in my life recently. My apologies for not having further updated recently. LOTS of issues with my current landlord and urggg, things became chaotic. 
 
-Anyway, as just a small update, I have aded the current files I am using which I mentioned in the previous update note below that use the JX PDI-1109 x12 and JX PDI-1181 x3 servos into a temp folder located at https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/JXrefit. 
+- I have added the current files I am using which I mentioned in the previous update note below that use the JX PDI-1109 x12 and JX PDI-1181 x3 servos into a temp folder located at https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/JXrefit. 
 
-Using these servos and files greatly helps performance in general. The previous jaw servos needed more torque to perform well so those have been upgraded to the PDI-1181 fit. (Slightly larger/more torque) as well as the rest of the head using PDI-1109 servos which are very slightly differently sides than MG90 size servos hence needing to refit ... everything. :D
+Using these servos and files greatly helps performance in general. The previous jaw servos needed more torque to perform well so those have been upgraded to the PDI-1181 fit. (Slightly larger/more torque) as well as the rest of the head using PDI-1109 servos which are very slightly differently sizes than MG90 size servos hence needing to refit ... everything. :D
 
 I haven't ran into any issues with them yet, no buzzing at any time, just smooth servo glory. 
 
