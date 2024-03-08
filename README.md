@@ -5,6 +5,11 @@ Welcome to the Syntek Edition Head Remix!
 
 TEMP WARNING.
 =
+
+If you have just discovered this page, I would like to tell you that this pages information is very outdated! I will be updated a few parts and this info hopefully later this week! - 03/08/2024
+
+============
+
 While all the files are here and the head is available for you to make now, it is still in the early phase of me experimenting with it so do be warned that minor changes and updates may occur over the following few weeks as I futher play with it and look for improvements. So far everything works for the most part, but slight alterations may still need to happen for performance improvement. I will remove this "TEMP WARNING" section once I have explored a bit more.
 
 I have added an UPDATES/NOTES section at the bottom of this page to help keep you upto date with changes, updates, improvements, added things, etc 
