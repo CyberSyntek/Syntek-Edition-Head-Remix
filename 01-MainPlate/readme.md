@@ -2,7 +2,11 @@ MainPlate - STL FILES
 =
 ![MainPlate](https://user-images.githubusercontent.com/81597534/183752240-8e866ab5-efb3-4dbc-b19b-7516e2899bb9.png)
 
-- MainPlate.stl
+- MainPlate-JXedit.stl  (If using JX PDI-1181 servos)
+
+NOTE: MainPlate-JXedit.stl is recommended to use instead of MainPlate.stl as it uses the more current servo set up.
+
+- MainPlate.stl (Out dated - Was made for micro servos such as MG90D or MG92B) - I'll leave here as an option. 
 
 - BaseConnector.stl - x12
 
