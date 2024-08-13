@@ -38,6 +38,8 @@ https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
 - MPU6050 (Currenly optional. It is slotted on the BrowPlate if wanting to experiment.)
 
+- Raspi Zero W
+
 SCREWS / BOLTS / CONNECTORS
 =
 - x6  - M2x5mm Screws
@@ -144,9 +146,7 @@ At this stage the head should be looking like a bad hair day. If yours resembles
 
 Servo Cables to PCA9685
 =
-Now want to begin connecting the servo wires to the PCA9685. If you are planning on using my setup so that you are able to use any of the files I write up for the head to use with myrobotlab (nixie) then you will want to plug them in according to the pin layout shown below.
-
-![PCA9685Layout](https://user-images.githubusercontent.com/81597534/184562621-ab86552a-33be-4cf7-be9b-b51eb6afa6e3.png)
+Now want to begin connecting the servo wires to the PCA9685.
 
 On the PCA9685Mount file you will see the open area on the left side highlighted in the red circle. We will want to slide the following servo cables through that area. You should be able to fit them all in withough too much trouble. The last one or two can get a bit tight so give other cables slack as needed to help them be able to slide up. 
 
