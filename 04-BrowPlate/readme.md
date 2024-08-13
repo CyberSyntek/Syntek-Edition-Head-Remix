@@ -2,11 +2,15 @@ BROWPLATE- STL FILES
 =
 ![BrowPlatePieces](https://user-images.githubusercontent.com/81597534/184551367-bfd048d5-0dfe-45dc-8314-b08591e4f559.png)
 
+- BrowPlate-JXedit.stl (THIS IS THE MOST UPTO DATE AND USES THE RECOMMENDED SERVOS FROM THE BOM!)
+
+I suggest using the file above with the recommended servos instead, but I will leave the prior version so the option is still open.
+
+- BrowPlate.stl (If using MG90D sized servos)
+
 - BrowHolderL-V1.stl
 
 - BrowHolderR-V1.stl
-
-- BrowPlate.stl
 
 - MagnetHolder.stl x4
 
@@ -28,17 +32,11 @@ For more detailed information on electronics & hardware needed, please refer to 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
-- x5 -Micro Servos
+- x4 - JX PDI-1109 Servos.
 
-  Note: I currently am using x5 MG90D servo motors for these parts. I believe the MG92B may work better having a bit more torque, but I don't have them     just yet. I will update when I get a chance to try them after they arrive.  
+- x1 - JX PDI-1181 Servo. 
 
-- Arduino Nano + Mini B USB Cable (3FT)
-
-- PCA9685
-
-- Raspberry Pi Zero W + SD Card + Micro USB (3ft) if not included with Raspi Zero W. 
-
-- MPU6050 (Currenly optional. It is slotted on the BrowPlate, but I need to experiment still)
+- MPU6050 (Currenly optional. It is slotted on the BrowPlate if wanting to experiment.)
 
 SCREWS / BOLTS / CONNECTORS
 =
