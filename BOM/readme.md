@@ -1,40 +1,27 @@
-#Note - Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
-
-SERVOS REQUIRED
+RECOMMENDED SERVOS
 =
-We will need a total of 15 micro servo motors for this head as well as a more standard sized 20kg servo. There are many options out there for roughly same sized micro servos, but please double check sizes of other brand servos to make sure they will fit correctly or not as some spaces do require roughly this size.
 
-I am currently using x15 MG90D servos in my head, but I have some MG92B servos ordered and on the way. They have slightly higher torque and I'm going to experiment with using them in a few locations.
+You can likely use MG90S/MG90D/etc sized servos in place of the JX PDI-1109 servos without much issue.
 
-The MG90D servos are doing the job just fine, though I am noticing the jaw beginning to open without power to the servos a little bit. While this isn't an issue and can likely be fixed with an elastic band, I am hoping the MG92B's torque will prevent that from happening at all. I will update with confirmation once I have tested them in those spots.
+JX PDI-1109 is still recommended as they are very slightly smaller, but more importantly, are quieter and sound less annoying. 
+
+- JX PDI-1109 - x12
+
+- JX PDI-1181 - x3
 
 - x1 - DS3218 20KG Servo (270° ver) - https://a.co/d/8i4HSLo
 
-- x15 - Micro Servo Motors.
-
-===================================================
-
-These are where I got the MG90D and MG92B servo motors I am using.
-
-- MG90D Servo Motors - https://www.adafruit.com/product/1143
-
-- MG92B Servo Motors   https://www.adafruit.com/product/2307 
-
-Recommended Micro Servos!
+RECOMMENDED SERVOS PER MECHANISM
 = 
-*EDIT* I HAVE NO IDEA!~ haha. Working on it. Now that I have played with the MG92Bs in there, they are great.........at full speed! Now that I have experimented with wider ranged of speeds I can say that they are very jittery at slower speeds. No buzzing, but jittery movements. GaH~ Looking into other servo options now. 
+- Brows - x4 - JX PDI-1109
 
-The list below was prior to testing them at slower speeds. 
+- Jaw - x1 - JX PDI-1181
 
-- Brows - x4 - MG92B (Seem to run very smooth. MG90Ds had slight buzz from time to time.) 
+- Lateral Jaw - x2 - JX PDI-1181
 
-- Jaw - x1 - MG92B (MG90D will sag a bit without power to the servo and struggles with small amount of degree movements. AKA not enough torque, but will work.)
+- Eyes/Eyelids - x8 - JX PDI-1109
 
-- Lat Jaw - x2 - MG92B or MG90D (Either should be fine. I tried both, no huge difference. MG90D MAYBE a bit smoother)
-
-- Eyes - x8 - MG90D (Nice and speedy, not much need for the extra torque, good times.)
-
-- RotNeck - x1 - DS3218 20KG Servo (270° ver)    (May investigate slightly higher torque options still)
+- RotNeck - x1 - DS3218 20KG Servo (270° ver) 
 
 TOTAL SCREWS (Self-Tapping)
 =
@@ -84,6 +71,11 @@ TOTAL SERVO SCREWS
 
 OTHER HARDWARE
 =
+
+Links included are just for reference. If you can them find locally, cheaper or similar parts more easily, then please do so.
+
+I likely won't be checking this page too often for expired links. 
+
 - x4 - Du-Bro (2135) 2-56 x 1/2 Swivel Ball Link - https://a.co/d/0GZyHuL
 
   You can also use M2 Swivel Ball Links
@@ -106,21 +98,46 @@ OTHER HARDWARE
 
 ELECTRONICS
 =
+WARNING: I have stopped using the PCA9685 and Arduino Nano on this project. You are still able to use them, but I would recommend against doing so.
+
+- A power supply. (This may vary depending on how you are setting your head up/ If just head or head on body and more servos.)
+
+The servos we are using are recommended to run at 6V. I would suggest using a 6V power supply or battery with as many amps as needed for your servos.
+
+- Cables from power supply to terminal block on the PCA9685 to power the servo motors.   
+  
+- x1 - MPU6050 (OPTIONAL) - https://a.co/d/gO6KlX1 (There is a slot for one in the head, though I haven't experimented with it yet). 
+
+IF USING PCA9685
+=
 - x1 - Arduino Nano (Brand or Generic)- https://a.co/d/9V0zZ5S  (I'm using generic without issue.)
 
 - x1 - Mini B USB Cable (3FT) for the Arduino Nano - https://a.co/d/219j3qb
 
   If using either Jon Bailey's headstand set up (https://www.thingiverse.com/thing:4670770) or have the head attached to the body of your Inmoov (...I         think), 3FT should give you plenty of room to work with. The Mini B USB cable provided with the Arduino Nano will be too short. 
 
+- Reason: PCA9685 seems to suffer from issues when applying speed reductions to your servos. / Servos jitter when running at slower speeds.  
+
 - x1 - PCA9685 (16-Channel 12-bit PWM/Servo Driver) - https://a.co/d/cDNK8FY / https://www.adafruit.com/product/815
 
-  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with         components and or presoldered or not. I sourced my PCA9685 locally. Be sure to read comments from customers on cheaper model pages as some sellers have       used very cheap components on their versions and could fail or burn. I'm sure there are some great cheaper ones there, but always test them before     installing them into your robot.  
-  
-- A power supply. This may vary depending on how you are setting your head up. I gave some suggestions in the "Beginners guide to moving servos with a PCA9685 and MYROBOTLAB" youtube video on the main page.
+  These are available from various sellers, though the adafruit versions seem to be reliable. I'm not sure if the adafruit versions come included with components and or presoldered or not. I sourced my PCA9685 locally.
 
-- Cables from power supply to terminal block on the PCA9685 to power the servo motors.   
-  
-- x1 - MPU6050 - https://a.co/d/gO6KlX1 (There is a slot for one in the head, though I haven't experimented with it yet or included it in the service I have set up in the "MRL-Files" folder yet. (To be updated hopefully!)
+IF USING ARDUINO MEGA SENSOR SHIELD
+= 
+
+- Arduino Mega (Brand or Generic)
+
+This is what I am currently using in place of the PCA9685. It is too large to fit inside the head, but does not have any of the above issues. 
+
+- Arduino Mega Sensor Shield - https://www.keyestudio.com/products/free-shipping-keyestudio-mega-sensor-shield-v1-for-arduino-mega
+
+These are also available on Amazon which is where I bought mine.
+
+WARNING: If using this sensor shield, you MUST remove the jumper pin while powering the board with an external power supply. 
+
+ ![SensorJumper](https://github.com/user-attachments/assets/741e6fe5-23a6-4f28-b9bb-4d638d253e10)
+
+The Arduino mega will be USB powered, shield powered from your power supply. (Remove jumper as to not bridge both power supplies.)
 
 PUPIL CAMERA RELATED ITEMS
 =
@@ -132,7 +149,7 @@ The following items are required for my current setup.
 
 - x1 - Raspberry Pi Zero W - https://a.co/d/f5wQHNF
 
-  Raspberry Pi Zero, Zero W and Zero 2 W? should all work. There seems to be a shortage of them available during the time of writing this, but using what       ever you can locate should do the job.
+  Raspberry Pi Zero and Zero 2 W may also work? I have never used or tried them, so use at own risk.  
 
 - x1 - SD Card
 
@@ -140,11 +157,11 @@ The following items are required for my current setup.
 
 - x1 - 8MP Camera Module for Raspberry Pi 77.6° Wide Angle Field View Camera Module for Raspberry Pi - https://a.co/d/1mauetZ 
 
-  The link description says 5MP for some reason, but the cam cable has 8MP written on it as well as the comments confirming 8MP. These are available from       various sellers. 
+  The link description says 5MP for some reason, but the cam cable has 8MP written on it as well as the comments confirming 8MP. These are available from various sellers. 
 
 - x1 - Raspberry Pi Camera Module V2 - https://a.co/d/2dx2Vhr
 
-  Make sure you are using the V2. Unfortunetly it is very difficult to find just these boards without a camera included as we will NOT be using the included   camera due to needing a longer cable to be able to reach into the eyeball with enough cable slack to still function.
+  Make sure you are using the V2. Unfortunetly it is very difficult to find just these boards without a camera included as we will NOT be using the included camera due to needing a longer cable to be able to reach into the eyeball with enough cable slack to still function.
 
 - x1 - 11.8" (30cm) Raspberry Pi Zero Camera Ribbon Flex Extension Cable - https://a.co/d/2RXyKAD
 
@@ -158,9 +175,6 @@ I recommend the following youtube video as a walkthrough for getting your Raspbe
 
 The link she included in the video description is not the same as what she uses in the video. Here is the correct link to save you any headaches. https://github.com/showmewebcam/showmewebcam/tags
 
-===========================================================================
-
-NOTE: As this project progresses there will be other options available for how to set up other cameras and different connection methods available also. 
 
 TOTAL NEODYMIUM MAGNETS
 =
@@ -176,4 +190,3 @@ Other options of that brand would be to get a pack of each of the sizes used if 
 
 - Neodymium Magnets (6x3mm) - https://a.co/d/bWqNBsL
 
-I will explore other potential sellers at some point and or list other potential options that others have located here in the future. 
