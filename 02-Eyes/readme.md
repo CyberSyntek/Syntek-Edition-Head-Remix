@@ -19,7 +19,7 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 ![EyepartsDisplay](https://user-images.githubusercontent.com/81597534/183741857-ce01d005-8207-4b04-9cdb-a2d95ebeae02.png)
 
-- Base.stl
+- Base.stl (If using JX PDI-1109, please print Base-JXedit.stl instead.)
 
 - BaseBeam.stl x3
 
@@ -39,9 +39,9 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 - Eyeball-Cam2Fit-Design1.stl (Requires Supports) This is the same version as the file above with a design cut into it.
 
-- EyeHolder.stl
+- EyeHolder.stl (If using JX PDI-1109, please print EyeHolder-JXedit.stl instead.)
 
-- EyelidHolder.stl
+- EyelidHolder.stl 
 
 - EyeLink.stl x2
 
@@ -49,7 +49,7 @@ You will need the following files for both the Left and Right eyes. Example: L-B
 
 - RasCamModuleHolder.stl
 
-- ServoHolder.stl
+- ServoHolder.stl (If using JX PDI-1109, please print ServoHolder-JXedit.stl instead.)
 
 - SmallPivot.stl (Supports can help)
 
@@ -63,7 +63,11 @@ For more detailed information on electronics & hardware needed, please refer to 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/BOM
 
-- x4 - Micro Servo Motors (I am currently using x4 MG90D servos per eye) - Total Needed = x8
+- x8 - Micro Servos. / x4 per eye. (ATTENTION: Originally I was using MG90D servos, later moved to using JX PDI-1109 servos.) 
+
+Please print according to which servos you are using. 
+
+  EXAMPLE: If using "JX PDI-1109" you will print "Base-JXedit.stl" /// If using "MG90D", print "Base.stl".
 
   NOTE: It is possible to put cameras in both eyes, but you really only need one.
 
@@ -324,7 +328,3 @@ NOW YOUR EYE MECHANISM IS FINISHED!
 It is time to begin setting up the Jaw. This tutorial will be continued in the "03-Jaw" folder section page. 
 
 https://github.com/CyberSyntek/Syntek-Edition-Head-Remix/tree/main/03-Jaw
-
-*TO BE UPDATED*
-=
-- Alternative Camera fit eyes (I will be adding another camera fit eye file option in the near future) 
