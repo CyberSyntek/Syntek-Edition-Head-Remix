@@ -4,6 +4,10 @@ JAW - STL FILES
 
 WARNING: Some of the files may look different than the original tutorial as they have been updated and adjusted to meet other changes in the build so far. I will update the images to match the parts eventually. The put together is still the same, just slightly altered a few parts for better functionality.
 
+- ServoConnector-JXedit.stl x2 - IF USING RECOMMENDED SERVOS FROM BOM, PRINT THIS!
+
+- ServoConnectorV2 - x2  - If using the above, you do not need to print these. These were for original MG90D servo builds.
+
 - BallLinkConnector
 
 - Hinge-L
@@ -18,11 +22,12 @@ WARNING: Some of the files may look different than the original tutorial as they
 
 - Jaw - (V2 Jaw modified to fit AdjustableInsert.stl from the skull page. 
 
-- ServoConnectorV2 - x2  - This part has been updated to take x2 M2x8mm bolts + x2 Nuts. It will look in some pictures below.
+
 
 ELECTRONICS
 =
-- x2 - Micro Servos (Currenly I'm using x2 MG90D servos)
+
+- x2 - JX PDI-1181 servos. (Lateral Jaw). 
 
 SCREWS / BOLTS / CONNECTORS
 =
